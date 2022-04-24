@@ -18,6 +18,10 @@ Proceedings of the SPIE (The International Society for Optical Engineering) http
 
 Remote Sensing https://readpaper.com/paper/3206814941
 
+(2021) Adversarial Attacks against a Satellite-borne Multispectral Cloud Detector
+
+https://arxiv.org/pdf/2112.01723.pdf
+
 (2022) Physical Adversarial Attacks on an Aerial Imagery Object Detector
 
 IEEE Winter Conference on Applications of Computer Vision https://readpaper.com/paper/3194110702
