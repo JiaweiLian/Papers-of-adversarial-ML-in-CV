@@ -54,6 +54,50 @@ ICLR https://readpaper.com/paper/2810192346
 
 ### 1.2 Object detection
 
+#### 1.2.1 Digital attack
+
+##### 1.2.1.1 Untargeted attack
+
+(2019) DPATCH: An Adversarial Patch Attack on Object Detectors
+
+AAAI https://readpaper.com/paper/2890054895
+
+##### 1.2.1.2 Targeted attack
+
+(2017) Adversarial Examples for Semantic Segmentation and Object Detection
+
+ICCV https://readpaper.com/paper/2950774971
+
+#### 1.2.2 Physical attack
+
+(2018) ShapeShifter: Robust Physical Adversarial Attack on Faster R-CNN Object Detector
+
+ECML https://readpaper.com/paper/3105806188
+
+##### 1.2.2.1 Untargeted attack
+
+(2017) Adversarial Examples that Fool Detectors
+
+arXiv https://readpaper.com/paper/2775467454
+
+(2019) Fooling Automated Surveillance Cameras: Adversarial Patches to Attack Person Detection
+
+CVPR https://readpaper.com/paper/2963726920
+
+(2020) Making an Invisibility Cloak: Real World Adversarial Attacks on Object Detectors
+
+ECCV https://readpaper.com/paper/2982663445
+
+##### 1.2.2.2 Targeted attack
+
+(2017) Adversarial Patch
+
+NIPS https://readpaper.com/paper/2804566015
+
+(2018) Physical Adversarial Examples for Object Detectors
+
+USENIX Security Symposium https://readpaper.com/paper/2964175514
+
 ### 1.3 Face recognition
 
 (2016) Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition
@@ -96,13 +140,33 @@ ICLR https://readpaper.com/paper/2964197269
 
 ICLR https://readpaper.com/paper/2767962654
 
+(2019) Feature Denoising for Improving Adversarial Robustness
+
+CVPR https://readpaper.com/paper/2903785932
+
 ### 2.1 Adversarial training
+
+(2018) Towards Deep Learning Models Resistant to Adversarial Attacks
+
+ICLR https://readpaper.com/paper/2964253222
+
+(2019) On the convergence and robustness of adversarial training
+
+ICML https://readpaper.com/paper/2945793108
+
+(2019) Adversarial training for free
+
+NIPS https://readpaper.com/paper/2970317235
 
 (2022) LAS-AT: Adversarial Training with Learnable Attack Strategy 
 
 CVPR https://arxiv.org/pdf/2203.06616.pdf
 
 ## 3. Review
+
+(2020) Benchmarking Adversarial Robustness on Image Classification
+
+CVPR https://readpaper.com/paper/3034214559
 
 (2021) Adversarial Machine Learning in Image Classification: A Survey Toward the Defender’s Perspective 
 
