@@ -4,6 +4,22 @@
 
 ### 1.1 Image classification
 
+#### 1.1.1 Digital attack
+
+(2014) Intriguing properties of neural networks
+
+ICLR https://readpaper.com/paper/1673923490
+ 
+(2015) Explaining and Harnessing Adversarial Examples
+
+ICLR https://readpaper.com/paper/1945616565
+
+#### 1.1.2 Physical attack
+
+(2017) Adversarial examples in the physical world
+
+ICLR https://readpaper.com/paper/2460937040
+
 ### 1.2 Object detection
 
 ### 1.3 Face recognition
