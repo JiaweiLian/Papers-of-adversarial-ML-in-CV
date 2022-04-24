@@ -9,8 +9,6 @@
 
 2.1 Adversarial training
 
-LAS-AT: Adversarial Training with Learnable Attack Strategy
-
-CVPR2022 https://arxiv.org/pdf/2203.06616.pdf
+LAS-AT: Adversarial Training with Learnable Attack Strategy CVPR2022 https://arxiv.org/pdf/2203.06616.pdf
 
 
