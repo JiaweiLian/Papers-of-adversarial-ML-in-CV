@@ -48,4 +48,27 @@ ACM Computing Surveys https://arxiv.org/pdf/2009.03728.pdf
 
 ## 4. Remote sensing datasets
 
+NWPU VHR-10
+
+(2016) Learning Rotation-Invariant Convolutional Neural Networks for Object Detection in VHR Optical Remote Sensing Images
+
+IEEE Transactions on Geoscience and Remote Sensing https://readpaper.com/paper/2512351403
+
+RSOD
+
+(2015) Elliptic Fourier transformation-based histograms of oriented gradients for rotationally invariant object detection in remote-sensing images
+
+International Journal of Remote Sensing https://doi.org/10.1080/01431161.2014.999881
+
+DOTA
+
+(2018) DOTA: A Large-Scale Dataset for Object Detection in Aerial Images” Computer Vision and Pattern Recognition
+
+CVPR https://readpaper.com/paper/2769221444
+
+DIOR
+
+(2020) Object detection in optical remote sensing images: A survey and a new benchmark
+
+Isprs Journal of Photogrammetry and Remote Sensing https://readpaper.com/paper/2992240579
 
