@@ -24,6 +24,12 @@ ICLR https://readpaper.com/paper/2964253222
 
 ICLR https://readpaper.com/paper/2460937040
 
+#### 1.1.3 Transferable attack
+
+(2017) Delving into Transferable Adversarial Examples and Black-box Attacks
+
+https://readpaper.com/paper/2570685808
+
 ### 1.2 Object detection
 
 ### 1.3 Face recognition
