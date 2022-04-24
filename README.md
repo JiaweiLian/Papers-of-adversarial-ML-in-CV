@@ -62,6 +62,18 @@ ICLR https://readpaper.com/paper/2810192346
 
 AAAI https://readpaper.com/paper/2890054895
 
+(2020) DPAttack: Diffused Patch Attacks against Universal Object Detection
+
+arXiv https://readpaper.com/paper/3093958125
+
+(2021) Adversarial Attacks on Object Detectors with Limited Perturbations
+
+International Conference on Acoustics, Speech, and Signal Processing https://readpaper.com/paper/3160661704
+
+(2021) RPAttack: Refined Patch Attack on General Object Detectors
+
+International Conference on Multimedia and Expo https://readpaper.com/paper/3136499044
+
 ##### 1.2.1.2 Targeted attack
 
 (2017) Adversarial Examples for Semantic Segmentation and Object Detection
@@ -73,6 +85,10 @@ ICCV https://readpaper.com/paper/2950774971
 (2018) ShapeShifter: Robust Physical Adversarial Attack on Faster R-CNN Object Detector
 
 ECML https://readpaper.com/paper/3105806188
+
+(2020) Universal Physical Camouflage Attacks on Object Detectors
+
+CVPR https://readpaper.com/paper/3017485054
 
 ##### 1.2.2.1 Untargeted attack
 
@@ -87,6 +103,10 @@ CVPR https://readpaper.com/paper/2963726920
 (2020) Making an Invisibility Cloak: Real World Adversarial Attacks on Object Detectors
 
 ECCV https://readpaper.com/paper/2982663445
+
+(2021) The Translucent Patch: A Physical and Universal Attack on Object Detectors
+
+CVPR https://readpaper.com/paper/3117825960
 
 ##### 1.2.2.2 Targeted attack
 
