@@ -28,15 +28,37 @@ ICLR https://readpaper.com/paper/2964253222
 
 ICLR https://readpaper.com/paper/2460937040
 
+(2018) Robust Physical-World Attacks on Deep Learning Visual Classification
+
+CVPR https://readpaper.com/paper/2798302089
+
+(2020) Adversarial Camouflage: Hiding Physical-World Attacks With Natural Styles
+
+CVPR https://readpaper.com/paper/3010867827
+
 #### 1.1.3 Transferable attack
 
 (2017) Delving into Transferable Adversarial Examples and Black-box Attacks
 
 https://readpaper.com/paper/2570685808
 
+#### 1.1.4 Backdoor attack
+
+(2018) Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks
+
+NIPS https://readpaper.com/paper/2963343288
+
+(2019) Adversarial Reprogramming of Neural Networks
+
+ICLR https://readpaper.com/paper/2810192346
+
 ### 1.2 Object detection
 
 ### 1.3 Face recognition
+
+(2016) Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition
+
+Computer and Communications Security https://readpaper.com/paper/2535873859
 
 ### 1.4 Aerial image
 
@@ -56,9 +78,23 @@ https://arxiv.org/pdf/2112.01723.pdf
 
 IEEE Winter Conference on Applications of Computer Vision https://readpaper.com/paper/3194110702
 
-
-
 ## 2. Defense
+
+(2018) Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks
+
+Network and Distributed System Security Symposium https://readpaper.com/paper/2607219512
+
+(2018) SHIELD: Fast, Practical Defense and Vaccination for Deep Learning using JPEG Compression
+
+Knowledge Discovery and Data Mining https://readpaper.com/paper/2963268689
+
+(2018) Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models
+
+ICLR https://readpaper.com/paper/2964197269
+
+(2018) Mitigating Adversarial Effects Through Randomization
+
+ICLR https://readpaper.com/paper/2767962654
 
 ### 2.1 Adversarial training
 
