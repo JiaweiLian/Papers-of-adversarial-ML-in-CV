@@ -5,6 +5,8 @@
 
 1.2 Object detection
 
+1.3 Face recognition
+
 2.Defense
 
 2.1 Adversarial training
