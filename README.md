@@ -21,7 +21,7 @@ ACM Computing Surveys 2021 https://arxiv.org/pdf/2009.03728.pdf
 
 图像对抗样本研究综述
 
-计算机科学 2022 知网
+计算机科学 2022 https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=JSJA202202010&uniplatform=NZKPT&v=x2k_d6-t3_3-msLZcEISOxjivwfJwnReK0dDZorYA7nOCuR9bogu0bkgRCG4A8eM
 
 深度学习模型鲁棒性研究综述
 
