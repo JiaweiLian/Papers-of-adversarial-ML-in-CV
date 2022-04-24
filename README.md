@@ -14,6 +14,10 @@ ICLR https://readpaper.com/paper/1673923490
 
 ICLR https://readpaper.com/paper/1945616565
 
+(2017) Universal Adversarial Perturbations
+
+CVPR https://readpaper.com/paper/2543927648
+
 (2018) Towards Deep Learning Models Resistant to Adversarial Attacks
 
 ICLR https://readpaper.com/paper/2964253222
