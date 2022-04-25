@@ -78,6 +78,10 @@ AAAI https://readpaper.com/paper/2890054895
 
 arXiv https://readpaper.com/paper/3093958125
 
+(2021) Fooling Object Detectors: Adversarial Attacks by Half-Neighbor Masks
+
+arXiv https://readpaper.com/paper/3120875058
+
 (2021) Adversarial Attacks on Object Detectors with Limited Perturbations
 
 International Conference on Acoustics, Speech, and Signal Processing https://readpaper.com/paper/3160661704
