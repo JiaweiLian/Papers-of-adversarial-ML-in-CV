@@ -22,6 +22,10 @@ CVPR https://readpaper.com/paper/2543927648
 
 ICLR https://readpaper.com/paper/2964253222
 
+(2021) Understanding adversarial attacks on deep learning based medical image analysis systems
+
+Pattern Recognition https://readpaper.com/paper/3021182036
+
 #### 1.1.2 Physical attack
 
 (2017) Adversarial examples in the physical world
