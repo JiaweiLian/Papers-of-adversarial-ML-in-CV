@@ -220,6 +220,10 @@ ACM Computing Surveys https://arxiv.org/pdf/2009.03728.pdf
 
 IEEE Transactions on Industrial Informatics https://readpaper.com/paper/3147685646
 
+(2021) FineFool: A novel DNN object contour attack on image recognition based on the attention perturbation adversarial technique
+
+Computers & Security https://readpaper.com/paper/3128781534
+
 (2022) 图像对抗样本研究综述
 
 计算机科学 https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=JSJA202202010&uniplatform=NZKPT&v=x2k_d6-t3_3-msLZcEISOxjivwfJwnReK0dDZorYA7nOCuR9bogu0bkgRCG4A8eM
