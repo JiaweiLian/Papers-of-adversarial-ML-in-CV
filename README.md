@@ -22,6 +22,14 @@ CVPR https://readpaper.com/paper/2543927648
 
 ICLR https://readpaper.com/paper/2964253222
 
+(2019) One Pixel Attack for Fooling Deep Neural Networks
+
+IEEE Transactions on Evolutionary Computation https://readpaper.com/paper/2765424254
+
+(2019) Adversarial examples are not bugs, they are features
+
+NIPS https://readpaper.com/paper/2942630857
+
 (2021) Understanding adversarial attacks on deep learning based medical image analysis systems
 
 Pattern Recognition https://readpaper.com/paper/3021182036
