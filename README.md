@@ -158,6 +158,12 @@ https://arxiv.org/pdf/2112.01723.pdf
 
 IEEE Winter Conference on Applications of Computer Vision https://readpaper.com/paper/3194110702
 
+### 1.5 Backdoor attack
+
+(2019) BadNets: Evaluating Backdooring Attacks on Deep Neural Networks
+
+IEEE Access https://readpaper.com/paper/2942091739
+
 ## 2. Defense
 
 (2018) Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks
@@ -179,6 +185,18 @@ ICLR https://readpaper.com/paper/2767962654
 (2019) Feature Denoising for Improving Adversarial Robustness
 
 CVPR https://readpaper.com/paper/2903785932
+
+(2019) Towards Adversarially Robust Object Detection
+
+ICCV https://readpaper.com/paper/2981495453
+
+(2021) Robust and Accurate Object Detection via Adversarial Learning
+
+CVPR https://readpaper.com/paper/3175958943
+
+(2021) Adversarial YOLO: Defense Human Detection Patch Attacks via Detecting Adversarial Patches
+
+arXiv https://readpaper.com/paper/3138047508
 
 ### 2.1 Adversarial training
 
