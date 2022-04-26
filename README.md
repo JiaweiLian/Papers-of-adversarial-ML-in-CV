@@ -14,6 +14,10 @@ ICLR https://readpaper.com/paper/1673923490
 
 ICLR https://readpaper.com/paper/1945616565
 
+(2016) DeepFool: A Simple and Accurate Method to Fool Deep Neural Networks
+
+CVPR https://readpaper.com/paper/2950159395
+
 (2017) Universal Adversarial Perturbations
 
 CVPR https://readpaper.com/paper/2543927648
