@@ -54,16 +54,6 @@ CVPR https://readpaper.com/paper/3010867827
 
 https://readpaper.com/paper/2570685808
 
-#### 1.1.4 Backdoor attack
-
-(2018) Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks
-
-NIPS https://readpaper.com/paper/2963343288
-
-(2019) Adversarial Reprogramming of Neural Networks
-
-ICLR https://readpaper.com/paper/2810192346
-
 ### 1.2 Object detection
 
 #### 1.2.1 Digital attack
@@ -159,6 +149,14 @@ https://arxiv.org/pdf/2112.01723.pdf
 IEEE Winter Conference on Applications of Computer Vision https://readpaper.com/paper/3194110702
 
 ### 1.5 Backdoor attack
+
+(2018) Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks
+
+NIPS https://readpaper.com/paper/2963343288
+
+(2019) Adversarial Reprogramming of Neural Networks
+
+ICLR https://readpaper.com/paper/2810192346
 
 (2019) BadNets: Evaluating Backdooring Attacks on Deep Neural Networks
 
