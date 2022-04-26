@@ -124,6 +124,10 @@ NIPS https://readpaper.com/paper/2804566015
 
 USENIX Security Symposium https://readpaper.com/paper/2964175514
 
+(2021) Dual Attention Suppression Attack: Generate Adversarial Camouflage in Physical World
+
+CVPR https://readpaper.com/paper/3185095134
+
 ### 1.3 Face recognition
 
 (2016) Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition
