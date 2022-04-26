@@ -220,6 +220,10 @@ NIPS https://readpaper.com/paper/2970316625
 
 CVPR https://readpaper.com/paper/3175958943
 
+(2021) Deep Partition Aggregation: Provable Defenses against General Poisoning Attacks
+
+ICLR https://readpaper.com/paper/3122796494
+
 (2021) Adversarial YOLO: Defense Human Detection Patch Attacks via Detecting Adversarial Patches
 
 arXiv https://readpaper.com/paper/3138047508
