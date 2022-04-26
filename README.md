@@ -22,6 +22,10 @@ CVPR https://readpaper.com/paper/2543927648
 
 ICLR https://readpaper.com/paper/2964253222
 
+(2018) Boosting Adversarial Attacks with Momentum
+
+CVPR https://readpaper.com/paper/2950906520
+
 (2019) One Pixel Attack for Fooling Deep Neural Networks
 
 IEEE Transactions on Evolutionary Computation https://readpaper.com/paper/2765424254
@@ -29,6 +33,10 @@ IEEE Transactions on Evolutionary Computation https://readpaper.com/paper/276542
 (2019) Adversarial examples are not bugs, they are features
 
 NIPS https://readpaper.com/paper/2942630857
+
+(2019) NATTACK: Learning the Distributions of Adversarial Examples for an Improved Black-Box Attack on Deep Neural Networks
+
+ICML https://readpaper.com/paper/2943646750
 
 (2021) Understanding adversarial attacks on deep learning based medical image analysis systems
 
@@ -43,6 +51,10 @@ ICLR https://readpaper.com/paper/2460937040
 (2018) Robust Physical-World Attacks on Deep Learning Visual Classification
 
 CVPR https://readpaper.com/paper/2798302089
+
+(2018) Synthesizing Robust Adversarial Examples
+
+ICML https://readpaper.com/paper/2950906520
 
 (2020) Adversarial Camouflage: Hiding Physical-World Attacks With Natural Styles
 
