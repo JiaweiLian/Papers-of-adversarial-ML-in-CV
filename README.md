@@ -242,6 +242,10 @@ ICML https://readpaper.com/paper/2945793108
 
 NIPS https://readpaper.com/paper/2970317235
 
+(2021) Bag of Tricks for Adversarial Training
+
+ICLR https://readpaper.com/paper/3089560030
+
 (2022) LAS-AT: Adversarial Training with Learnable Attack Strategy 
 
 CVPR https://arxiv.org/pdf/2203.06616.pdf
