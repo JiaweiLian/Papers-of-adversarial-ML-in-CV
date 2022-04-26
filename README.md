@@ -22,6 +22,10 @@ CVPR https://readpaper.com/paper/2950159395
 
 CVPR https://readpaper.com/paper/2543927648
 
+(2017) ZOO: Zeroth Order Optimization Based Black-box Attacks to Deep Neural Networks without Training Substitute Models
+
+Proceedings of the 10th ACM Workshop on Artificial Intelligence and Security https://readpaper.com/paper/3106412272
+
 (2018) Towards Deep Learning Models Resistant to Adversarial Attacks
 
 ICLR https://readpaper.com/paper/2964253222
