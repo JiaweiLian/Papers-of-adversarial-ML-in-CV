@@ -190,6 +190,10 @@ CVPR https://readpaper.com/paper/2903785932
 
 ICCV https://readpaper.com/paper/2981495453
 
+(2019) You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle
+
+NIPS https://readpaper.com/paper/2970316625
+
 (2021) Robust and Accurate Object Detection via Adversarial Learning
 
 CVPR https://readpaper.com/paper/3175958943
