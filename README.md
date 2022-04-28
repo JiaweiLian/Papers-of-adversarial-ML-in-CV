@@ -66,6 +66,10 @@ arXiv https://arxiv.org/pdf/2203.14607.pdf
 
 AAAI https://www.aaai.org/AAAI22Papers/AAAI-3872.ZhaoB.pdf
 
+(2022) Enhancing Boundary Attack in Adversarial Image Using Square Random Constraint
+
+ACM on International Workshop on Security and Privacy Analytics https://dl.acm.org/doi/pdf/10.1145/3510548.3519373
+
 #### 1.1.2 Physical attack
 
 (2017) Adversarial examples in the physical world
@@ -221,6 +225,10 @@ arXiv https://arxiv.org/pdf/2203.15506.pdf
 (2022) Backdooring Explainable Machine Learning
 
 arXiv https://arxiv.org/pdf/2204.09498.pdf
+
+(2022) Better Trigger Inversion Optimization in Backdoor Scanning
+
+CVPR https://www.cs.purdue.edu/homes/taog/docs/CVPR22_Tao.pdf
 
 ## 2. Defense
 
