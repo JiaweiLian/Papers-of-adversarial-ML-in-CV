@@ -202,6 +202,10 @@ IEEE Access https://readpaper.com/paper/2942091739
 
 Knowledge-Based Systems https://www.sciencedirect.com/science/article/pii/S0950705122002635
 
+(2022) Trojan Horse Training for Breaking Defenses against Backdoor Attacks in Deep Learning
+
+arXiv https://arxiv.org/pdf/2203.15506.pdf
+
 ## 2. Defense
 
 (2018) Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks
@@ -303,6 +307,10 @@ Computers & Security https://readpaper.com/paper/3128781534
 (2022) Adversarial Example Detection for DNN Models: A Review and Experimental Comparison
 
 Artificial Intelligence Review https://readpaper.com/paper/3200113267
+
+(2022) A Survey of Robust Adversarial Training in Pattern Recognition: Fundamental, Theory, and Methodologies
+
+arXiv https://arxiv.org/pdf/2203.14046.pdf
 
 ## 4. Remote sensing datasets
 
