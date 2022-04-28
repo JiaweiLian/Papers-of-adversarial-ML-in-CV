@@ -342,6 +342,10 @@ arXiv https://arxiv.org/pdf/2204.02481.pdf
 
 arXiv https://arxiv.org/pdf/2204.05764.pdf
 
+(2022) An Empirical Evaluation of Adversarial Examples Defences, Combinations and Robustness Scores
+
+ACM on International Workshop on Security and Privacy Analytics https://dl.acm.org/doi/pdf/10.1145/3510548.3519370
+
 ## 5. Remote sensing datasets
 
 ### RSOD
