@@ -50,6 +50,10 @@ ICML https://readpaper.com/paper/2943646750
 
 Pattern Recognition https://readpaper.com/paper/3021182036
 
+(2022) Adversarial Examples Generation for Deep Product Quantization Networks on Image Retrieval
+
+TPAMI https://ieeexplore.ieee.org/abstract/document/9749881
+
 #### 1.1.2 Physical attack
 
 (2017) Adversarial examples in the physical world
