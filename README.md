@@ -286,6 +286,10 @@ ICLR https://readpaper.com/paper/3089560030
 
 CVPR https://arxiv.org/pdf/2203.06616.pdf
 
+(2022) Decision Boundary-aware Data Augmentation for Adversarial Training
+
+IEEE Transactions on Dependable and Secure Computing https://ieeexplore.ieee.org/abstract/document/9754227
+
 ## 3. Review
 
 (2018) Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey
@@ -333,6 +337,10 @@ arXiv https://arxiv.org/pdf/2203.14046.pdf
 (2022) Adversarial Robustness through the Lens of Convolutional Filters
 
 arXiv https://arxiv.org/pdf/2204.02481.pdf
+
+(2022) Examining the Proximity of Adversarial Examples to Class Manifolds in Deep Networks
+
+arXiv https://arxiv.org/pdf/2204.05764.pdf
 
 ## 5. Remote sensing datasets
 
