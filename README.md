@@ -102,6 +102,10 @@ arXiv https://arxiv.org/pdf/2203.13479.pdf
 
 arXiv https://arxiv.org/pdf/2204.00008.pdf
 
+(2022) Investigating Top-k White-Box and Transferable Black-box Attack
+
+CVPR https://arxiv.org/pdf/2204.00089.pdf
+
 ### 1.2 Object detection
 
 #### 1.2.1 Digital attack
@@ -353,6 +357,10 @@ arXiv https://arxiv.org/pdf/2204.05764.pdf
 (2022) An Empirical Evaluation of Adversarial Examples Defences, Combinations and Robustness Scores
 
 ACM on International Workshop on Security and Privacy Analytics https://dl.acm.org/doi/pdf/10.1145/3510548.3519370
+
+(2022) RobustART: Benchmarking Robustness on Architecture Design and Training Techniques
+
+https://ar5iv.labs.arxiv.org/html/2109.05211  http://robust.art/
 
 ## 5. Remote sensing datasets
 
