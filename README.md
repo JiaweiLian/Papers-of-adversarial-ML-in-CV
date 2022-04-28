@@ -62,6 +62,10 @@ ICLR https://readpaper.com/paper/4606797601328603137
 
 arXiv https://arxiv.org/pdf/2203.14607.pdf
 
+(2022) CLPA: Clean-Label Poisoning Availability Attacks Using Generative Adversarial Nets
+
+AAAI https://www.aaai.org/AAAI22Papers/AAAI-3872.ZhaoB.pdf
+
 #### 1.1.2 Physical attack
 
 (2017) Adversarial examples in the physical world
