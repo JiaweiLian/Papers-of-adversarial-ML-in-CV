@@ -78,6 +78,10 @@ CVPR https://readpaper.com/paper/3010867827
 
 https://readpaper.com/paper/2570685808
 
+(2022) Improving Adversarial Transferability with Spatial Momentum
+
+arXiv https://arxiv.org/pdf/2203.13479.pdf
+
 ### 1.2 Object detection
 
 #### 1.2.1 Digital attack
