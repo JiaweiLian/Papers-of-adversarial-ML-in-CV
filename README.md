@@ -54,6 +54,10 @@ Pattern Recognition https://readpaper.com/paper/3021182036
 
 TPAMI https://ieeexplore.ieee.org/abstract/document/9749881
 
+(2022) Boosting Black-Box Adversarial Attacks with Meta Learning
+
+arXiv https://arxiv.org/pdf/2203.14607.pdf
+
 #### 1.1.2 Physical attack
 
 (2017) Adversarial examples in the physical world
