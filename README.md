@@ -198,6 +198,10 @@ ICLR https://readpaper.com/paper/2810192346
 
 IEEE Access https://readpaper.com/paper/2942091739
 
+(2022) Backdoor attacks-resilient aggregation based on Robust Filtering of Outliers in federated learning for image classification
+
+Knowledge-Based Systems https://www.sciencedirect.com/science/article/pii/S0950705122002635
+
 ## 2. Defense
 
 (2018) Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks
