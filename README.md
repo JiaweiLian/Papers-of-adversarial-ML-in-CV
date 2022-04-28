@@ -214,6 +214,10 @@ Knowledge-Based Systems https://www.sciencedirect.com/science/article/pii/S09507
 
 arXiv https://arxiv.org/pdf/2203.15506.pdf
 
+(2022) Backdooring Explainable Machine Learning
+
+arXiv https://arxiv.org/pdf/2204.09498.pdf
+
 ## 2. Defense
 
 (2018) Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks
