@@ -54,6 +54,10 @@ Pattern Recognition https://readpaper.com/paper/3021182036
 
 TPAMI https://ieeexplore.ieee.org/abstract/document/9749881
 
+(2022) Robust Unlearnable Examples: Protecting Data Against Adversarial Learning
+
+ICLR https://readpaper.com/paper/4606797601328603137
+
 (2022) Boosting Black-Box Adversarial Attacks with Meta Learning
 
 arXiv https://arxiv.org/pdf/2203.14607.pdf
