@@ -368,7 +368,7 @@ ACM on International Workshop on Security and Privacy Analytics https://dl.acm.o
 
 (2022) RobustART: Benchmarking Robustness on Architecture Design and Training Techniques
 
-TPAMI https://arxiv.org/pdf/2109.05211.pdf  http://robust.art/
+TPAMI https://readpaper.com/paper/3200643978  http://robust.art/
 
 ## 5. Remote sensing datasets
 
