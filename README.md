@@ -70,6 +70,10 @@ AAAI https://www.aaai.org/AAAI22Papers/AAAI-3872.ZhaoB.pdf
 
 ACM on International Workshop on Security and Privacy Analytics https://dl.acm.org/doi/pdf/10.1145/3510548.3519373
 
+(2022) StyleFool: Fooling Video Classification Systems via Style Transfer
+
+arXiv https://arxiv.org/pdf/2203.16000.pdf
+
 #### 1.1.2 Physical attack
 
 (2017) Adversarial examples in the physical world
@@ -360,7 +364,7 @@ ACM on International Workshop on Security and Privacy Analytics https://dl.acm.o
 
 (2022) RobustART: Benchmarking Robustness on Architecture Design and Training Techniques
 
-https://ar5iv.labs.arxiv.org/html/2109.05211  http://robust.art/
+TPAMI https://arxiv.org/pdf/2109.05211.pdf  http://robust.art/
 
 ## 5. Remote sensing datasets
 
