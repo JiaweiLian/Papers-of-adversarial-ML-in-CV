@@ -142,6 +142,10 @@ International Conference on Multimedia and Expo https://readpaper.com/paper/3136
 
 ICCV https://readpaper.com/paper/2950774971
 
+(2022) Zero-Query Transfer Attacks on Context-Aware Object Detectors
+
+arXiv https://arxiv.org/pdf/2203.15230.pdf
+
 #### 1.2.2 Physical attack
 
 (2018) ShapeShifter: Robust Physical Adversarial Attack on Faster R-CNN Object Detector
