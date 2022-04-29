@@ -4,6 +4,10 @@
 
 ### 1.1 Image classification
 
+(2020) Bias-based Universal Adversarial Patch Attack for Automatic Check-out
+
+ECCV https://readpaper.com/paper/3040296059
+
 #### 1.1.1 Digital attack
 
 (2014) Intriguing properties of neural networks
@@ -353,6 +357,10 @@ Artificial Intelligence Review https://readpaper.com/paper/3200113267
 arXiv https://arxiv.org/pdf/2203.14046.pdf
 
 ## 4 Adversarial roubustness
+
+(2021) A comprehensive evaluation framework for deep model robustness
+
+TIP https://readpaper.com/paper/3124324543
 
 (2022) Adversarial Robustness through the Lens of Convolutional Filters
 
