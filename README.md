@@ -8,6 +8,10 @@
 
 ECCV https://readpaper.com/paper/3040296059
 
+(2021) Universal Adversarial Patch Attack for Automatic Checkout Using Perceptual and Attentional Bias
+
+TIP https://readpaper.com/paper/3215515227
+
 #### 1.1.1 Digital attack
 
 (2014) Intriguing properties of neural networks
@@ -288,6 +292,10 @@ ICLR https://readpaper.com/paper/3122796494
 
 arXiv https://readpaper.com/paper/3138047508
 
+(2022) Defensive Patches for Robust Recognition in the Physical World
+
+arXiv https://arxiv.org/pdf/2204.06213.pdf
+
 ### 2.1 Adversarial training
 
 (2018) Towards Deep Learning Models Resistant to Adversarial Attacks
@@ -361,6 +369,10 @@ arXiv https://arxiv.org/pdf/2203.14046.pdf
 (2021) A comprehensive evaluation framework for deep model robustness
 
 TIP https://readpaper.com/paper/3124324543
+
+(2021) Explainable deep learning for efficient and robust pattern recognition: A survey of recent developments
+
+Pattern Recognition https://readpaper.com/paper/3174422331
 
 (2022) Adversarial Robustness through the Lens of Convolutional Filters
 
