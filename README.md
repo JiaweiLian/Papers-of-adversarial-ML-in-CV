@@ -332,10 +332,6 @@ IEEE Access https://readpaper.com/paper/2962700793
 
 ACM Transactions on Privacy and Security https://readpaper.com/paper/2932026309
 
-(2020) Benchmarking Adversarial Robustness on Image Classification
-
-CVPR https://readpaper.com/paper/3034214559
-
 (2021) Adversarial Machine Learning in Image Classification: A Survey Toward the Defender’s Perspective 
 
 ACM Computing Surveys https://arxiv.org/pdf/2009.03728.pdf
@@ -365,6 +361,10 @@ Artificial Intelligence Review https://readpaper.com/paper/3200113267
 arXiv https://arxiv.org/pdf/2203.14046.pdf
 
 ## 4 Adversarial roubustness
+
+(2020) Benchmarking Adversarial Robustness on Image Classification
+
+CVPR https://readpaper.com/paper/3034214559
 
 (2021) A comprehensive evaluation framework for deep model robustness
 
