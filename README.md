@@ -60,7 +60,7 @@ Pattern Recognition https://readpaper.com/paper/3021182036
 
 (2022) Adversarial Examples Generation for Deep Product Quantization Networks on Image Retrieval
 
-TPAMI https://ieeexplore.ieee.org/abstract/document/9749881
+TPAMI https://readpaper.com/paper/679629297718919168
 
 (2022) Robust Unlearnable Examples: Protecting Data Against Adversarial Learning
 
