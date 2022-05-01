@@ -106,6 +106,10 @@ CVPR https://readpaper.com/paper/3010867827
 
 https://readpaper.com/paper/2570685808
 
+(2021) Query-Efficient Black-box Adversarial Attacks Guided by a Transfer-based Prior
+
+TPAMI https://readpaper.com/paper/3212790025
+
 (2022) Improving Adversarial Transferability with Spatial Momentum
 
 arXiv https://arxiv.org/pdf/2203.13479.pdf
