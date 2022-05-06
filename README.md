@@ -338,7 +338,7 @@ ACM Transactions on Privacy and Security https://readpaper.com/paper/2932026309
 
 (2021) Adversarial Machine Learning in Image Classification: A Survey Toward the Defender’s Perspective 
 
-ACM Computing Surveys https://arxiv.org/pdf/2009.03728.pdf
+ACM Computing Surveys https://readpaper.com/paper/3084139925
 
 (2021) Deep Learning-Based Autonomous Driving Systems: A Survey of Attacks and Defenses
 
