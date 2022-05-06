@@ -276,6 +276,10 @@ ICLR https://readpaper.com/paper/2767962654
 
 CVPR https://readpaper.com/paper/2903785932
 
+(2018) Defense against adversarial attacks using high-level representation guided denoiser
+
+CVPR https://readpaper.com/paper/2952678275
+
 (2019) Towards Adversarially Robust Object Detection
 
 ICCV https://readpaper.com/paper/2981495453
