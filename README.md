@@ -218,7 +218,7 @@ Remote Sensing https://readpaper.com/paper/3206814941
 
 (2021) Adversarial Attacks against a Satellite-borne Multispectral Cloud Detector
 
-arXiv https://arxiv.org/pdf/2112.01723.pdf
+arXiv https://readpaper.com/paper/4565749633742020609
 
 (2022) Physical Adversarial Attacks on an Aerial Imagery Object Detector
 
