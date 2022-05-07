@@ -444,3 +444,25 @@ CVPR https://readpaper.com/paper/2769221444
 
 Isprs Journal of Photogrammetry and Remote Sensing https://readpaper.com/paper/2992240579
 
+## 6. Object detection
+
+(2016) You only look once: Unified, real-time object detection
+
+CVPR https://readpaper.com/paper/2963037989
+
+(2017) YOLO9000: Better, Faster, Stronger
+
+CVPR https://readpaper.com/paper/2570343428
+
+(2018) YOLOv3: An Incremental Improvement.
+
+arXiv https://readpaper.com/paper/2796347433
+
+(2020) YOLOv4: Optimal Speed and Accuracy of Object Detection
+
+arXiv https://readpaper.com/paper/3018757597
+
+(2020) YOLOv5 https://github.com/ultralytics/yolov5
+
+
+
