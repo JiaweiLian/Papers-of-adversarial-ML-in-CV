@@ -82,6 +82,10 @@ ACM on International Workshop on Security and Privacy Analytics https://dl.acm.o
 
 arXiv https://arxiv.org/pdf/2203.16000.pdf
 
+(2022) Enhancing Boundary Attack in Adversarial Image Using Square Random Constraint
+
+ACM on International Workshop on Security and Privacy Analytics https://dl.acm.org/doi/abs/10.1145/3510548.3519373
+
 #### 1.1.2 Physical attack
 
 (2017) Adversarial examples in the physical world
