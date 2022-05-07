@@ -206,6 +206,18 @@ CVPR https://readpaper.com/paper/3185095134
 
 Computer and Communications Security https://readpaper.com/paper/2535873859
 
+(2019) Generating adversarial examples by makeup attacks on face recognition
+
+ICIP https://readpaper.com/paper/2970255644
+
+(2019) Efficient Decision-based Black-box Adversarial Attacks on Face Recognition
+
+CVPR https://readpaper.com/paper/2939328166
+
+(2020) Adversarial light projection attacks on face recognition systems: A feasibility study
+
+CVPR https://readpaper.com/paper/3013548068
+
 ### 1.4 Aerial image
 
 (2020) Adversarial Patch Camouflage against Aerial Detection
