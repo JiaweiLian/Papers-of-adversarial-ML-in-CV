@@ -446,6 +446,8 @@ Isprs Journal of Photogrammetry and Remote Sensing https://readpaper.com/paper/2
 
 ## 6. Object detection
 
+### 6.1 YOLO
+
 (2016) You only look once: Unified, real-time object detection
 
 CVPR https://readpaper.com/paper/2963037989
@@ -464,5 +466,27 @@ arXiv https://readpaper.com/paper/3018757597
 
 (2020) YOLOv5 https://github.com/ultralytics/yolov5
 
+### 6.2 Faster-RCNN
 
+(2014) Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation
+
+CVPR https://readpaper.com/paper/2102605133
+
+(2015) Fast R-CNN
+
+ICCV https://readpaper.com/paper/2951548327
+
+(2015) Faster r-cnn: Towards real-time object detection with region proposal networks
+
+NIPS https://readpaper.com/paper/2953106684
+
+(2017) Mask r-cnn
+
+ICCV https://readpaper.com/paper/2599765304
+
+### 6.3 Transformer
+
+(2021) Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
+
+ICCV https://readpaper.com/paper/3138516171
 
