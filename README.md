@@ -414,6 +414,10 @@ ACM on International Workshop on Security and Privacy Analytics https://dl.acm.o
 
 TPAMI https://readpaper.com/paper/3200643978  http://robust.art/
 
+(2022) Adversarial Robustness is Not Enough: Practical Limitations for Securing Facial Authentication
+
+ACM on International Workshop on Security and Privacy Analytics https://dl.acm.org/doi/abs/10.1145/3510548.3519369
+
 ## 5. Remote sensing datasets
 
 ### RSOD
