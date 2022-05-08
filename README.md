@@ -34,6 +34,10 @@ CVPR https://readpaper.com/paper/2543927648
 
 Proceedings of the 10th ACM Workshop on Artificial Intelligence and Security https://readpaper.com/paper/3106412272
 
+(2017) Towards Evaluating the Robustness of Neural Networks
+
+IEEE Symposium on Security and Privacy https://readpaper.com/paper/2963857521
+
 (2018) Towards Deep Learning Models Resistant to Adversarial Attacks
 
 ICLR https://readpaper.com/paper/2964253222
