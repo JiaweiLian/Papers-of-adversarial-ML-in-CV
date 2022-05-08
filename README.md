@@ -82,6 +82,10 @@ ECCV https://readpaper.com/paper/3104218734
 
 Pattern Recognition https://readpaper.com/paper/3021182036
 
+(2021) SurFree: a fast surrogate-free black-box attack
+
+CVPR https://readpaper.com/paper/3173859330
+
 (2022) Adversarial Examples Generation for Deep Product Quantization Networks on Image Retrieval
 
 TPAMI https://readpaper.com/paper/679629297718919168
