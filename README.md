@@ -70,6 +70,10 @@ NIPS https://readpaper.com/paper/2942630857
 
 ICML https://readpaper.com/paper/2943646750
 
+(2020) MGAAttack: Toward More Query-efficient Black-box Attack by Microbial Genetic Algorithm
+
+ACM International Conference on Multimedia https://readpaper.com/paper/3093466466
+
 (2020) Hopskipjumpattack: A query-efficient decision-based attack
 
 IEEE Symposium on Security and Privacy https://readpaper.com/paper/2947657997
