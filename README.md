@@ -202,6 +202,10 @@ arXiv https://arxiv.org/pdf/2203.15230.pdf
 
 ECML https://readpaper.com/paper/3105806188
 
+(2019) advpattern: Physical-world attacks on deep person re-identification via adversarially transformable patterns
+
+ICCV https://readpaper.com/paper/2969616326
+
 (2020) Universal Physical Camouflage Attacks on Object Detectors
 
 CVPR https://readpaper.com/paper/3017485054
