@@ -152,6 +152,10 @@ CVPR https://readpaper.com/paper/2798302089
 
 ICML https://readpaper.com/paper/2950906520
 
+(2019) Adversarial attacks beyond the image space
+
+CVPR https://readpaper.com/paper/2769041110
+
 (2020) Adversarial Camouflage: Hiding Physical-World Attacks With Natural Styles
 
 CVPR https://readpaper.com/paper/3010867827
