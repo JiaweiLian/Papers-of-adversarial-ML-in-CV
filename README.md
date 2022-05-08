@@ -70,6 +70,10 @@ NIPS https://readpaper.com/paper/2942630857
 
 ICML https://readpaper.com/paper/2943646750
 
+(2020) Hopskipjumpattack: A query-efficient decision-based attack
+
+IEEE Symposium on Security and Privacy https://readpaper.com/paper/2947657997
+
 (2020) Sparse Adversarial Attack via Perturbation Factorization
 
 ECCV https://readpaper.com/paper/3104218734
