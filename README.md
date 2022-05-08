@@ -54,6 +54,10 @@ NIPS https://readpaper.com/paper/2942630857
 
 ICML https://readpaper.com/paper/2943646750
 
+(2020) Sparse Adversarial Attack via Perturbation Factorization
+
+ECCV https://readpaper.com/paper/3104218734
+
 (2021) Understanding adversarial attacks on deep learning based medical image analysis systems
 
 Pattern Recognition https://readpaper.com/paper/3021182036
