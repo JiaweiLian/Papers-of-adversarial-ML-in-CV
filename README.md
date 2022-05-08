@@ -50,6 +50,10 @@ ICLR https://readpaper.com/paper/2964253222
 
 CVPR https://readpaper.com/paper/2950906520
 
+(2018) Black-box adversarial attacks with limited queries and information
+
+ICML https://readpaper.com/paper/2963062382
+
 (2019) One Pixel Attack for Fooling Deep Neural Networks
 
 IEEE Transactions on Evolutionary Computation https://readpaper.com/paper/2765424254
