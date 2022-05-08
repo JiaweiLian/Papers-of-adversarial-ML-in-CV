@@ -54,6 +54,10 @@ CVPR https://readpaper.com/paper/2950906520
 
 ICML https://readpaper.com/paper/2963062382
 
+(2018) Prior Convictions: Black-Box Adversarial Attacks with Bandits and Priors
+
+ICLR https://readpaper.com/paper/2883285025
+
 (2019) One Pixel Attack for Fooling Deep Neural Networks
 
 IEEE Transactions on Evolutionary Computation https://readpaper.com/paper/2765424254
