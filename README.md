@@ -274,6 +274,10 @@ USENIX security symposium https://readpaper.com/paper/2967540978
 
 ICCV https://readpaper.com/paper/2963923490
 
+(2019) Improving transferability of adversarial examples with input diversity
+
+CVPR https://readpaper.com/paper/2791683151
+
 (2021) Query-Efficient Black-box Adversarial Attacks Guided by a Transfer-based Prior
 
 TPAMI https://readpaper.com/paper/3212790025
