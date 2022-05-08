@@ -496,7 +496,7 @@ ICCV https://readpaper.com/paper/2951548327
 
 NIPS https://readpaper.com/paper/2953106684
 
-(2017) Mask r-cnn
+(2017) Mask R-CNN
 
 ICCV https://readpaper.com/paper/2599765304
 
