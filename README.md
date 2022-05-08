@@ -116,28 +116,6 @@ ICML https://readpaper.com/paper/2950906520
 
 CVPR https://readpaper.com/paper/3010867827
 
-#### 1.1.3 Transferable attack
-
-(2017) Delving into Transferable Adversarial Examples and Black-box Attacks
-
-https://readpaper.com/paper/2570685808
-
-(2021) Query-Efficient Black-box Adversarial Attacks Guided by a Transfer-based Prior
-
-TPAMI https://readpaper.com/paper/3212790025
-
-(2022) Improving Adversarial Transferability with Spatial Momentum
-
-arXiv https://arxiv.org/pdf/2203.13479.pdf
-
-(2022) Improving Adversarial Transferability via Neuron Attribution-Based Attacks
-
-arXiv https://arxiv.org/pdf/2204.00008.pdf
-
-(2022) Investigating Top-k White-Box and Transferable Black-box Attack
-
-CVPR https://arxiv.org/pdf/2204.00089.pdf
-
 ### 1.2 Object detection
 
 #### 1.2.1 Digital attack
@@ -281,6 +259,32 @@ arXiv https://arxiv.org/pdf/2204.09498.pdf
 (2022) Better Trigger Inversion Optimization in Backdoor Scanning
 
 CVPR https://www.cs.purdue.edu/homes/taog/docs/CVPR22_Tao.pdf
+
+### 1.6 Transferable attack
+
+(2017) Delving into Transferable Adversarial Examples and Black-box Attacks
+
+ICLR https://readpaper.com/paper/2570685808
+
+(2019) Why do adversarial attacks transfer? explaining transferability of evasion and poisoning attacks
+
+USENIX security symposium https://readpaper.com/paper/2967540978
+
+(2021) Query-Efficient Black-box Adversarial Attacks Guided by a Transfer-based Prior
+
+TPAMI https://readpaper.com/paper/3212790025
+
+(2022) Improving Adversarial Transferability with Spatial Momentum
+
+arXiv https://arxiv.org/pdf/2203.13479.pdf
+
+(2022) Improving Adversarial Transferability via Neuron Attribution-Based Attacks
+
+arXiv https://arxiv.org/pdf/2204.00008.pdf
+
+(2022) Investigating Top-k White-Box and Transferable Black-box Attack
+
+CVPR https://arxiv.org/pdf/2204.00089.pdf
 
 ## 2. Defense
 
