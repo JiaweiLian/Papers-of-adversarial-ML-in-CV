@@ -26,6 +26,10 @@ ICLR https://readpaper.com/paper/1945616565
 
 CVPR https://readpaper.com/paper/2950159395
 
+(2016) The limitations of deep learning in adversarial settings
+
+IEEE European Symposium on Security and Privacy https://readpaper.com/paper/2180612164
+
 (2017) Universal Adversarial Perturbations
 
 CVPR https://readpaper.com/paper/2543927648
