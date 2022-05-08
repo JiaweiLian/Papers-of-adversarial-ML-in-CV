@@ -30,6 +30,14 @@ CVPR https://readpaper.com/paper/2950159395
 
 IEEE European Symposium on Security and Privacy https://readpaper.com/paper/2180612164
 
+(2017) UPSET and ANGRI : Breaking High Performance Image Classifiers
+
+arXiv https://readpaper.com/paper/2727966874
+
+(2017) Practical Black-Box Attacks against Machine Learning
+
+ACM on Asia conference on computer and communications security https://readpaper.com/paper/2951807304
+
 (2017) Universal Adversarial Perturbations
 
 CVPR https://readpaper.com/paper/2543927648
@@ -41,6 +49,10 @@ Proceedings of the 10th ACM Workshop on Artificial Intelligence and Security htt
 (2017) Towards Evaluating the Robustness of Neural Networks
 
 IEEE Symposium on Security and Privacy https://readpaper.com/paper/2963857521
+
+(2018) Stealing hyperparameters in machine learning
+
+IEEE Symposium on Security and Privacy https://readpaper.com/paper/2963844355
 
 (2018) Towards Deep Learning Models Resistant to Adversarial Attacks
 
