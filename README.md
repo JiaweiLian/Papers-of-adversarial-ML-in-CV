@@ -82,6 +82,10 @@ NIPS https://readpaper.com/paper/2942630857
 
 ICML https://readpaper.com/paper/2943646750
 
+(2020) Query-efficient Meta Attack to Deep Neural Networks
+
+ICLR https://readpaper.com/paper/2996694668
+
 (2020) MGAAttack: Toward More Query-efficient Black-box Attack by Microbial Genetic Algorithm
 
 ACM International Conference on Multimedia https://readpaper.com/paper/3093466466
