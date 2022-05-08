@@ -270,6 +270,10 @@ ICLR https://readpaper.com/paper/2570685808
 
 USENIX security symposium https://readpaper.com/paper/2967540978
 
+(2019) Enhancing adversarial example transferability with an intermediate level attack
+
+ICCV https://readpaper.com/paper/2963923490
+
 (2021) Query-Efficient Black-box Adversarial Attacks Guided by a Transfer-based Prior
 
 TPAMI https://readpaper.com/paper/3212790025
