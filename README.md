@@ -106,6 +106,10 @@ Pattern Recognition https://readpaper.com/paper/3021182036
 
 CVPR https://readpaper.com/paper/3173859330
 
+(2021) Simulating Unknown Target Models for Query-Efficient Black-box Attacks
+
+CVPR https://readpaper.com/paper/3167676691
+
 (2022) Adversarial Examples Generation for Deep Product Quantization Networks on Image Retrieval
 
 TPAMI https://readpaper.com/paper/679629297718919168
