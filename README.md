@@ -200,7 +200,7 @@ arXiv https://arxiv.org/pdf/2203.15230.pdf
 
 (2018) ShapeShifter: Robust Physical Adversarial Attack on Faster R-CNN Object Detector
 
-ECML https://readpaper.com/paper/3105806188
+ECML https://readpaper.com/paper/2890883923
 
 (2019) advpattern: Physical-world attacks on deep person re-identification via adversarially transformable patterns
 
