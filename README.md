@@ -442,6 +442,10 @@ ICCV https://readpaper.com/paper/3109453310
 
 ICLR https://readpaper.com/paper/3089560030
 
+(2021) Reliably Fast Adversarial Training via Latent Adversarial Perturbation
+
+ICCV https://readpaper.com/paper/3149460816
+
 (2021) Low Curvature Activations Reduce Overfitting in Adversarial Training
 
 ICCV https://readpaper.com/paper/3129495647
