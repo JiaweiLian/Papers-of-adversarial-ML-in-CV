@@ -214,6 +214,10 @@ ICCV https://readpaper.com/paper/2969616326
 
 CVPR https://readpaper.com/paper/3017485054
 
+(2021) Naturalistic Physical Adversarial Patch for Object Detectors
+
+ICCV https://readpaper.com/paper/3204155906
+
 ##### 1.2.2.1 Untargeted attack
 
 (2017) Adversarial Examples that Fool Detectors
