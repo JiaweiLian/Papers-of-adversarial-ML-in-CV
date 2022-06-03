@@ -98,6 +98,10 @@ IEEE Symposium on Security and Privacy https://readpaper.com/paper/2947657997
 
 ECCV https://readpaper.com/paper/3104218734
 
+(2021) On the Robustness of Vision Transformers to Adversarial Examples
+
+ICCV https://readpaper.com/paper/3143373604
+
 (2021) Understanding adversarial attacks on deep learning based medical image analysis systems
 
 Pattern Recognition https://readpaper.com/paper/3021182036
@@ -292,6 +296,18 @@ ICLR https://readpaper.com/paper/2810192346
 
 IEEE Access https://readpaper.com/paper/2942091739
 
+(2021) CLEAR: Clean-up Sample-Targeted Backdoor in Neural Networks
+
+ICCV https://readpaper.com/paper/3203605672
+
+(2021) Invisible Backdoor Attack With Sample-Specific Triggers
+
+ICCV https://readpaper.com/paper/3195246388
+
+(2021) Rethinking the Backdoor Attacks' Triggers: A Frequency Perspective
+
+ICCV https://readpaper.com/paper/3145384577
+
 (2022) Backdoor attacks-resilient aggregation based on Robust Filtering of Outliers in federated learning for image classification
 
 Knowledge-Based Systems https://www.sciencedirect.com/science/article/pii/S0950705122002635
@@ -329,6 +345,14 @@ CVPR https://readpaper.com/paper/2791683151
 (2021) Query-Efficient Black-box Adversarial Attacks Guided by a Transfer-based Prior
 
 TPAMI https://readpaper.com/paper/3212790025
+
+(2021) Admix: Enhancing the Transferability of Adversarial Attacks
+
+ICCV https://readpaper.com/paper/3127807678
+
+(2021) Feature Importance-Aware Transferable Adversarial Attacks
+
+ICCV https://readpaper.com/paper/3204170749
 
 (2022) Improving Adversarial Transferability with Spatial Momentum
 
@@ -406,9 +430,17 @@ ICML https://readpaper.com/paper/2945793108
 
 NIPS https://readpaper.com/paper/2970317235
 
+(2021) Learnable Boundary Guided Adversarial Training
+
+ICCV https://readpaper.com/paper/3109453310
+
 (2021) Bag of Tricks for Adversarial Training
 
 ICLR https://readpaper.com/paper/3089560030
+
+(2021) Low Curvature Activations Reduce Overfitting in Adversarial Training
+
+ICCV https://readpaper.com/paper/3129495647
 
 (2022) LAS-AT: Adversarial Training with Learnable Attack Strategy 
 
