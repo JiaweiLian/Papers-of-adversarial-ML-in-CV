@@ -502,6 +502,10 @@ arXiv https://arxiv.org/pdf/2203.14046.pdf
 
 CVPR https://readpaper.com/paper/3034214559
 
+(2021) Towards Robustness of Deep Neural Networks via Regularization
+
+ICCV https://readpaper.com/paper/3204341526
+
 (2021) A comprehensive evaluation framework for deep model robustness
 
 TIP https://readpaper.com/paper/3124324543
