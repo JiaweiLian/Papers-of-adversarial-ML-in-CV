@@ -346,6 +346,10 @@ ICCV https://readpaper.com/paper/2963923490
 
 CVPR https://readpaper.com/paper/2791683151
 
+(2021) On Generating Transferable Targeted Perturbations
+
+ICCV https://readpaper.com/paper/3144054256
+
 (2021) Query-Efficient Black-box Adversarial Attacks Guided by a Transfer-based Prior
 
 TPAMI https://readpaper.com/paper/3212790025
