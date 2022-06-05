@@ -500,6 +500,11 @@ Artificial Intelligence Review https://readpaper.com/paper/3200113267
 
 arXiv https://arxiv.org/pdf/2203.14046.pdf
 
+(2022) A Survey of Adversarial Attacks and Defenses for image data on Deep Learning
+
+International Journal of Open Information Technologies https://readpaper.com/paper/693432531365306368
+
+
 ## 4 Adversarial roubustness
 
 (2020) Benchmarking Adversarial Robustness on Image Classification
