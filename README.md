@@ -268,6 +268,10 @@ CVPR https://readpaper.com/paper/2939328166
 
 CVPR https://readpaper.com/paper/3013548068
 
+(2022) Adversarial Sticker: A Stealthy Attack Method in the Physical World
+
+TPAMI https://readpaper.com/paper/693434544404733952
+
 ### 1.4 Aerial image
 
 (2020) Adversarial Patch Camouflage against Aerial Detection
