@@ -290,6 +290,10 @@ Remote Sensing https://readpaper.com/paper/3206814941
 
 arXiv https://readpaper.com/paper/4565749633742020609
 
+(2021) Generating Adversarial Remote Sensing Images via Pan-Sharpening Technique
+
+International Workshop on Adversarial Learning for Multimedia https://readpaper.com/paper/3210110800
+
 (2022) Physical Adversarial Attacks on an Aerial Imagery Object Detector
 
 IEEE Winter Conference on Applications of Computer Vision https://readpaper.com/paper/3194110702
