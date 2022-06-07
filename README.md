@@ -146,6 +146,10 @@ ACM on International Workshop on Security and Privacy Analytics https://dl.acm.o
 
 TPAMI https://readpaper.com/paper/692534338302332928
 
+(2022) Towards Transferable Unrestricted Adversarial Examples with Minimum Changes (CVPR 2021 AI adversarial competition TOP1)
+
+arXiv https://readpaper.com/paper/4576631297925980161
+
 #### 1.1.2 Physical attack
 
 (2017) Adversarial examples in the physical world
