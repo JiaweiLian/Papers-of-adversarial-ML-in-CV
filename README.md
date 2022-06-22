@@ -641,3 +641,7 @@ ICCV https://readpaper.com/paper/3138516171
 
 https://readpaper.com/pdf-annotate/note?noteId=693443638097584128&pdfId=693443199100080128
 
+(2022) Frontiers in Fake Media Generation and Detection
+
+https://readpaper.com/pdf-annotate/note?pdfId=699582431202119680&noteId=699582851694489601
+
