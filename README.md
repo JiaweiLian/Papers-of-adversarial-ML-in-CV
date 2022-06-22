@@ -348,6 +348,10 @@ arXiv https://arxiv.org/pdf/2204.09498.pdf
 
 CVPR https://www.cs.purdue.edu/homes/taog/docs/CVPR22_Tao.pdf
 
+(2022) BadDet: Backdoor Attacks on Object Detection
+
+arXiv https://readpaper.com/paper/4629573410763063297
+
 ### 1.6 Transferable attack
 
 (2017) Delving into Transferable Adversarial Examples and Black-box Attacks
