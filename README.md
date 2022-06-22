@@ -198,6 +198,10 @@ International Conference on Acoustics, Speech, and Signal Processing https://rea
 
 International Conference on Multimedia and Expo https://readpaper.com/paper/3136499044
 
+(2022) DetectorDetective: Investigating the Effects of Adversarial Examples on Object Detectors
+
+CVPR https://readpaper.com/paper/699576587237224448
+
 ##### 1.2.1.2 Targeted attack
 
 (2017) Adversarial Examples for Semantic Segmentation and Object Detection
