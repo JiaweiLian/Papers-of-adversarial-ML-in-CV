@@ -398,6 +398,10 @@ arXiv https://arxiv.org/pdf/2204.00008.pdf
 
 CVPR https://arxiv.org/pdf/2204.00089.pdf
 
+(2022) Boosting the Adversarial Transferability of Surrogate Model with Dark Knowledge
+
+arXiv https://readpaper.com/paper/4635753616452370433
+
 ## 2. Defense
 
 (2018) Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks
