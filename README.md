@@ -230,6 +230,10 @@ CVPR https://readpaper.com/paper/3017485054
 
 ICCV https://readpaper.com/paper/3204155906
 
+(2021) Enhancing Real-World Adversarial Patches through 3D Modeling of Complex Target Scenes
+
+arXiv https://readpaper.com/paper/3197971994
+
 ##### 1.2.2.1 Untargeted attack
 
 (2017) Adversarial Examples that Fool Detectors
