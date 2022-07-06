@@ -234,6 +234,10 @@ ICCV https://readpaper.com/paper/3204155906
 
 arXiv https://readpaper.com/paper/3197971994
 
+(2022) Physical Attack on Monocular Depth Estimation in Autonomous Driving with Optimal Adversarial Patches
+
+ECCV https://readpaper.com/pdf-annotate/note?pdfId=704620294024081408&noteId=704620334182600704
+
 ##### 1.2.2.1 Untargeted attack
 
 (2017) Adversarial Examples that Fool Detectors
