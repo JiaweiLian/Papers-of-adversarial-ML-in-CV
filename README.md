@@ -172,6 +172,10 @@ CVPR https://readpaper.com/paper/2769041110
 
 CVPR https://readpaper.com/paper/3010867827
 
+(2021) Meta-Attack: Class-Agnostic and Model-Agnostic Physical Adversarial Attack
+
+ICCV https://readpaper.com/paper/3202707779
+
 ### 1.2 Object detection
 
 #### 1.2.1 Digital attack
