@@ -298,6 +298,10 @@ TPAMI https://readpaper.com/paper/693434544404733952
 
 ### 1.4 Aerial image
 
+(2018) Adversarial Examples in Remote Sensing
+
+ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems https://readpaper.com/paper/2803898618
+
 (2020) Adversarial Patch Camouflage against Aerial Detection
 
 Proceedings of the SPIE (The International Society for Optical Engineering) https://readpaper.com/paper/3082135525
