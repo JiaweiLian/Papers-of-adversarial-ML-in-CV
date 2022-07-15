@@ -326,9 +326,21 @@ TGRS https://readpaper.com/paper/3127159478
 
 TGRS https://readpaper.com/paper/3024988590
 
+(2021) Assessing the Threat of Adversarial Examples on Deep Neural Networks for Remote Sensing Scene Classification: Attacks and Defenses
+
+TGRS https://readpaper.com/paper/3035821888
+
 (2022) Physical Adversarial Attacks on an Aerial Imagery Object Detector
 
 IEEE Winter Conference on Applications of Computer Vision https://readpaper.com/paper/3194110702
+
+(2022) Universal Adversarial Examples in Remote Sensing: Methodology and Benchmark
+
+TGRS https://readpaper.com/paper/4592348928746201089
+
+(2022) Perturbation-Seeking Generative Adversarial Networks: A Defense Framework for Remote Sensing Image Scene Classification
+
+TGRS https://readpaper.com/paper/3172075653
 
 ### 1.5 Backdoor attack
 
