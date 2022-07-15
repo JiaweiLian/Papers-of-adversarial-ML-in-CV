@@ -318,6 +318,14 @@ arXiv https://readpaper.com/paper/4565749633742020609
 
 International Workshop on Adversarial Learning for Multimedia https://readpaper.com/paper/3210110800
 
+(2021) An Empirical Study of Adversarial Examples on Remote Sensing Image Scene Classification
+
+TGRS https://readpaper.com/paper/3127159478
+
+(2021) Generating natural adversarial Remote Sensing Images
+
+TGRS https://readpaper.com/paper/3024988590
+
 (2022) Physical Adversarial Attacks on an Aerial Imagery Object Detector
 
 IEEE Winter Conference on Applications of Computer Vision https://readpaper.com/paper/3194110702
