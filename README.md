@@ -534,6 +534,10 @@ CVPR https://arxiv.org/pdf/2203.06616.pdf
 
 IEEE Transactions on Dependable and Secure Computing https://ieeexplore.ieee.org/abstract/document/9754227
 
+(2022) Removing Batch Normalization Boosts Adversarial Training
+
+(ICML) https://readpaper.com/paper/4642270444439748609
+
 ## 3. Review
 
 (2018) Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey
