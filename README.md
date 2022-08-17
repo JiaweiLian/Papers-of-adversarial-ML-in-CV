@@ -588,6 +588,9 @@ arXiv https://arxiv.org/pdf/2203.14046.pdf
 
 International Journal of Open Information Technologies https://readpaper.com/paper/693432531365306368
 
+(2022) Dataset Security for Machine Learning: Data Poisoning, Backdoor Attacks, and Defenses
+
+TPAMI https://readpaper.com/paper/3117572899
 
 ## 4 Adversarial roubustness
 
