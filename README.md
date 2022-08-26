@@ -346,6 +346,10 @@ ACM SIGSPATIAL International Conference on Advances in Geographic Information Sy
 
 Proceedings of the SPIE (The International Society for Optical Engineering) https://readpaper.com/paper/3082135525
 
+(2021) Adversarial Attack for SAR Target Recognition Based on UNet-Generative Adversarial Network
+
+Remote Sensing https://readpaper.com/paper/3209551844
+
 (2021) Scale-Adaptive Adversarial Patch Attack for Remote Sensing Image Aircraft Detection
 
 Remote Sensing https://readpaper.com/paper/3206814941
@@ -369,6 +373,10 @@ TGRS https://readpaper.com/paper/3024988590
 (2021) Assessing the Threat of Adversarial Examples on Deep Neural Networks for Remote Sensing Scene Classification: Attacks and Defenses
 
 TGRS https://readpaper.com/paper/3035821888
+
+(2022) An Empirical Study of Fully Black-Box and Universal Adversarial Attack for SAR Target Recognition
+
+Remote Sensing https://readpaper.com/paper/722995825549680640
 
 (2022) Physical Adversarial Attacks on an Aerial Imagery Object Detector
 
