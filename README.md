@@ -2,13 +2,25 @@
 
 ## 1. Attack
 
+(2020) Open-sourced Dataset Protection via Backdoor Watermarking.
+
+NIPS https://readpaper.com/paper/3093403688
+
 (2020) Targeted attack for deep hashing based retrieval
 
 ECCV https://readpaper.com/paper/3108980562
 
+(2021) Universal Adversarial Head: Practical Protection against Video Data Leakage
+
+ICML https://readpaper.com/paper/722985713689694208
+
 (2021) Targeted Attack against Deep Neural Networks via Flipping Limited Weight Bits
 
 ICLR https://readpaper.com/paper/3125834223
+
+(2022) Hardly Perceptible Trojan Attack against Neural Networks with Bit Flips
+
+ECCV https://readpaper.com/paper/4650590622298685441
 
 (2022) Versatile Weight Attack via Flipping Limited Bits
 
