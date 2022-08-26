@@ -532,6 +532,10 @@ arXiv https://arxiv.org/pdf/2204.06213.pdf
 
 arXiv https://readpaper.com/paper/4652438820436852737
 
+(2022) Can We Mitigate Backdoor Attack Using Adversarial Detection Methods?
+
+IEEE Transactions on Dependable and Secure Computing https://readpaper.com/paper/4652010801293443073
+
 ### 2.1 Adversarial training
 
 (2018) Towards Deep Learning Models Resistant to Adversarial Attacks
