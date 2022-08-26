@@ -2,6 +2,10 @@
 
 ## 1. Attack
 
+(2022) Versatile Weight Attack via Flipping Limited Bits
+
+arXiv(TPAMI) https://readpaper.com/paper/4650209616425140225
+
 ### 1.1 Image classification
 
 (2020) Bias-based Universal Adversarial Patch Attack for Automatic Check-out
@@ -591,6 +595,10 @@ International Journal of Open Information Technologies https://readpaper.com/pap
 (2022) Dataset Security for Machine Learning: Data Poisoning, Backdoor Attacks, and Defenses
 
 TPAMI https://readpaper.com/paper/3117572899
+
+(2022) Deep Learning and Its Adversarial Robustness: A Brief Introduction
+
+Handbook on Computer Learning and Intelligence https://readpaper.com/paper/722982242815053824
 
 ## 4 Adversarial roubustness
 
