@@ -2,6 +2,14 @@
 
 ## 1. Attack
 
+(2020) Targeted attack for deep hashing based retrieval
+
+ECCV https://readpaper.com/paper/3108980562
+
+(2021) Targeted Attack against Deep Neural Networks via Flipping Limited Weight Bits
+
+ICLR https://readpaper.com/paper/3125834223
+
 (2022) Versatile Weight Attack via Flipping Limited Bits
 
 arXiv(TPAMI) https://readpaper.com/paper/4650209616425140225
