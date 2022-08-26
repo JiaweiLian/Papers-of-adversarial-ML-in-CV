@@ -652,6 +652,10 @@ TPAMI https://readpaper.com/paper/3117572899
 
 Handbook on Computer Learning and Intelligence https://readpaper.com/paper/722982242815053824
 
+(2022) Attack and Defense: Adversarial Security of Data-driven FDC Systems
+
+IEEE Transactions on Industrial Informatics https://readpaper.com/paper/722998809644765184
+
 ## 4 Adversarial roubustness
 
 (2020) Benchmarking Adversarial Robustness on Image Classification
