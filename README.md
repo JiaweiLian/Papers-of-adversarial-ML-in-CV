@@ -38,6 +38,10 @@ arXiv(TPAMI) https://readpaper.com/paper/4650209616425140225
 
 arXiv https://readpaper.com/paper/4649964861992747009
 
+(2022) Blackbox Attacks via Surrogate Ensemble Search
+
+arXiv https://readpaper.com/paper/4654941164613419009
+
 ### 1.1 Image classification
 
 (2020) Bias-based Universal Adversarial Patch Attack for Automatic Check-out
