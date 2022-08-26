@@ -26,6 +26,10 @@ ECCV https://readpaper.com/paper/4650590622298685441
 
 arXiv(TPAMI) https://readpaper.com/paper/4650209616425140225
 
+(2022) SegPGD: An Effective and Efficient Adversarial Attack for Evaluating and Boosting Segmentation Robustness
+
+arXiv https://readpaper.com/paper/4649964861992747009
+
 ### 1.1 Image classification
 
 (2020) Bias-based Universal Adversarial Patch Attack for Automatic Check-out
