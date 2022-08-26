@@ -528,6 +528,10 @@ arXiv https://arxiv.org/pdf/2204.06213.pdf
 
 (ICML) https://readpaper.com/paper/710725521532731392
 
+(2022) Attacking Adversarial Defences by Smoothing the Loss Landscape
+
+arXiv https://readpaper.com/paper/4652438820436852737
+
 ### 2.1 Adversarial training
 
 (2018) Towards Deep Learning Models Resistant to Adversarial Attacks
