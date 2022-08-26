@@ -2,6 +2,14 @@
 
 ## 1. Attack
 
+(2018) EAD: Elastic-Net Attacks to Deep Neural Networks via Adversarial Examples
+
+AAAI https://readpaper.com/paper/2755655609
+
+(2019) Autozoom: Autoencoder-based zeroth order optimization method for attacking black-box neural networks
+
+AAAI https://readpaper.com/paper/2807455131
+
 (2020) Open-sourced Dataset Protection via Backdoor Watermarking.
 
 NIPS https://readpaper.com/paper/3093403688
