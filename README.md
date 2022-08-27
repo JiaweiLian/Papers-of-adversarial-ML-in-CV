@@ -340,6 +340,10 @@ CVPR https://readpaper.com/paper/3013548068
 
 TPAMI https://readpaper.com/paper/693434544404733952
 
+(2022) Controllable Evaluation and Generation of Physical Adversarial Patch on Face Recognition
+
+arXiv https://readpaper.com/paper/4600165473480351745
+
 ### 1.4 Aerial image
 
 (2018) Adversarial Examples in Remote Sensing
@@ -523,6 +527,10 @@ ICCV https://readpaper.com/paper/2981495453
 (2019) You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle
 
 NIPS https://readpaper.com/paper/2970316625
+
+(2021) Two Coupled Rejection Metrics Can Tell Adversarial Examples Apart
+
+ICCV https://readpaper.com/paper/4566822518791348225
 
 (2021) Robust and Accurate Object Detection via Adversarial Learning
 
