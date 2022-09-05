@@ -784,6 +784,10 @@ ICCV https://readpaper.com/paper/3138516171
 
 ## 7 Book
 
+(2018) Adversarial Machine Learning
+
+https://readpaper.com/paper/1974314988
+
 (2022) Security and Artificial Intelligence
 
 https://readpaper.com/pdf-annotate/note?noteId=693443638097584128&pdfId=693443199100080128
