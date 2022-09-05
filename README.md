@@ -52,6 +52,10 @@ ECCV https://readpaper.com/paper/3040296059
 
 TIP https://readpaper.com/paper/3215515227
 
+(2022) Practical Evaluation of Adversarial Robustness via Adaptive Auto Attack
+
+CVPR https://readpaper.com/paper/4600182173315637249
+
 #### 1.1.1 Digital attack
 
 (2014) Intriguing properties of neural networks
