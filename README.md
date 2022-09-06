@@ -234,6 +234,10 @@ AAAI https://readpaper.com/paper/2890054895
 
 arXiv https://readpaper.com/paper/3093958125
 
+(2020) EfficientWarm Restart Adversarial Attack for Object Detection
+
+TianChi https://readpaper.com/paper/726935485799628800
+
 (2021) Fooling Object Detectors: Adversarial Attacks by Half-Neighbor Masks
 
 arXiv https://readpaper.com/paper/3120875058
