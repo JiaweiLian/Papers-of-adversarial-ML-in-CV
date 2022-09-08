@@ -270,6 +270,10 @@ CVPR https://arxiv.org/pdf/2203.15230.pdf
 
 ECML https://readpaper.com/paper/2890883923
 
+(2019) Perceptual-Sensitive GAN for Generating Adversarial Patches
+
+AAAI https://readpaper.com/paper/2905423756
+
 (2019) advpattern: Physical-world attacks on deep person re-identification via adversarially transformable patterns
 
 ICCV https://readpaper.com/paper/2969616326
