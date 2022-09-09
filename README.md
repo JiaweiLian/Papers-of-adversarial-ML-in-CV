@@ -158,6 +158,10 @@ CVPR https://readpaper.com/paper/3173859330
 
 CVPR https://readpaper.com/paper/3167676691
 
+(2021) AdvDrop: Adversarial Attack to DNNs by Dropping Information
+
+ICCV https://readpaper.com/paper/3195154451
+
 (2022) Adversarial Examples Generation for Deep Product Quantization Networks on Image Retrieval
 
 TPAMI https://readpaper.com/paper/679629297718919168
@@ -219,6 +223,10 @@ CVPR https://readpaper.com/paper/3010867827
 (2021) Meta-Attack: Class-Agnostic and Model-Agnostic Physical Adversarial Attack
 
 ICCV https://readpaper.com/paper/3202707779
+
+(2021) Adversarial Laser Beam: Effective Physical-World Attack to DNNs in a Blink
+
+CVPR https://readpaper.com/paper/3135740157
 
 ### 1.2 Object detection
 
