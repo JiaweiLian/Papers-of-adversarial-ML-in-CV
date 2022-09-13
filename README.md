@@ -198,6 +198,10 @@ TPAMI https://readpaper.com/paper/692534338302332928
 
 arXiv https://readpaper.com/paper/4576631297925980161
 
+(2022) Frequency-Tuned Universal Adversarial Attacks on Texture Recognition
+
+TIP https://readpaper.com/paper/729575454301396992
+
 #### 1.1.2 Physical attack
 
 (2017) Adversarial examples in the physical world
