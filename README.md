@@ -422,6 +422,10 @@ TGRS https://readpaper.com/paper/4592348928746201089
 
 TGRS https://readpaper.com/paper/3172075653
 
+(2022) The Weaknesses of Adversarial Camouflage in Overhead Imagery
+
+arXiv https://readpaper.com/paper/4643328623286173697
+
 ### 1.5 Backdoor attack
 
 (2018) Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks
