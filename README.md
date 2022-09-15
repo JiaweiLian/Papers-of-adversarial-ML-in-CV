@@ -94,6 +94,10 @@ Proceedings of the 10th ACM Workshop on Artificial Intelligence and Security htt
 
 IEEE Symposium on Security and Privacy https://readpaper.com/paper/2963857521
 
+(2018) LaVAN: Localized and Visible Adversarial Noise
+
+ICML https://readpaper.com/paper/2783237807
+
 (2018) Stealing hyperparameters in machine learning
 
 IEEE Symposium on Security and Privacy https://readpaper.com/paper/2963844355
