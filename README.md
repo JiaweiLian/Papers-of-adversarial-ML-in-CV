@@ -596,6 +596,10 @@ arXiv https://readpaper.com/paper/4652438820436852737
 
 IEEE Transactions on Dependable and Secure Computing https://readpaper.com/paper/4652010801293443073
 
+(2022) Adversarially-Aware Robust Object Detector
+
+ECCV https://readpaper.com/paper/4645855752485879809
+
 ### 2.1 Adversarial training
 
 (2018) Towards Deep Learning Models Resistant to Adversarial Attacks
