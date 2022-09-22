@@ -238,6 +238,10 @@ CVPR https://readpaper.com/paper/3135740157
 
 ### 1.2 Object detection
 
+(2022) Benchmarking and deeper analysis of adversarial patch attack on object detectors
+
+IJCAI https://readpaper.com/paper/732902912859156480
+
 #### 1.2.1 Digital attack
 
 ##### 1.2.1.1 Untargeted attack
