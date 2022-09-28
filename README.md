@@ -820,6 +820,12 @@ ICCV https://readpaper.com/paper/2599765304
 
 (2021) Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
 
+### Others
+
+(2018) Focal Loss for Dense Object Detection
+
+TPAMI https://readpaper.com/paper/2743473392
+
 ICCV https://readpaper.com/paper/3138516171
 
 ## 7 Book
