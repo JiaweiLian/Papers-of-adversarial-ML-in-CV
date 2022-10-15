@@ -56,6 +56,10 @@ TIP https://readpaper.com/paper/3215515227
 
 CVPR https://readpaper.com/paper/4600182173315637249
 
+(2022) ViewFool: Evaluating the Robustness of Visual Recognition to Adversarial Viewpoints
+
+arxiv https://readpaper.com/paper/734260074340528128
+
 #### 1.1.1 Digital attack
 
 (2014) Intriguing properties of neural networks
@@ -317,6 +321,10 @@ ECCV https://readpaper.com/pdf-annotate/note?pdfId=704620294024081408&noteId=704
 (2022) FCA: Learning a 3D Full-coverage Vehicle Camouflage for Multi-view Physical Adversarial Attack
 
 AAAI https://readpaper.com/paper/3200450146
+
+(2022) Physical Backdoor Attacks to Lane Detection Systems in Autonomous Driving
+
+ACM MM https://readpaper.com/paper/4597279222582484993
 
 ##### 1.2.2.1 Untargeted attack
 
