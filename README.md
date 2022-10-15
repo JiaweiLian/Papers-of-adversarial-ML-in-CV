@@ -684,6 +684,10 @@ Computers & Security https://readpaper.com/paper/3128781534
 
 计算机科学 https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=JSJA202202010&uniplatform=NZKPT&v=x2k_d6-t3_3-msLZcEISOxjivwfJwnReK0dDZorYA7nOCuR9bogu0bkgRCG4A8eM
 
+(2022) 面向图像分类的对抗鲁棒性评估综述
+
+计算机研究与发展 https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=JFYZ202210004&uniplatform=NZKPT&v=SfE2u2pSsAjTE-7BQycuvRrFsq6dsb9vECtBWYyG-tgU2rZd9675SGItEy4yc3GC
+
 (2022) 深度学习模型鲁棒性研究综述
 
 计算机学报 https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=JSJX202201011&uniplatform=NZKPT&v=Ok8Ry4WzimMVSWLGagE1iQu47JtS5Uw18qDMMzVfhFuz9YjVOKO5Gr2xZQqElxh-
