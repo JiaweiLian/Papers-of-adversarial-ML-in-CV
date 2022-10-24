@@ -724,6 +724,10 @@ Handbook on Computer Learning and Intelligence https://readpaper.com/paper/72298
 
 IEEE Transactions on Industrial Informatics https://readpaper.com/paper/722998809644765184
 
+(2022) BackdoorBench: A Comprehensive Benchmark of Backdoor Learning
+
+NIPS https://readpaper.com/paper/4639723727236382721
+
 ## 4 Adversarial roubustness
 
 (2020) Benchmarking Adversarial Robustness on Image Classification
