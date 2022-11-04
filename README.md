@@ -732,6 +732,14 @@ IEEE Transactions on Industrial Informatics https://readpaper.com/paper/72299880
 
 NIPS https://readpaper.com/paper/4639723727236382721
 
+(2022) A Survey on Physical Adversarial Attack in Computer Vision
+
+arXiv https://readpaper.com/paper/4673040705627635713
+
+(2022) ImageNet-Patch: A Dataset for Benchmarking Machine Learning Robustness against Adversarial Patches
+
+Pattern Recognition https://readpaper.com/paper/4599813580069543937
+
 ## 4 Adversarial roubustness
 
 (2020) Benchmarking Adversarial Robustness on Image Classification
