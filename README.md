@@ -326,6 +326,10 @@ AAAI https://readpaper.com/paper/3200450146
 
 ACM MM https://readpaper.com/paper/4597279222582484993
 
+(2022) Assessing the Impact of Transformations on Physical Adversarial Attacks
+
+Proceedings of ACM on Computer and Communications Securityhttps://readpaper.com/paper/752803192321359872
+
 ##### 1.2.2.1 Untargeted attack
 
 (2017) Adversarial Examples that Fool Detectors
