@@ -348,6 +348,10 @@ ECCV https://readpaper.com/paper/2982663445
 
 CVPR https://readpaper.com/paper/3117825960
 
+(2022) Infrared Invisible Clothing: Hiding from Infrared Detectors at Multiple Angles in Real World
+
+CVPR https://readpaper.com/paper/692130605948379136
+
 ##### 1.2.2.2 Targeted attack
 
 (2017) Adversarial Patch
