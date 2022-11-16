@@ -744,6 +744,10 @@ arXiv https://readpaper.com/paper/4673040705627635713
 
 Pattern Recognition https://readpaper.com/paper/4599813580069543937
 
+(2022) Physically Adversarial Attacks and Defenses in Computer Vision: A Survey
+
+arXiv https://readpaper.com/paper/4686086011009122305
+
 ## 4 Adversarial roubustness
 
 (2020) Benchmarking Adversarial Robustness on Image Classification
