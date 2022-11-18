@@ -446,6 +446,10 @@ TGRS https://readpaper.com/paper/3024988590
 
 TGRS https://readpaper.com/paper/3035821888
 
+(2022) Adversarial Patch Attack on Multi-Scale Object Detection for UAV Remote Sensing Images
+
+Remote Sensing https://readpaper.com/paper/753518961568370688
+
 (2022) An Empirical Study of Fully Black-Box and Universal Adversarial Attack for SAR Target Recognition
 
 Remote Sensing https://readpaper.com/paper/722995825549680640
