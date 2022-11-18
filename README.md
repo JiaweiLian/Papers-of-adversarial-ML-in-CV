@@ -236,6 +236,10 @@ CVPR https://readpaper.com/paper/3010867827
 
 ICCV https://readpaper.com/paper/3202707779
 
+(2021) Optical Adversarial Attack
+
+ICCV https://readpaper.com/paper/3210780202
+
 (2021) Adversarial Laser Beam: Effective Physical-World Attack to DNNs in a Blink
 
 CVPR https://readpaper.com/paper/3135740157
