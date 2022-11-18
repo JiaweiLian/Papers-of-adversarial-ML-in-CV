@@ -566,7 +566,7 @@ CVPR https://arxiv.org/pdf/2204.00089.pdf
 
 arXiv https://readpaper.com/paper/4635753616452370433
 
-### 1.7 attack of lidar perception
+### 1.7 attack of LiDAR perception
 
 (2020) Towards Robust LiDAR-based Perception in Autonomous Driving: General Black-box Adversarial Sensor Attack and Countermeasures
 
@@ -575,6 +575,10 @@ USENIX Security Symposium https://readpaper.com/paper/3048723201
 (2021) Can We Use Arbitrary Objects to Attack LiDAR Perception in Autonomous Driving
 
 ACM SIGSAC Conference on Computer and Communications Security https://readpaper.com/paper/3211707810
+
+(2023) PLA-LiDAR: Physical Laser Attacks against LiDAR-based 3D Object Detection in Autonomous Vehicle
+
+IEEE Symposium on Security and Privacy https://readpaper.com/paper/753520635979743232
 
 ## 2. Defense
 
