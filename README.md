@@ -844,7 +844,7 @@ IEEE Transactions on Geoscience and Remote Sensing https://readpaper.com/paper/2
 
 ### DOTA
 
-(2018) DOTA: A Large-Scale Dataset for Object Detection in Aerial Images” Computer Vision and Pattern Recognition
+(2018) DOTA: A Large-Scale Dataset for Object Detection in Aerial Images
 
 CVPR https://readpaper.com/paper/2769221444
 
