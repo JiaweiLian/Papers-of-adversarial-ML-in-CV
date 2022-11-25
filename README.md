@@ -778,6 +778,10 @@ NIPS https://readpaper.com/paper/4639723727236382721
 
 arXiv https://readpaper.com/paper/4673040705627635713
 
+(2022) Adversarial examples based on object detection tasks: A survey
+
+Neurocomputing https://readpaper.com/paper/1535655781725233664
+
 (2022) ImageNet-Patch: A Dataset for Benchmarking Machine Learning Robustness against Adversarial Patches
 
 Pattern Recognition https://readpaper.com/paper/4599813580069543937
