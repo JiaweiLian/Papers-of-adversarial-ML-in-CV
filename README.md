@@ -654,6 +654,10 @@ IEEE Transactions on Dependable and Secure Computing https://readpaper.com/paper
 
 ECCV https://readpaper.com/paper/4645855752485879809
 
+(2022) Defending Person Detection Against Adversarial Patch Attack by Using Universal Defensive Frame
+
+TIP https://readpaper.com/paper/4681011105825308673
+
 ### 2.1 Adversarial training
 
 (2018) Towards Deep Learning Models Resistant to Adversarial Attacks
