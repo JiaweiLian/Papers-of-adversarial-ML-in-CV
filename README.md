@@ -566,7 +566,7 @@ CVPR https://arxiv.org/pdf/2204.00089.pdf
 
 arXiv https://readpaper.com/paper/4635753616452370433
 
-### 1.7 attack of LiDAR perception
+### 1.7 Attack of LiDAR perception
 
 (2020) Towards Robust LiDAR-based Perception in Autonomous Driving: General Black-box Adversarial Sensor Attack and Countermeasures
 
