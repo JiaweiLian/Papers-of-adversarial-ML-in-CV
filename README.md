@@ -576,6 +576,10 @@ USENIX Security Symposium https://readpaper.com/paper/3048723201
 
 CVPR https://readpaper.com/paper/3014264214
 
+(2021) Invisible for both Camera and LiDAR: Security of Multi-Sensor Fusion based Perception in Autonomous Driving Under Physical-World Attacks
+
+IEEE Symposium on Security and  Privacy
+
 (2021) Can We Use Arbitrary Objects to Attack LiDAR Perception in Autonomous Driving
 
 ACM SIGSAC Conference on Computer and Communications Security https://readpaper.com/paper/3211707810
