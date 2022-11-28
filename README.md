@@ -572,6 +572,10 @@ arXiv https://readpaper.com/paper/4635753616452370433
 
 USENIX Security Symposium https://readpaper.com/paper/3048723201
 
+(2020) Physically Realizable Adversarial Examples for LiDAR Object Detection
+
+CVPR https://readpaper.com/paper/3014264214
+
 (2021) Can We Use Arbitrary Objects to Attack LiDAR Perception in Autonomous Driving
 
 ACM SIGSAC Conference on Computer and Communications Security https://readpaper.com/paper/3211707810
