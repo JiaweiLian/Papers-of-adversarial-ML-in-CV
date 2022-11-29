@@ -722,6 +722,10 @@ IEEE Access https://readpaper.com/paper/2962700793
 
 arXiv https://readpaper.com/paper/2893554781
 
+(2019) Review of Artificial Intelligence Adversarial Attack and Defense Technologies
+
+Applied Sciences https://readpaper.com/paper/2919491917
+
 (2019) A General Framework for Adversarial Examples with Objectives
 
 ACM Transactions on Privacy and Security https://readpaper.com/paper/2932026309
