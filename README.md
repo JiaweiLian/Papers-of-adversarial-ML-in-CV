@@ -794,6 +794,10 @@ Neurocomputing https://readpaper.com/paper/1535655781725233664
 
 Pattern Recognition https://readpaper.com/paper/4599813580069543937
 
+(2022) Physical Adversarial Attack meets Computer Vision: A Decade Survey
+
+ACM Computing Surveys https://readpaper.com/paper/4674488275109429249
+
 (2022) Physically Adversarial Attacks and Defenses in Computer Vision: A Survey
 
 arXiv https://readpaper.com/paper/4686086011009122305
