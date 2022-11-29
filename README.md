@@ -718,6 +718,10 @@ IEEE Transactions on Dependable and Secure Computing https://ieeexplore.ieee.org
 
 IEEE Access https://readpaper.com/paper/2962700793
 
+(2018) A Survey of Safety and Trustworthiness of Deep Neural Networks: Verification, Testing, Adversarial Attack and Defence, and Interpretability
+
+Computer Science Review https://readpaper.com/paper/3030836721
+
 (2018) Adversarial Attacks and Defences: A Survey
 
 arXiv https://readpaper.com/paper/2893554781
@@ -733,6 +737,10 @@ ACM Transactions on Privacy and Security https://readpaper.com/paper/2932026309
 (2020) Adversarial Examples on Object Recognition: A Comprehensive Survey
 
 ACM Computing Surveys https://readpaper.com/paper/3035584216
+
+(2021) Advances in adversarial attacks and defenses in computer vision: A survey
+
+IEEE Access https://readpaper.com/paper/3211999566
 
 (2021) Adversarial Machine Learning in Image Classification: A Survey Toward the Defender’s Perspective 
 
