@@ -378,6 +378,10 @@ USENIX Security Symposium https://readpaper.com/paper/2964175514
 
 CVPR https://readpaper.com/paper/3185095134
 
+(2022) Attacking Object Detector Using A Universal Targeted Label-Switch Patch
+
+arXiv https://readpaper.com/paper/4690797453977337857
+
 ### 1.3 Face recognition
 
 (2016) Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition
@@ -565,6 +569,10 @@ CVPR https://arxiv.org/pdf/2204.00089.pdf
 (2022) Boosting the Adversarial Transferability of Surrogate Model with Dark Knowledge
 
 arXiv https://readpaper.com/paper/4635753616452370433
+
+(2022) T-SEA: Transfer-based Self-Ensemble Attack on Object Detection
+
+arXiv https://readpaper.com/paper/4691159849971499009
 
 ### 1.7 Attack of LiDAR perception
 
