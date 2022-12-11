@@ -458,6 +458,10 @@ Remote Sensing https://readpaper.com/paper/753518961568370688
 
 Remote Sensing https://readpaper.com/paper/722995825549680640
 
+(2022) Targeted Universal Adversarial Examples for Remote Sensing
+
+Remote sensing https://readpaper.com/paper/1559243805918872320
+
 (2022) Physical Adversarial Attacks on an Aerial Imagery Object Detector
 
 IEEE Winter Conference on Applications of Computer Vision https://readpaper.com/paper/3194110702
