@@ -42,6 +42,10 @@ arXiv https://readpaper.com/paper/4649964861992747009
 
 arXiv https://readpaper.com/paper/4654941164613419009
 
+(2022) Rethinking Label Flipping Attack: From Sample Masking to Sample Thresholding
+
+TPAMI https://readpaper.com/paper/1563678222985585408
+
 ### 1.1 Image classification
 
 (2020) Bias-based Universal Adversarial Patch Attack for Automatic Check-out
