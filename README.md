@@ -486,6 +486,10 @@ TGRS https://readpaper.com/paper/3172075653
 
 arXiv https://readpaper.com/paper/4643328623286173697
 
+(2022) Benchmarking Adversarial Patch Against Aerial Detection
+
+TGRS https://readpaper.com/paper/4684999213684113409
+
 ### 1.5 Backdoor attack
 
 (2018) Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks
