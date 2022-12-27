@@ -46,6 +46,10 @@ arXiv https://readpaper.com/paper/4654941164613419009
 
 TPAMI https://readpaper.com/paper/1563678222985585408
 
+(2022) U-Turn: Crafting Adversarial Queries with Opposite-Direction Features
+
+IJCV https://readpaper.com/paper/1582515409722092288
+
 ### 1.1 Image classification
 
 (2020) Bias-based Universal Adversarial Patch Attack for Automatic Check-out
