@@ -540,6 +540,10 @@ CVPR https://www.cs.purdue.edu/homes/taog/docs/CVPR22_Tao.pdf
 
 arXiv https://readpaper.com/paper/4629573410763063297
 
+(2023) Disguising Attacks with Explanation-Aware Backdoors
+
+IEEE Symposium on Security and Privacy https://readpaper.com/paper/1591493969883248384
+
 ### 1.6 Transferable attack
 
 (2017) Delving into Transferable Adversarial Examples and Black-box Attacks
