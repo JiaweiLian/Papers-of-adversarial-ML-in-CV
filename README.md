@@ -846,6 +846,10 @@ ACM Computing Surveys https://readpaper.com/paper/4674488275109429249
 
 arXiv https://readpaper.com/paper/4686086011009122305
 
+(2022) AI Security for Geoscience and Remote Sensing: Challenges and Future Trends
+
+IEEE Geoscience and Remote Sensing Magazine
+
 ## 4 Adversarial roubustness
 
 (2020) Benchmarking Adversarial Robustness on Image Classification
