@@ -698,6 +698,10 @@ ICLR https://readpaper.com/paper/3122796494
 
 arXiv https://readpaper.com/paper/3138047508
 
+(2021) PatchGuard: A Provably Robust Defense against Adversarial Patches via Small Receptive Fields and Masking
+
+USENIX Security Symposium https://readpaper.com/paper/3093131568
+
 (2022) Defensive Patches for Robust Recognition in the Physical World
 
 arXiv https://arxiv.org/pdf/2204.06213.pdf
