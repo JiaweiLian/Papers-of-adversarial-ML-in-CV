@@ -358,6 +358,10 @@ ACM Computer and Communications Security Conference https://readpaper.com/paper/
 
 TPAMI https://readpaper.com/paper/4705295637000765441
 
+(2022) Transferable Physical Attack against Object Detection with Separable Attention
+
+arXiv https://readpaper.com/paper/4625598396263055361
+
 ##### 1.2.2.1 Untargeted attack
 
 (2017) Adversarial Examples that Fool Detectors
