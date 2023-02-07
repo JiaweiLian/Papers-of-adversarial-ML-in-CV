@@ -892,6 +892,10 @@ TPAMI https://readpaper.com/paper/3200643978  http://robust.art/
 
 ACM on International Workshop on Security and Privacy Analytics https://dl.acm.org/doi/abs/10.1145/3510548.3519369
 
+(2022) Adversarial Robustness via Fisher-Rao Regularization.
+
+TPAMI https://readpaper.com/paper/3173019690
+
 ## 5. Remote sensing datasets
 
 ### RSOD
