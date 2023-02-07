@@ -698,6 +698,10 @@ ICLR https://readpaper.com/paper/3122796494
 
 arXiv https://readpaper.com/paper/3138047508
 
+(2021) Scalecert: Scalable certified defense against adversarial patches with sparse superficial layers
+
+NIPS https://readpaper.com/paper/4551625574506831873
+
 (2021) PatchGuard: A Provably Robust Defense against Adversarial Patches via Small Receptive Fields and Masking
 
 USENIX Security Symposium https://readpaper.com/paper/3093131568
