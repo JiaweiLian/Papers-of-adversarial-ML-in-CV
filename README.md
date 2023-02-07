@@ -734,6 +734,10 @@ ECCV https://readpaper.com/paper/4645855752485879809
 
 TIP https://readpaper.com/paper/4681011105825308673
 
+(2022) PatchCleanser: Certifiably Robust Defense against Adversarial Patches for Any Image Classifier.
+
+USENIX Security Symposium https://readpaper.com/paper/3193430514
+
 ### 2.1 Adversarial training
 
 (2018) Towards Deep Learning Models Resistant to Adversarial Attacks
