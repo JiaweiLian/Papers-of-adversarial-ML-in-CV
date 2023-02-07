@@ -218,6 +218,10 @@ arXiv https://readpaper.com/paper/4576631297925980161
 
 TIP https://readpaper.com/paper/729575454301396992
 
+(2022) An Intermediate-level Attack Framework on The Basis of Linear Regression
+
+TPAMI https://readpaper.com/paper/4604236353688838145
+
 #### 1.1.2 Physical attack
 
 (2017) Adversarial examples in the physical world
