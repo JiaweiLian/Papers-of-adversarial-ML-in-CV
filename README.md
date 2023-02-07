@@ -334,6 +334,10 @@ ICCV https://readpaper.com/paper/3204155906
 
 arXiv https://readpaper.com/paper/3197971994
 
+(2021) Towards Universal Physical Attacks on Single Object Tracking
+
+AAAI https://readpaper.com/paper/3174820339
+
 (2022) Physical Attack on Monocular Depth Estimation in Autonomous Driving with Optimal Adversarial Patches
 
 ECCV https://readpaper.com/pdf-annotate/note?pdfId=704620294024081408&noteId=704620334182600704
