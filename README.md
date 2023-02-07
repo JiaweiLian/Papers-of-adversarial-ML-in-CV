@@ -536,6 +536,10 @@ ICCV https://readpaper.com/paper/3195246388
 
 ICCV https://readpaper.com/paper/3145384577
 
+(2021) Backdoor attacks against deep learning systems in the physical world
+
+CVPR https://readpaper.com/paper/3108700588
+
 (2022) Backdoor attacks-resilient aggregation based on Robust Filtering of Outliers in federated learning for image classification
 
 Knowledge-Based Systems https://www.sciencedirect.com/science/article/pii/S0950705122002635
