@@ -346,6 +346,10 @@ ACM MM https://readpaper.com/paper/4597279222582484993
 
 ACM Computer and Communications Security Conference https://readpaper.com/paper/752803192321359872
 
+(2022) Simultaneously Optimizing Perturbations and Positions for Black-box Adversarial Patch Attacks
+
+TPAMI https://readpaper.com/paper/4705295637000765441
+
 ##### 1.2.2.1 Untargeted attack
 
 (2017) Adversarial Examples that Fool Detectors
