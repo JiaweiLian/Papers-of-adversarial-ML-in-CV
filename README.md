@@ -742,6 +742,10 @@ TIP https://readpaper.com/paper/4681011105825308673
 
 USENIX Security Symposium https://readpaper.com/paper/3193430514
 
+(2023) PatchZero: Defending against Adversarial Patch Attacks by Detecting and Zeroing the Patch
+
+WACV https://readpaper.com/paper/4642609690547601409
+
 ### 2.1 Adversarial training
 
 (2018) Towards Deep Learning Models Resistant to Adversarial Attacks
