@@ -222,6 +222,10 @@ TIP https://readpaper.com/paper/729575454301396992
 
 TPAMI https://readpaper.com/paper/4604236353688838145
 
+(2022) Give Me Your Attention: Dot-Product Attention Considered Harmful for Adversarial Patch Robustness
+
+CVPR https://readpaper.com/paper/4606383143703814145
+
 #### 1.1.2 Physical attack
 
 (2017) Adversarial examples in the physical world
@@ -427,6 +431,10 @@ CVPR https://readpaper.com/paper/2939328166
 (2020) Adversarial light projection attacks on face recognition systems: A feasibility study
 
 CVPR https://readpaper.com/paper/3013548068
+
+(2021) Improving Transferability of Adversarial Patches on Face Recognition with Generative Models
+
+CVPR https://readpaper.com/paper/3179647175
 
 (2022) Adversarial Sticker: A Stealthy Attack Method in the Physical World
 
@@ -710,6 +718,10 @@ arXiv https://readpaper.com/paper/4652438820436852737
 
 IEEE Transactions on Dependable and Secure Computing https://readpaper.com/paper/4652010801293443073
 
+(2022) Segment and Complete: Defending Object Detectors against Adversarial Patch Attacks with Robust Patch Detection
+
+CVPR https://readpaper.com/paper/4567194758926049281
+
 (2022) Adversarially-Aware Robust Object Detector
 
 ECCV https://readpaper.com/paper/4645855752485879809
@@ -911,6 +923,10 @@ ACM on International Workshop on Security and Privacy Analytics https://dl.acm.o
 (2022) Adversarial Robustness via Fisher-Rao Regularization.
 
 TPAMI https://readpaper.com/paper/3173019690
+
+(2022) Evaluating the Robustness of Semantic Segmentation for Autonomous Driving against Real-World Adversarial Patch Attacks
+
+WACV https://readpaper.com/paper/3196107314
 
 ## 5. Remote sensing datasets
 
