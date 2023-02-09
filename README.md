@@ -618,6 +618,10 @@ arXiv https://arxiv.org/pdf/2203.13479.pdf
 
 arXiv https://arxiv.org/pdf/2204.00008.pdf
 
+(2022) Transferable Sparse Adversarial Attack
+
+CVPR https://readpaper.com/paper/3196681108
+
 (2022) Investigating Top-k White-Box and Transferable Black-box Attack
 
 CVPR https://arxiv.org/pdf/2204.00089.pdf
@@ -783,6 +787,14 @@ ICCV https://readpaper.com/paper/3129495647
 (2022) LAS-AT: Adversarial Training with Learnable Attack Strategy 
 
 CVPR https://arxiv.org/pdf/2203.06616.pdf
+
+(2022) Subspace Adversarial Training
+
+CVPR https://readpaper.com/paper/4561760114072100865
+
+(2022) Pyramid Adversarial Training Improves ViT Performance
+
+CVPR https://readpaper.com/paper/4563948834984566785
 
 (2022) Decision Boundary-aware Data Augmentation for Adversarial Training
 
