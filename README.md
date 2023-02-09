@@ -366,6 +366,10 @@ TPAMI https://readpaper.com/paper/4705295637000765441
 
 arXiv https://readpaper.com/paper/4625598396263055361
 
+(2022) Shadows can be Dangerous: Stealthy and Effective Physical-world Adversarial Attack by Natural Phenomenon
+
+CVPR https://readpaper.com/paper/667252867500007424
+
 ##### 1.2.2.1 Untargeted attack
 
 (2017) Adversarial Examples that Fool Detectors
