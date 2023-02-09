@@ -400,6 +400,10 @@ CVPR https://readpaper.com/paper/692130605948379136
 
 CVPR https://readpaper.com/paper/4599403424638836737
 
+(2022) DTA: Physical Camouflage Attacks using Differentiable Transformation Network
+
+CVPR https://readpaper.com/paper/4603847963235590145
+
 ##### 1.2.2.2 Targeted attack
 
 (2017) Adversarial Patch
