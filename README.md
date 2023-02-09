@@ -622,6 +622,18 @@ arXiv https://arxiv.org/pdf/2204.00008.pdf
 
 CVPR https://readpaper.com/paper/3196681108
 
+(2022) Stochastic Variance Reduced Ensemble Adversarial Attack for Boosting the Adversarial Transferability
+
+CVPR https://readpaper.com/paper/3216735862
+
+(2022) Improving Adversarial Transferability via Neuron Attribution-Based Attacks
+
+CVPR https://readpaper.com/paper/4608893540788871169
+
+(2022) Zero-Query Transfer Attacks on Context-Aware Object Detectors
+
+CVPR https://readpaper.com/paper/4607115706739204097
+
 (2022) Investigating Top-k White-Box and Transferable Black-box Attack
 
 CVPR https://arxiv.org/pdf/2204.00089.pdf
