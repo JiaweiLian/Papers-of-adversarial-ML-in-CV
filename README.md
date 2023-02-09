@@ -396,6 +396,10 @@ AAAI https://readpaper.com/paper/3176477939
 
 CVPR https://readpaper.com/paper/692130605948379136
 
+(2022) Adversarial Texture for Fooling Person Detectors in the Physical World
+
+CVPR https://readpaper.com/paper/4599403424638836737
+
 ##### 1.2.2.2 Targeted attack
 
 (2017) Adversarial Patch
