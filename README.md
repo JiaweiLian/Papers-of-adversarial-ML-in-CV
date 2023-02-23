@@ -938,6 +938,10 @@ arXiv https://readpaper.com/paper/4686086011009122305
 
 IEEE Geoscience and Remote Sensing Magazine
 
+(2023) Adversarial Machine Learning: A Systematic Survey of Backdoor Attack, Weight Attack and Adversarial Example
+
+arXiv https://readpaper.com/paper/4725592266404544513
+
 ## 4 Adversarial roubustness
 
 (2020) Benchmarking Adversarial Robustness on Image Classification
