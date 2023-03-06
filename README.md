@@ -268,10 +268,6 @@ IJCAI https://readpaper.com/paper/732902912859156480
 
 #### 1.2.1 Digital attack
 
-(2022) owards Robust Person Re-identification by Defending Against Universal Attackers
-
-TPAMI https://readpaper.com/paper/742613351840489472
-
 ##### 1.2.1.1 Untargeted attack
 
 (2019) DPATCH: An Adversarial Patch Attack on Object Detectors
@@ -747,6 +743,10 @@ arXiv https://arxiv.org/pdf/2204.06213.pdf
 (ICML) https://readpaper.com/paper/710725521532731392
 
 (2022) Attacking Adversarial Defences by Smoothing the Loss Landscape
+
+(2022) Towards Robust Person Re-identification by Defending Against Universal Attackers
+
+TPAMI https://readpaper.com/paper/742613351840489472
 
 arXiv https://readpaper.com/paper/4652438820436852737
 
