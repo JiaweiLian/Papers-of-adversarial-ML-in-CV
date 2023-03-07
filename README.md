@@ -650,6 +650,10 @@ arXiv https://readpaper.com/paper/4635753616452370433
 
 arXiv https://readpaper.com/paper/4691159849971499009
 
+(2023) Boosting Transferability of Physical Attack against Detectors by Redistributing Separable Attention
+
+PR https://readpaper.com/paper/1683553440980106240
+
 ### 1.7 Attack of LiDAR perception
 
 (2020) Towards Robust LiDAR-based Perception in Autonomous Driving: General Black-box Adversarial Sensor Attack and Countermeasures
