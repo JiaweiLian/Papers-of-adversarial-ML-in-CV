@@ -996,6 +996,10 @@ TPAMI https://readpaper.com/paper/3173019690
 
 WACV https://readpaper.com/paper/3196107314
 
+(2023) A Comprehensive Study on Robustness of Image Classification Models: Benchmarking and Rethinking
+
+arXiv https://readpaper.com/paper/4728554398846828545
+
 ## 5. Remote sensing datasets
 
 ### RSOD
