@@ -392,6 +392,10 @@ CVPR https://readpaper.com/paper/3117825960
 
 AAAI https://readpaper.com/paper/3176477939
 
+(2022) TransPatch: A Transformer-based Generator for Accelerating Transferable Patch Generation in Adversarial Attacks Against Object Detection Models
+
+ECCVW https://readpaper.com/paper/1683568227025976832
+
 (2022) Infrared Invisible Clothing: Hiding from Infrared Detectors at Multiple Angles in Real World
 
 CVPR https://readpaper.com/paper/692130605948379136
