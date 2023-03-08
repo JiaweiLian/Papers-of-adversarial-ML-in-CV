@@ -408,6 +408,10 @@ CVPR https://readpaper.com/paper/4599403424638836737
 
 CVPR https://readpaper.com/paper/4603847963235590145
 
+(2023) X-Adv: Physical Adversarial Object Attacks against X-ray Prohibited Item Detection
+
+arXiv https://readpaper.com/paper/4725592396981616641
+
 ##### 1.2.2.2 Targeted attack
 
 (2017) Adversarial Patch
