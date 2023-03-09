@@ -264,6 +264,10 @@ CVPR https://readpaper.com/paper/3135740157
 
 arXiv https://readpaper.com/paper/4665068254859902977
 
+(2022) Adversarial Zoom Lens: A Novel Physical-World Attack to DNNs
+
+arXiv https://readpaper.com/paper/4639355150620704769
+
 ### 1.2 Object detection
 
 (2022) Benchmarking and deeper analysis of adversarial patch attack on object detectors
