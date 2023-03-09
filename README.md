@@ -138,6 +138,10 @@ ICML https://readpaper.com/paper/2963062382
 
 ICLR https://readpaper.com/paper/2883285025
 
+(2019) Generalizable Data-Free Objective for Crafting Universal Adversarial Perturbations
+
+TPAMI https://readpaper.com/paper/2784986255
+
 (2019) One Pixel Attack for Fooling Deep Neural Networks
 
 IEEE Transactions on Evolutionary Computation https://readpaper.com/paper/2765424254
