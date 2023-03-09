@@ -1028,6 +1028,10 @@ arXiv https://readpaper.com/paper/4725592266404544513
 
 CVPR https://readpaper.com/paper/3034214559
 
+(2020) On the Robustness of Semantic Segmentation Models to Adversarial Attacks
+
+TPAMI https://readpaper.com/paper/2769999273
+
 (2021) Towards Robustness of Deep Neural Networks via Regularization
 
 ICCV https://readpaper.com/paper/3204341526
