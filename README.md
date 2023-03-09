@@ -476,6 +476,10 @@ TPAMI https://readpaper.com/paper/693434544404733952
 
 arXiv https://readpaper.com/paper/4600165473480351745
 
+(2022) Controllable Evaluation and Generation of Physical Adversarial Patch on Face Recognition
+
+arXiv https://readpaper.com/paper/4600165473480351745
+
 (2022) Robust Physical-World Attacks on Face Recognition
 
 Pattern Recognition https://readpaper.com/paper/3201386741
