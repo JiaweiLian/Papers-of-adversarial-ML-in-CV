@@ -476,6 +476,10 @@ Pattern Recognition https://readpaper.com/paper/3201386741
 
 ICASSP https://readpaper.com/paper/4224923640
 
+(2022) Powerful Physical Adversarial Examples Against Practical Face Recognition Systems
+
+WACV https://readpaper.com/paper/4607157405460996097
+
 ### 1.4 Aerial image
 
 (2018) Adversarial Examples in Remote Sensing
