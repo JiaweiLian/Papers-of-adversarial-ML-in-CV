@@ -1012,6 +1012,10 @@ TIP https://readpaper.com/paper/3124324543
 
 Pattern Recognition https://readpaper.com/paper/3174422331
 
+(2022) On Adversarial Robustness of Trajectory Prediction for Autonomous Vehicles
+
+CVPR https://readpaper.com/paper/4579900241977810945
+
 (2022) Adversarial Robustness through the Lens of Convolutional Filters
 
 arXiv https://arxiv.org/pdf/2204.02481.pdf
