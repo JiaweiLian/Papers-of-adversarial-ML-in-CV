@@ -26,6 +26,10 @@ ICML https://readpaper.com/paper/722985713689694208
 
 ICLR https://readpaper.com/paper/3125834223
 
+(2021) Adversarial Metric Attack and Defense for Person Re-Identification
+
+TPAMI https://readpaper.com/paper/3091854707
+
 (2022) Hardly Perceptible Trojan Attack against Neural Networks with Bit Flips
 
 ECCV https://readpaper.com/paper/4650590622298685441
