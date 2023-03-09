@@ -386,6 +386,10 @@ CVPR https://readpaper.com/paper/667252867500007424
 
 arXiv https://readpaper.com/paper/4581723180276654081
 
+(2022) REAP: A LARGE-SCALE REALISTIC ADVERSARIAL PATCH BENCHMARK
+
+arXiv https://readpaper.com/paper/4700219501120077825
+
 ##### 1.2.2.1 Untargeted attack
 
 (2017) Adversarial Examples that Fool Detectors
