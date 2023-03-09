@@ -194,6 +194,10 @@ ICCV https://readpaper.com/paper/3195154451
 
 TPAMI https://readpaper.com/paper/679629297718919168
 
+(2022) Universal Adversarial Attack on Attention and the Resulting Dataset DAmageNet
+
+TPAMI https://readpaper.com/paper/3094250460
+
 (2022) Robust Unlearnable Examples: Protecting Data Against Adversarial Learning
 
 ICLR https://readpaper.com/paper/4606797601328603137
