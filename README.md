@@ -260,6 +260,10 @@ ICCV https://readpaper.com/paper/3210780202
 
 CVPR https://readpaper.com/paper/3135740157
 
+(2022) Adversarial Color Film: Effective Physical-World Attack to DNNs
+
+arXiv https://readpaper.com/paper/4665068254859902977
+
 ### 1.2 Object detection
 
 (2022) Benchmarking and deeper analysis of adversarial patch attack on object detectors
@@ -463,6 +467,10 @@ arXiv https://readpaper.com/paper/4600165473480351745
 (2022) Robust Physical-World Attacks on Face Recognition
 
 Pattern Recognition https://readpaper.com/paper/3201386741
+
+(2022) Real-World Adversarial Examples Via Makeup
+
+ICASSP https://readpaper.com/paper/4224923640
 
 ### 1.4 Aerial image
 
