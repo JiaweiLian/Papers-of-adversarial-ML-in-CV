@@ -374,6 +374,10 @@ arXiv https://readpaper.com/paper/4625598396263055361
 
 CVPR https://readpaper.com/paper/667252867500007424
 
+(2022) Fooling the Eyes of Autonomous Vehicles: Robust Physical Adversarial Examples Against Traffic Sign Recognition Systems
+
+arXiv https://readpaper.com/paper/4581723180276654081
+
 ##### 1.2.2.1 Untargeted attack
 
 (2017) Adversarial Examples that Fool Detectors
