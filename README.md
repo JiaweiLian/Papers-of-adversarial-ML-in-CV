@@ -262,6 +262,10 @@ CVPR https://readpaper.com/paper/3135740157
 
 (2022) Adversarial Color Film: Effective Physical-World Attack to DNNs
 
+(2022) TnT Attacks! Universal Naturalistic Adversarial Patches Against Deep Neural Network Systems
+
+IEEE Transactions on Information Forensics and Security https://readpaper.com/paper/4560671790540529665
+
 arXiv https://readpaper.com/paper/4665068254859902977
 
 (2022) Adversarial Zoom Lens: A Novel Physical-World Attack to DNNs
