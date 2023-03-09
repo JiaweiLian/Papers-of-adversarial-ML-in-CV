@@ -390,6 +390,10 @@ arXiv https://readpaper.com/paper/4581723180276654081
 
 arXiv https://readpaper.com/paper/4700219501120077825
 
+(2022) TPatch: A Triggered Physical Adversarial Patch
+
+USENIX https://readpaper.com/paper/1682162232992044032
+
 ##### 1.2.2.1 Untargeted attack
 
 (2017) Adversarial Examples that Fool Detectors
