@@ -202,6 +202,10 @@ TPAMI https://readpaper.com/paper/3094250460
 
 ICLR https://readpaper.com/paper/4606797601328603137
 
+(2022) Generalizable Black-Box Adversarial Attack with Meta Learning
+
+TPAMI https://readpaper.com/paper/4707833565551804417
+
 (2022) Boosting Black-Box Adversarial Attacks with Meta Learning
 
 arXiv https://arxiv.org/pdf/2203.14607.pdf
