@@ -934,6 +934,10 @@ Artificial Intelligence Review https://readpaper.com/paper/3200113267
 
 arXiv https://arxiv.org/pdf/2203.14046.pdf
 
+(2022) Adversarial Patch Attacks and Defences in Vision-Based Tasks: A Survey
+
+arXiv https://readpaper.com/paper/4635752341501394945
+
 (2022) A Survey of Adversarial Attacks and Defenses for image data on Deep Learning
 
 International Journal of Open Information Technologies https://readpaper.com/paper/693432531365306368
