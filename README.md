@@ -198,6 +198,10 @@ TPAMI https://readpaper.com/paper/679629297718919168
 
 TPAMI https://readpaper.com/paper/3094250460
 
+(2022) Attack to Fool and Explain Deep Networks
+
+TPAMI https://readpaper.com/paper/3164425124
+
 (2022) Robust Unlearnable Examples: Protecting Data Against Adversarial Learning
 
 ICLR https://readpaper.com/paper/4606797601328603137
