@@ -354,6 +354,10 @@ ECCV https://readpaper.com/pdf-annotate/note?pdfId=704620294024081408&noteId=704
 
 AAAI https://readpaper.com/paper/3200450146
 
+(2022) Universal Physical Adversarial Attack via Background Image
+
+International Conference on Applied Cryptography and Network Security https://readpaper.com/paper/1686419277119332608
+
 (2022) Physical Backdoor Attacks to Lane Detection Systems in Autonomous Driving
 
 ACM MM https://readpaper.com/paper/4597279222582484993
