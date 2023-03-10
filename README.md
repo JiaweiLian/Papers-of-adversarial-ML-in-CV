@@ -862,6 +862,10 @@ USENIX Security Symposium https://readpaper.com/paper/3193430514
 
 WACV https://readpaper.com/paper/4642609690547601409
 
+(2023) Jointly Defending DeepFake Manipulation and Adversarial Attack using Decoy Mechanism
+
+TPAMI https://readpaper.com/paper/1687836900214284800
+
 ### 2.1 Adversarial training
 
 (2018) Towards Deep Learning Models Resistant to Adversarial Attacks
