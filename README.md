@@ -338,6 +338,10 @@ International Conference on Multimedia and Expo https://readpaper.com/paper/3136
 
 CVPR https://readpaper.com/paper/699576587237224448
 
+(2023) AdvART: Adversarial Art for Camouflaged Object Detection Attacks
+
+arXiv https://readpaper.com/paper/4730298208719224833
+
 ##### 1.2.1.2 Targeted attack
 
 (2017) Adversarial Examples for Semantic Segmentation and Object Detection
