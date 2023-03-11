@@ -1192,3 +1192,6 @@ https://readpaper.com/pdf-annotate/note?noteId=693443638097584128&pdfId=69344319
 
 https://readpaper.com/pdf-annotate/note?pdfId=699582431202119680&noteId=699582851694489601
 
+(2023) Adversarial Machine Learning
+
+https://readpaper.com/pdf-annotate/note?pdfId=4732071806597332993&noteId=1689255378594931200
