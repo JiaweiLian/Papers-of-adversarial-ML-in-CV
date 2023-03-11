@@ -58,6 +58,10 @@ TPAMI https://readpaper.com/paper/1563678222985585408
 
 IJCV https://readpaper.com/paper/1582515409722092288
 
+(2023) Multi-Spectral Palmprints joint Attack and Defensewith Adversarial Examples Learning
+
+IEEE Transactions on Information Forensics and Security https://readpaper.com/pdf-annotate/note?pdfId=4732075705202900993&noteId=1689272091386421504
+
 ### 1.1 Image classification
 
 (2020) Bias-based Universal Adversarial Patch Attack for Automatic Check-out
