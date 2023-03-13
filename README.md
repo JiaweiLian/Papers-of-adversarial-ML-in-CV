@@ -30,6 +30,10 @@ ICLR https://readpaper.com/paper/3125834223
 
 TPAMI https://readpaper.com/paper/3091854707
 
+(2022) Sparse Black-box Video Attack with Reinforement Learning
+
+IJCV https://readpaper.com/paper/2999683023
+
 (2022) Hardly Perceptible Trojan Attack against Neural Networks with Bit Flips
 
 ECCV https://readpaper.com/paper/4650590622298685441
