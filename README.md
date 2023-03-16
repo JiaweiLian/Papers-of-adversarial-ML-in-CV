@@ -262,6 +262,10 @@ TPAMI https://readpaper.com/paper/4604236353688838145
 
 CVPR https://readpaper.com/paper/4606383143703814145
 
+(2023) Average gradient-based adversarial attack
+
+TMM https://readpaper.com/paper/1696862579438243840
+
 #### 1.1.2 Physical attack
 
 (2017) Adversarial examples in the physical world
