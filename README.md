@@ -334,6 +334,10 @@ arXiv https://readpaper.com/paper/3093958125
 
 TianChi https://readpaper.com/paper/726935485799628800
 
+(2020) CONTEXTUAL ADVERSARIAL ATTACKS FOR OBJECT DETECTION
+
+ICME https://readpaper.com/paper/3035232208
+
 (2021) Fooling Object Detectors: Adversarial Attacks by Half-Neighbor Masks
 
 arXiv https://readpaper.com/paper/3120875058
