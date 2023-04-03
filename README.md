@@ -446,6 +446,10 @@ arXiv https://readpaper.com/paper/4700219501120077825
 
 USENIX https://readpaper.com/paper/1682162232992044032
 
+(2023) Benchmarking Robustness of 3D Object Detection to Common Corruptions in Autonomous Driving
+
+CVPR https://readpaper.com/paper/4735741679265398785
+
 ##### 1.2.2.1 Untargeted attack
 
 (2017) Adversarial Examples that Fool Detectors
@@ -555,6 +559,10 @@ ICASSP https://readpaper.com/paper/4224923640
 (2022) Powerful Physical Adversarial Examples Against Practical Face Recognition Systems
 
 WACV https://readpaper.com/paper/4607157405460996097
+
+(2023) Towards Effective Adversarial Textured 3D Meshes on Physical Face Recognition
+
+CVPR https://readpaper.com/paper/4738641443631939585
 
 ### 1.4 Aerial image
 
