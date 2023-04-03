@@ -266,6 +266,10 @@ CVPR https://readpaper.com/paper/4606383143703814145
 
 TMM https://readpaper.com/paper/1696862579438243840
 
+(2023) Improving the invisibility of adversarial examples with perceptually adaptive perturbation
+
+Information Sicences https://readpaper.com/paper/1722842046034725376
+
 #### 1.1.2 Physical attack
 
 (2017) Adversarial examples in the physical world
