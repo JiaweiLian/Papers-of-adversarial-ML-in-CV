@@ -638,6 +638,18 @@ arXiv https://readpaper.com/paper/4643328623286173697
 
 TGRS https://readpaper.com/paper/4684999213684113409
 
+(2023) Adversarial Patch Attacks against Aerial Imagery Object Detectors
+
+Neurocomputing https://readpaper.com/paper/1724898908188231168
+
+(2023) Contextual adversarial attack against aerial detection in the physical world
+
+IGARSS https://readpaper.com/paper/4728131094352773121
+
+(2023) CBA: Contextual Background Attack against Optical Aerial Detection in the Physical World
+
+TGRS https://readpaper.com/paper/4728131196484075521
+
 ### 1.5 Backdoor attack
 
 (2018) Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks
