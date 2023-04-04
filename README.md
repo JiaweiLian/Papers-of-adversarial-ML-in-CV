@@ -66,6 +66,10 @@ IJCV https://readpaper.com/paper/1582515409722092288
 
 IEEE Transactions on Information Forensics and Security https://readpaper.com/pdf-annotate/note?pdfId=4732075705202900993&noteId=1689272091386421504
 
+(2023) Efficient Robustness Assessment via Adversarial Spatial-Temporal Focus on Videos
+
+TPAMI https://readpaper.com/paper/4708194292288471041
+
 ### 1.1 Image classification
 
 (2020) Bias-based Universal Adversarial Patch Attack for Automatic Check-out
