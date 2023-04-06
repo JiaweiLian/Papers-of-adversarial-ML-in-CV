@@ -70,6 +70,10 @@ IEEE Transactions on Information Forensics and Security https://readpaper.com/pd
 
 TPAMI https://readpaper.com/paper/4708194292288471041
 
+(2023) Targeted Adversarial Attack against Deep Cross-modal Hashing Retrieval
+
+TCSVT https://readpaper.com/pdf-annotate/note?pdfId=4741631378420924417&noteId=1727493749505909248
+
 ### 1.1 Image classification
 
 (2020) Bias-based Universal Adversarial Patch Attack for Automatic Check-out
