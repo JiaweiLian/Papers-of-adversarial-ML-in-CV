@@ -74,6 +74,10 @@ TPAMI https://readpaper.com/paper/4708194292288471041
 
 TCSVT https://readpaper.com/pdf-annotate/note?pdfId=4741631378420924417&noteId=1727493749505909248
 
+(2023) Rethinking Model Ensemble in Transfer-based Adversarial Attacks
+
+arXiv https://readpaper.com/paper/4734288034644639745
+
 ### 1.1 Image classification
 
 (2020) Bias-based Universal Adversarial Patch Attack for Automatic Check-out
