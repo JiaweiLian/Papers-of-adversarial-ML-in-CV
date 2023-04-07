@@ -1094,6 +1094,10 @@ arXiv https://readpaper.com/paper/4686086011009122305
 
 IEEE Geoscience and Remote Sensing Magazine
 
+(2023) Trustworthy AI: From Principles to Practices
+
+ACM Computing Surveys https://readpaper.com/paper/3202183072
+
 (2023) Adversarial Machine Learning: A Systematic Survey of Backdoor Attack, Weight Attack and Adversarial Example
 
 arXiv https://readpaper.com/paper/4725592266404544513
