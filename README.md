@@ -1092,7 +1092,7 @@ arXiv https://readpaper.com/paper/4686086011009122305
 
 (2022) AI Security for Geoscience and Remote Sensing: Challenges and Future Trends
 
-IEEE Geoscience and Remote Sensing Magazine
+IEEE Geoscience and Remote Sensing Magazine https://readpaper.com/paper/4702755945063661569
 
 (2023) Trustworthy AI: From Principles to Practices
 
