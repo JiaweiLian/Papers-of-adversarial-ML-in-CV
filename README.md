@@ -1074,10 +1074,6 @@ arXiv https://readpaper.com/paper/4673040705627635713
 
 Neurocomputing https://readpaper.com/paper/1535655781725233664
 
-(2022) AI Security for Geoscience and Remote Sensing: Challenges and Future Trends
-
-arXiv https://readpaper.com/paper/4702755945063661569
-
 (2022) ImageNet-Patch: A Dataset for Benchmarking Machine Learning Robustness against Adversarial Patches
 
 Pattern Recognition https://readpaper.com/paper/4599813580069543937
