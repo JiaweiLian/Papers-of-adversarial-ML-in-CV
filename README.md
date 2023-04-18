@@ -196,7 +196,7 @@ ICCV https://readpaper.com/pdf-annotate/note?pdfId=4745941899341201409&noteId=68
 
 (2021) Understanding adversarial attacks on deep learning based medical image analysis systems
 
-Pattern Recognition https://readpaper.com/paper/3021182036
+Pattern Recognition https://readpaper.com/pdf-annotate/note?pdfId=4745943772961964033&noteId=629648975905787905
 
 (2021) SurFree: a fast surrogate-free black-box attack
 
