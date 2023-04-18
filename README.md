@@ -152,7 +152,7 @@ CVPR https://readpaper.com/paper/2950906520
 
 (2018) Black-box adversarial attacks with limited queries and information
 
-ICML https://readpaper.com/paper/2963062382
+ICML https://readpaper.com/pdf-annotate/note?pdfId=4518074301747453953&noteId=1744322772173385728
 
 (2018) Prior Convictions: Black-Box Adversarial Attacks with Bandits and Priors
 
