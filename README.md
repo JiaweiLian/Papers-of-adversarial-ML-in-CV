@@ -208,7 +208,7 @@ CVPR https://readpaper.com/paper/3167676691
 
 (2021) Adversarial Attack Type I: Cheat Classifiers by Significant Changes
 
-TPAMI https://readpaper.com/paper/2963823008
+TPAMI https://readpaper.com/pdf-annotate/note?pdfId=4746040978767347713&noteId=1686817115627160320
 
 (2021) AdvDrop: Adversarial Attack to DNNs by Dropping Information
 
