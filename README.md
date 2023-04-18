@@ -192,7 +192,7 @@ ECCV https://readpaper.com/pdf-annotate/note?pdfId=678869835785338880&noteId=683
 
 (2021) On the Robustness of Vision Transformers to Adversarial Examples
 
-ICCV https://readpaper.com/paper/3143373604
+ICCV https://readpaper.com/pdf-annotate/note?pdfId=4745941899341201409&noteId=684299915246182400
 
 (2021) Understanding adversarial attacks on deep learning based medical image analysis systems
 
