@@ -170,6 +170,10 @@ IEEE Transactions on Evolutionary Computation https://readpaper.com/paper/276542
 
 NIPS https://readpaper.com/paper/2942630857
 
+(2019) Adversarial Attack Type I: Cheat Classifiers by Significant Changes
+
+TPAMI https://readpaper.com/pdf-annotate/note?pdfId=4746040978767347713&noteId=1686817115627160320
+
 (2019) NATTACK: Learning the Distributions of Adversarial Examples for an Improved Black-Box Attack on Deep Neural Networks
 
 ICML https://readpaper.com/paper/2943646750
@@ -205,10 +209,6 @@ CVPR https://readpaper.com/paper/3173859330
 (2021) Simulating Unknown Target Models for Query-Efficient Black-box Attacks
 
 CVPR https://readpaper.com/paper/3167676691
-
-(2021) Adversarial Attack Type I: Cheat Classifiers by Significant Changes
-
-TPAMI https://readpaper.com/pdf-annotate/note?pdfId=4746040978767347713&noteId=1686817115627160320
 
 (2021) AdvDrop: Adversarial Attack to DNNs by Dropping Information
 
