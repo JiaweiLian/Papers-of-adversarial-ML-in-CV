@@ -154,7 +154,7 @@ CVPR https://readpaper.com/paper/2950906520
 
 ICML https://readpaper.com/pdf-annotate/note?pdfId=4518074301747453953&noteId=1744322772173385728
 
-(2018) Prior Convictions: Black-Box Adversarial Attacks with Bandits and Priors
+(2019) Prior Convictions: Black-Box Adversarial Attacks with Bandits and Priors
 
 ICLR https://readpaper.com/paper/2883285025
 
