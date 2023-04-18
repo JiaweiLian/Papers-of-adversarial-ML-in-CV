@@ -188,7 +188,7 @@ IEEE Symposium on Security and Privacy https://readpaper.com/paper/2947657997
 
 (2020) Sparse Adversarial Attack via Perturbation Factorization
 
-ECCV https://readpaper.com/paper/3104218734
+ECCV https://readpaper.com/pdf-annotate/note?pdfId=678869835785338880&noteId=683242591456206848
 
 (2021) On the Robustness of Vision Transformers to Adversarial Examples
 
