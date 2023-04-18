@@ -194,6 +194,10 @@ IEEE Symposium on Security and Privacy https://readpaper.com/paper/2947657997
 
 ECCV https://readpaper.com/pdf-annotate/note?pdfId=678869835785338880&noteId=683242591456206848
 
+(2020) Universal Adversarial Attack on Attention and the Resulting Dataset DAmageNet
+
+TPAMI https://readpaper.com/pdf-annotate/note?pdfId=4545084566804258817&noteId=1745157828471223296
+
 (2021) On the Robustness of Vision Transformers to Adversarial Examples
 
 ICCV https://readpaper.com/pdf-annotate/note?pdfId=4745941899341201409&noteId=684299915246182400
@@ -217,10 +221,6 @@ ICCV https://readpaper.com/paper/3195154451
 (2022) Adversarial Examples Generation for Deep Product Quantization Networks on Image Retrieval
 
 TPAMI https://readpaper.com/paper/679629297718919168
-
-(2022) Universal Adversarial Attack on Attention and the Resulting Dataset DAmageNet
-
-TPAMI https://readpaper.com/paper/3094250460
 
 (2022) Attack to Fool and Explain Deep Networks
 
