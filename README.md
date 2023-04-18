@@ -240,7 +240,7 @@ arXiv https://arxiv.org/pdf/2203.14607.pdf
 
 (2022) CLPA: Clean-Label Poisoning Availability Attacks Using Generative Adversarial Nets
 
-AAAI https://www.aaai.org/AAAI22Papers/AAAI-3872.ZhaoB.pdf
+AAAI https://readpaper.com/pdf-annotate/note?pdfId=717732327610208256&noteId=1745189941707618048
 
 (2022) Enhancing Boundary Attack in Adversarial Image Using Square Random Constraint
 
