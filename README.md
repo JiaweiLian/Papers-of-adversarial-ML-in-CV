@@ -118,6 +118,10 @@ IEEE European Symposium on Security and Privacy https://readpaper.com/paper/2180
 
 arXiv https://readpaper.com/paper/2727966874
 
+(2017) Adversarial Patch
+
+NIPS https://readpaper.com/paper/2804566015
+
 (2017) Practical Black-Box Attacks against Machine Learning
 
 ACM on Asia conference on computer and communications security https://readpaper.com/paper/2951807304
@@ -509,10 +513,6 @@ CVPR https://readpaper.com/paper/4603847963235590145
 arXiv https://readpaper.com/paper/4725592396981616641
 
 ##### 1.2.2.2 Targeted attack
-
-(2017) Adversarial Patch
-
-NIPS https://readpaper.com/paper/2804566015
 
 (2018) Physical Adversarial Examples for Object Detectors
 
