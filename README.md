@@ -310,7 +310,7 @@ CVPR https://readpaper.com/paper/3010867827
 
 (2021) Meta-Attack: Class-Agnostic and Model-Agnostic Physical Adversarial Attack
 
-ICCV https://readpaper.com/paper/3202707779
+ICCV https://readpaper.com/pdf-annotate/note?pdfId=705294778746572800&noteId=705295877036978176
 
 (2021) Optical Adversarial Attack
 
