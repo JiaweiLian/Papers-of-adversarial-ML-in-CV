@@ -244,7 +244,7 @@ AAAI https://readpaper.com/pdf-annotate/note?pdfId=717732327610208256&noteId=174
 
 (2022) Enhancing Boundary Attack in Adversarial Image Using Square Random Constraint
 
-ACM on International Workshop on Security and Privacy Analytics https://dl.acm.org/doi/pdf/10.1145/3510548.3519373
+ACM on International Workshop on Security and Privacy Analytics https://readpaper.com/pdf-annotate/note?pdfId=4746204565980839937&noteId=1745793378152417024
 
 (2022) StyleFool: Fooling Video Classification Systems via Style Transfer
 
