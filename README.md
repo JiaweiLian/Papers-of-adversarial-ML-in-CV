@@ -314,7 +314,7 @@ ICCV https://readpaper.com/pdf-annotate/note?pdfId=705294778746572800&noteId=705
 
 (2021) Optical Adversarial Attack
 
-ICCV https://readpaper.com/paper/3210780202
+ICCV https://readpaper.com/pdf-annotate/note?pdfId=661440770497974272
 
 (2021) Adversarial Laser Beam: Effective Physical-World Attack to DNNs in a Blink
 
