@@ -118,10 +118,6 @@ IEEE European Symposium on Security and Privacy https://readpaper.com/paper/2180
 
 arXiv https://readpaper.com/paper/2727966874
 
-(2017) Adversarial Patch
-
-NIPS https://readpaper.com/paper/2804566015
-
 (2017) Practical Black-Box Attacks against Machine Learning
 
 ACM on Asia conference on computer and communications security https://readpaper.com/paper/2951807304
@@ -291,6 +287,10 @@ TIP https://readpaper.com/pdf-annotate/note?pdfId=4746198797420331009&noteId=174
 (2017) Adversarial examples in the physical world
 
 ICLR https://readpaper.com/paper/2460937040
+
+(2017) Adversarial Patch
+
+NIPS https://readpaper.com/paper/2804566015
 
 (2018) Robust Physical-World Attacks on Deep Learning Visual Classification
 
