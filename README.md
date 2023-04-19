@@ -328,8 +328,6 @@ arXiv https://readpaper.com/pdf-annotate/note?pdfId=4665085316298719233&noteId=1
 
 IEEE Transactions on Information Forensics and Security https://readpaper.com/paper/4560671790540529665
 
-arXiv https://readpaper.com/paper/4665068254859902977
-
 (2022) Adversarial Zoom Lens: A Novel Physical-World Attack to DNNs
 
 arXiv https://readpaper.com/paper/4639355150620704769
