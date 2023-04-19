@@ -334,10 +334,6 @@ arXiv https://readpaper.com/paper/4639355150620704769
 
 ### 1.2 Object detection
 
-(2022) Benchmarking and deeper analysis of adversarial patch attack on object detectors
-
-IJCAI https://readpaper.com/paper/732902912859156480
-
 #### 1.2.1 Digital attack
 
 ##### 1.2.1.1 Untargeted attack
@@ -984,7 +980,7 @@ TIP https://readpaper.com/paper/1689275432635294720
 
 TNNLS https://readpaper.com/pdf-annotate/note?pdfId=4746198022191316993&noteId=1745759997348886272
 
-## 3. Review
+## 3. Review and Benchmark
 
 (2018) Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey
 
@@ -1026,6 +1022,10 @@ IEEE Transactions on Industrial Informatics https://readpaper.com/paper/31476856
 
 Computers & Security https://readpaper.com/paper/3128781534
 
+(2021) Explainable deep learning for efficient and robust pattern recognition: A survey of recent developments
+
+Pattern Recognition https://readpaper.com/paper/3174422331
+
 (2022) 图像对抗样本研究综述
 
 计算机科学 https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=JSJA202202010&uniplatform=NZKPT&v=x2k_d6-t3_3-msLZcEISOxjivwfJwnReK0dDZorYA7nOCuR9bogu0bkgRCG4A8eM
@@ -1066,10 +1066,6 @@ Handbook on Computer Learning and Intelligence https://readpaper.com/paper/72298
 
 IEEE Transactions on Industrial Informatics https://readpaper.com/paper/722998809644765184
 
-(2022) BackdoorBench: A Comprehensive Benchmark of Backdoor Learning
-
-NIPS https://readpaper.com/paper/4639723727236382721
-
 (2022) A Survey on Physical Adversarial Attack in Computer Vision
 
 arXiv https://readpaper.com/paper/4673040705627635713
@@ -1102,7 +1098,7 @@ ACM Computing Surveys https://readpaper.com/paper/3202183072
 
 arXiv https://readpaper.com/paper/4725592266404544513
 
-## 4 Adversarial roubustness
+## 4 Benchmark
 
 (2020) Benchmarking Adversarial Robustness on Image Classification
 
@@ -1120,9 +1116,13 @@ ICCV https://readpaper.com/paper/3204341526
 
 TIP https://readpaper.com/paper/3124324543
 
-(2021) Explainable deep learning for efficient and robust pattern recognition: A survey of recent developments
+(2022) Benchmarking and deeper analysis of adversarial patch attack on object detectors
 
-Pattern Recognition https://readpaper.com/paper/3174422331
+IJCAI https://readpaper.com/paper/732902912859156480
+
+(2022) BackdoorBench: A Comprehensive Benchmark of Backdoor Learning
+
+NIPS https://readpaper.com/paper/4639723727236382721
 
 (2022) On Adversarial Robustness of Trajectory Prediction for Autonomous Vehicles
 
