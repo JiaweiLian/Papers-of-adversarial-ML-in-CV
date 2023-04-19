@@ -438,10 +438,6 @@ ACM MM https://readpaper.com/paper/4597279222582484993
 
 ACM Computer and Communications Security Conference https://readpaper.com/paper/752803192321359872
 
-(2022) Simultaneously Optimizing Perturbations and Positions for Black-box Adversarial Patch Attacks
-
-TPAMI https://readpaper.com/paper/4705295637000765441
-
 (2022) Transferable Physical Attack against Object Detection with Separable Attention
 
 arXiv https://readpaper.com/paper/4625598396263055361
@@ -551,6 +547,10 @@ CVPR https://readpaper.com/paper/3179647175
 (2022) Adversarial Sticker: A Stealthy Attack Method in the Physical World
 
 TPAMI https://readpaper.com/paper/693434544404733952
+
+(2022) Simultaneously Optimizing Perturbations and Positions for Black-box Adversarial Patch Attacks
+
+TPAMI https://readpaper.com/paper/4705295637000765441
 
 (2022) Controllable Evaluation and Generation of Physical Adversarial Patch on Face Recognition
 
