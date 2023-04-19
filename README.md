@@ -250,10 +250,6 @@ ACM on International Workshop on Security and Privacy Analytics https://readpape
 
 arXiv https://arxiv.org/pdf/2203.16000.pdf
 
-(2022) Enhancing Boundary Attack in Adversarial Image Using Square Random Constraint
-
-ACM on International Workshop on Security and Privacy Analytics https://dl.acm.org/doi/abs/10.1145/3510548.3519373
-
 (2022) Query-efficient Black-box Adversarial Attack with Customized Iteration and Sampling
 
 TPAMI https://readpaper.com/paper/692534338302332928
