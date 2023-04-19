@@ -318,9 +318,11 @@ ICCV https://readpaper.com/pdf-annotate/note?pdfId=661440770497974272
 
 (2021) Adversarial Laser Beam: Effective Physical-World Attack to DNNs in a Blink
 
-CVPR https://readpaper.com/paper/3135740157
+CVPR https://readpaper.com/pdf-annotate/note?pdfId=656370245660573696&noteId=1746224391760448256
 
 (2022) Adversarial Color Film: Effective Physical-World Attack to DNNs
+
+arXiv https://readpaper.com/pdf-annotate/note?pdfId=4665085316298719233&noteId=1746225212502167296
 
 (2022) TnT Attacks! Universal Naturalistic Adversarial Patches Against Deep Neural Network Systems
 
