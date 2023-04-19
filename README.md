@@ -284,13 +284,13 @@ TIP https://readpaper.com/pdf-annotate/note?pdfId=4746198797420331009&noteId=174
 
 #### 1.1.2 Physical attack
 
-(2017) Adversarial examples in the physical world
-
-ICLR https://readpaper.com/paper/2460937040
-
 (2017) Adversarial Patch
 
 NIPS https://readpaper.com/paper/2804566015
+
+(2018) Adversarial examples in the physical world
+
+Artificial intelligence safety and security https://readpaper.com/paper/2460937040
 
 (2018) Robust Physical-World Attacks on Deep Learning Visual Classification
 
