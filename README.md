@@ -980,6 +980,10 @@ IEEE Transactions on Dependable and Secure Computing https://ieeexplore.ieee.org
 
 TIP https://readpaper.com/paper/1689275432635294720
 
+(2023) Advancing Adversarial Training by Injecting Booster Signal
+
+TNNLS https://readpaper.com/pdf-annotate/note?pdfId=4746198022191316993&noteId=1745759997348886272
+
 ## 3. Review
 
 (2018) Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey
