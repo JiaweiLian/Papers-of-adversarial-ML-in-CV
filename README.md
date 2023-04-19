@@ -282,6 +282,10 @@ TMM https://readpaper.com/paper/1696862579438243840
 
 Information Sicences https://readpaper.com/paper/1722842046034725376
 
+(2023) Erosion Attack: Harnessing Corruption To Improve Adversarial Examples
+
+TIP https://readpaper.com/pdf-annotate/note?pdfId=4746198797420331009&noteId=1745763020132386560
+
 #### 1.1.2 Physical attack
 
 (2017) Adversarial examples in the physical world
