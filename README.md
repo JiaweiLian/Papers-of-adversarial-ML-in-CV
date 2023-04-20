@@ -356,7 +356,7 @@ ICME https://readpaper.com/pdf-annotate/note?pdfId=4746700712465924097&noteId=17
 
 (2021) Fooling Object Detectors: Adversarial Attacks by Half-Neighbor Masks
 
-arXiv https://readpaper.com/paper/3120875058
+arXiv https://readpaper.com/pdf-annotate/note?pdfId=4665327614802542593&noteId=1747783230091759360
 
 (2021) Adversarial Attacks on Object Detectors with Limited Perturbations
 
