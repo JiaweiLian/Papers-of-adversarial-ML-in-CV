@@ -344,7 +344,7 @@ arXiv https://readpaper.com/paper/2890054895
 
 (2020) DPAttack: Diffused Patch Attacks against Universal Object Detection
 
-arXiv https://readpaper.com/paper/3093958125
+arXiv https://readpaper.com/pdf-annotate/note?pdfId=4746669670325551105&noteId=631391942448267264
 
 (2020) EfficientWarm Restart Adversarial Attack for Object Detection
 
