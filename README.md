@@ -382,7 +382,7 @@ CVPR https://readpaper.com/pdf-annotate/note?pdfId=696984706002096128&noteId=174
 
 #### 1.2.2 Physical attack
 
-(2018) ShapeShifter: Robust Physical Adversarial Attack on Faster R-CNN Object Detector
+(2019) ShapeShifter: Robust Physical Adversarial Attack on Faster R-CNN Object Detector
 
 ECML https://readpaper.com/paper/2890883923
 
