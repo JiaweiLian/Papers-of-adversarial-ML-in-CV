@@ -442,10 +442,6 @@ CVPR https://readpaper.com/paper/667252867500007424
 
 arXiv https://readpaper.com/paper/4581723180276654081
 
-(2022) REAP: A LARGE-SCALE REALISTIC ADVERSARIAL PATCH BENCHMARK
-
-arXiv https://readpaper.com/paper/4700219501120077825
-
 (2022) TPatch: A Triggered Physical Adversarial Patch
 
 USENIX https://readpaper.com/paper/1682162232992044032
@@ -1127,6 +1123,10 @@ NIPS https://readpaper.com/paper/4639723727236382721
 (2022) On Adversarial Robustness of Trajectory Prediction for Autonomous Vehicles
 
 CVPR https://readpaper.com/paper/4579900241977810945
+
+(2022) REAP: A LARGE-SCALE REALISTIC ADVERSARIAL PATCH BENCHMARK
+
+arXiv https://readpaper.com/paper/4700219501120077825
 
 (2022) Adversarial Robustness through the Lens of Convolutional Filters
 
