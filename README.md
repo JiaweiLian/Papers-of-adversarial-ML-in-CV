@@ -462,7 +462,7 @@ CVPR https://readpaper.com/paper/2963726920
 
 (2019) CAMOU: Learning Physical Vehicle Camouflages to Adversarially Attack Detectors in the Wild
 
-ICLR https://readpaper.com/paper/2905744087
+ICLR https://readpaper.com/pdf-annotate/note?pdfId=4517595866721837057&noteId=699783048218546176
 
 (2020) Making an Invisibility Cloak: Real World Adversarial Attacks on Object Detectors
 
