@@ -470,7 +470,7 @@ ECCV https://readpaper.com/paper/2982663445
 
 (2021) The Translucent Patch: A Physical and Universal Attack on Object Detectors
 
-CVPR https://readpaper.com/paper/3117825960
+CVPR https://readpaper.com/pdf-annotate/note?pdfId=4665354809012928513&noteId=1748100095298059520
 
 (2021) Fooling Thermal Infrared Pedestrian Detectors in Real World Using Small Bulbs
 
