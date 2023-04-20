@@ -360,7 +360,7 @@ arXiv https://readpaper.com/pdf-annotate/note?pdfId=4665327614802542593&noteId=1
 
 (2021) Adversarial Attacks on Object Detectors with Limited Perturbations
 
-International Conference on Acoustics, Speech, and Signal Processing https://readpaper.com/paper/3160661704
+International Conference on Acoustics, Speech, and Signal Processing https://readpaper.com/pdf-annotate/note?pdfId=4746705438708334593&noteId=678208959139758080
 
 (2021) RPAttack: Refined Patch Attack on General Object Detectors
 
