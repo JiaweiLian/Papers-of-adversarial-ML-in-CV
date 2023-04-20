@@ -382,7 +382,7 @@ ICCV https://readpaper.com/paper/2950774971
 
 (2022) Zero-Query Transfer Attacks on Context-Aware Object Detectors
 
-CVPR https://arxiv.org/pdf/2203.15230.pdf
+CVPR https://readpaper.com/pdf-annotate/note?pdfId=696984706002096128&noteId=1747811267302723328
 
 #### 1.2.2 Physical attack
 
