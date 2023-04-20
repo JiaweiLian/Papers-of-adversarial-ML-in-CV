@@ -404,7 +404,7 @@ ICCV https://readpaper.com/paper/3204155906
 
 (2021) Enhancing Real-World Adversarial Patches through 3D Modeling of Complex Target Scenes
 
-arXiv https://readpaper.com/paper/3197971994
+Neurocomputing https://readpaper.com/pdf-annotate/note?pdfId=4746747759395078145&noteId=1747958818791308288
 
 (2021) Towards Universal Physical Attacks on Single Object Tracking
 
