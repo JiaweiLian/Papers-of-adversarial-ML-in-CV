@@ -340,7 +340,7 @@ arXiv https://readpaper.com/paper/4639355150620704769
 
 (2019) DPATCH: An Adversarial Patch Attack on Object Detectors
 
-AAAI https://readpaper.com/paper/2890054895
+arXiv https://readpaper.com/paper/2890054895
 
 (2020) DPAttack: Diffused Patch Attacks against Universal Object Detection
 
