@@ -416,7 +416,7 @@ ECCV https://readpaper.com/pdf-annotate/note?pdfId=704620294024081408&noteId=704
 
 (2022) FCA: Learning a 3D Full-coverage Vehicle Camouflage for Multi-view Physical Adversarial Attack
 
-AAAI https://readpaper.com/paper/3200450146
+AAAI https://readpaper.com/pdf-annotate/note?pdfId=4746763000870862849&noteId=719858182093688832
 
 (2022) Universal Physical Adversarial Attack via Background Image
 
