@@ -462,7 +462,7 @@ arXiv https://readpaper.com/paper/4730298208719224833
 
 (2017) Adversarial Examples that Fool Detectors
 
-arXiv https://readpaper.com/paper/2775467454
+arXiv https://readpaper.com/pdf-annotate/note?pdfId=4666676397993902081&noteId=631009819838459904
 
 (2019) Fooling Automated Surveillance Cameras: Adversarial Patches to Attack Person Detection
 
