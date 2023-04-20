@@ -364,7 +364,7 @@ International Conference on Acoustics, Speech, and Signal Processing https://rea
 
 (2021) RPAttack: Refined Patch Attack on General Object Detectors
 
-International Conference on Multimedia and Expo https://readpaper.com/paper/3136499044
+International Conference on Multimedia and Expo https://readpaper.com/pdf-annotate/note?pdfId=4746707358579687425&noteId=632893574218530816
 
 (2022) DetectorDetective: Investigating the Effects of Adversarial Examples on Object Detectors
 
