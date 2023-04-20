@@ -388,7 +388,7 @@ ECML https://readpaper.com/paper/2890883923
 
 (2019) Perceptual-Sensitive GAN for Generating Adversarial Patches
 
-AAAI https://readpaper.com/paper/2905423756
+AAAI https://readpaper.com/pdf-annotate/note?pdfId=689734920698744832&noteId=699839235161878528
 
 (2019) advpattern: Physical-world attacks on deep person re-identification via adversarially transformable patterns
 
