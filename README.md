@@ -446,10 +446,6 @@ arXiv https://readpaper.com/paper/4581723180276654081
 
 USENIX https://readpaper.com/paper/1682162232992044032
 
-(2023) Benchmarking Robustness of 3D Object Detection to Common Corruptions in Autonomous Driving
-
-CVPR https://readpaper.com/paper/4735741679265398785
-
 (2023) AdvART: Adversarial Art for Camouflaged Object Detection Attacks
 
 arXiv https://readpaper.com/paper/4730298208719224833
@@ -976,7 +972,7 @@ TIP https://readpaper.com/paper/1689275432635294720
 
 TNNLS https://readpaper.com/pdf-annotate/note?pdfId=4746198022191316993&noteId=1745759997348886272
 
-## 3. Review and Benchmark
+## 3. Review
 
 (2018) Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey
 
@@ -1159,6 +1155,10 @@ WACV https://readpaper.com/paper/3196107314
 (2023) A Comprehensive Study on Robustness of Image Classification Models: Benchmarking and Rethinking
 
 arXiv https://readpaper.com/paper/4728554398846828545
+
+(2023) Benchmarking Robustness of 3D Object Detection to Common Corruptions in Autonomous Driving
+
+CVPR https://readpaper.com/paper/4735741679265398785
 
 ## 5. Remote sensing datasets
 
