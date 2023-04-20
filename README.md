@@ -392,7 +392,7 @@ AAAI https://readpaper.com/pdf-annotate/note?pdfId=689734920698744832&noteId=699
 
 (2019) advpattern: Physical-world attacks on deep person re-identification via adversarially transformable patterns
 
-ICCV https://readpaper.com/paper/2969616326
+ICCV https://readpaper.com/pdf-annotate/note?pdfId=4546284422470197249&noteId=683289918317404160
 
 (2020) Universal Physical Camouflage Attacks on Object Detectors
 
