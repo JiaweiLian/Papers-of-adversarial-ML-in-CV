@@ -604,7 +604,7 @@ TGRS https://readpaper.com/pdf-annotate/note?pdfId=4747145377170325505&noteId=17
 
 (2021) Assessing the Threat of Adversarial Examples on Deep Neural Networks for Remote Sensing Scene Classification: Attacks and Defenses
 
-TGRS https://readpaper.com/paper/3035821888
+TGRS https://readpaper.com/pdf-annotate/note?pdfId=4747147187910082561&noteId=1749559078324092160
 
 (2021) Project gradient descent adversarial attack against multisource remote sensing image scene classification
 
