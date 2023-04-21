@@ -566,6 +566,10 @@ CVPR https://readpaper.com/paper/4738641443631939585
 
 ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems https://readpaper.com/paper/2803898618
 
+(2019) Adversarial Example in Remote Sensing Image Recognition
+
+arXiv https://readpaper.com/pdf-annotate/note?pdfId=4666726103100964865&noteId=1749201047265803520
+
 (2020) Adversarial Patch Camouflage against Aerial Detection
 
 Proceedings of the SPIE (The International Society for Optical Engineering) https://readpaper.com/paper/3082135525
