@@ -598,6 +598,10 @@ TGRS https://readpaper.com/paper/3024988590
 
 TGRS https://readpaper.com/paper/3035821888
 
+(2021) Adversarial Attacks and Defenses for Deep-Learning-Based Unmanned Aerial Vehicles
+
+IEEE Internet of Things Journal https://readpaper.com/pdf-annotate/note?pdfId=4747056663400284161&noteId=1749195610475543808
+
 (2022) Adversarial Patch Attack on Multi-Scale Object Detection for UAV Remote Sensing Images
 
 Remote Sensing https://readpaper.com/paper/753518961568370688
