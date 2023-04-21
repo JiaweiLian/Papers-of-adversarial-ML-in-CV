@@ -576,7 +576,7 @@ IEEE Access https://readpaper.com/pdf-annotate/note?pdfId=4747060963753066497&no
 
 (2020) Adversarial Patch Camouflage against Aerial Detection
 
-Proceedings of the SPIE (The International Society for Optical Engineering) https://readpaper.com/pdf-annotate/note?pdfId=630313535167758336&noteId=631407085767368704
+Artificial Intelligence and Machine Learning in Defense Applications https://readpaper.com/pdf-annotate/note?pdfId=630313535167758336&noteId=631407085767368704
 
 (2021) Adversarial Attack for SAR Target Recognition Based on UNet-Generative Adversarial Network
 
