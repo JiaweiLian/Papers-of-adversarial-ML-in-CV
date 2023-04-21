@@ -670,6 +670,10 @@ TGRS https://readpaper.com/paper/4728131196484075521
 
 Remote Sensing https://readpaper.com/pdf-annotate/note?pdfId=4735812238900723713&noteId=1749223382605746944
 
+(2023) An Adaptive Adversarial Patch-Generating Algorithm for Defending against the Intelligent Low, Slow, and Small Target
+
+Remote Sensing https://readpaper.com/pdf-annotate/note?pdfId=4747066591166857217&noteId=1749234384063500032
+
 ### 1.5 Backdoor attack
 
 (2018) Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks
