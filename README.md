@@ -592,7 +592,7 @@ arXiv https://readpaper.com/paper/4565749633742020609
 
 (2021) Generating Adversarial Remote Sensing Images via Pan-Sharpening Technique
 
-International Workshop on Adversarial Learning for Multimedia https://readpaper.com/paper/3210110800
+International Workshop on Adversarial Learning for Multimedia https://readpaper.com/pdf-annotate/note?pdfId=4747134175740428289&noteId=701221292928290816
 
 (2021) An Empirical Study of Adversarial Examples on Remote Sensing Image Scene Classification
 
