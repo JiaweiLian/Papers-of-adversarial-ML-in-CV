@@ -544,10 +544,6 @@ TPAMI https://readpaper.com/paper/4705295637000765441
 
 arXiv https://readpaper.com/paper/4600165473480351745
 
-(2022) Robust Physical-World Attacks on Face Recognition
-
-Pattern Recognition https://readpaper.com/paper/3201386741
-
 (2022) Real-World Adversarial Examples Via Makeup
 
 ICASSP https://readpaper.com/paper/4224923640
@@ -555,6 +551,10 @@ ICASSP https://readpaper.com/paper/4224923640
 (2022) Powerful Physical Adversarial Examples Against Practical Face Recognition Systems
 
 WACV https://readpaper.com/paper/4607157405460996097
+
+(2023) Robust Physical-World Attacks on Face Recognition
+
+Pattern Recognition https://readpaper.com/paper/3201386741
 
 (2023) Towards Effective Adversarial Textured 3D Meshes on Physical Face Recognition
 
