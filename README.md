@@ -658,6 +658,10 @@ TGRS https://readpaper.com/paper/4684999213684113409
 
 IEEE International Workshop on Multimedia Signal Processing https://readpaper.com/pdf-annotate/note?pdfId=4747078122277437441&noteId=1749279620455283968
 
+(2022) Ad2Attack: Adaptive Adversarial Attack on Real-Time UAV Tracking
+
+IEEE International Conference on Robotics and Automation https://readpaper.com/pdf-annotate/note?pdfId=4747087390506483713&noteId=1749315448735862528
+
 (2022) Adversarial Patch Attack on Multi-Scale Object Detection for Remote Sensing Image
 
 preprints https://readpaper.com/pdf-annotate/note?pdfId=4747079522763931649&noteId=753518998704738304
