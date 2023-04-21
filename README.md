@@ -546,7 +546,7 @@ arXiv https://readpaper.com/paper/4600165473480351745
 
 (2022) Real-World Adversarial Examples Via Makeup
 
-ICASSP https://readpaper.com/paper/4224923640
+ICASSP https://readpaper.com/pdf-annotate/note?pdfId=4747041994451189761&noteId=1749136175056409600
 
 (2022) Powerful Physical Adversarial Examples Against Practical Face Recognition Systems
 
