@@ -564,7 +564,7 @@ CVPR https://readpaper.com/paper/4738641443631939585
 
 (2018) Adversarial Examples in Remote Sensing
 
-ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems https://readpaper.com/paper/2803898618
+ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems https://readpaper.com/pdf-annotate/note?pdfId=4747062010370326529&noteId=1749216286045453568
 
 (2019) Adversarial Example in Remote Sensing Image Recognition
 
