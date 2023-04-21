@@ -526,7 +526,7 @@ CVPR https://readpaper.com/paper/2939328166
 
 (2020) Adversarial light projection attacks on face recognition systems: A feasibility study
 
-CVPR https://readpaper.com/paper/3013548068
+CVPR https://readpaper.com/pdf-annotate/note?pdfId=4546296570197991425&noteId=1749098755354856960
 
 (2021) Improving Transferability of Adversarial Patches on Face Recognition with Generative Models
 
