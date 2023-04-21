@@ -566,7 +566,7 @@ CVPR https://readpaper.com/paper/4738641443631939585
 
 ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems https://readpaper.com/pdf-annotate/note?pdfId=4747062010370326529&noteId=1749216286045453568
 
-(2019) Adversarial Example in Remote Sensing Image Recognition
+(2019) Adversarial Example in Remote Sensing Image Recognition (extend to Attack Selectivity of Adversarial Examples in Remote Sensing Image Scene Classification)
 
 arXiv https://readpaper.com/pdf-annotate/note?pdfId=4666726103100964865&noteId=1749201047265803520
 
