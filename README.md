@@ -658,6 +658,10 @@ TGRS https://readpaper.com/paper/4684999213684113409
 
 IEEE International Workshop on Multimedia Signal Processing https://readpaper.com/pdf-annotate/note?pdfId=4747078122277437441&noteId=1749279620455283968
 
+(2022) Adversarial Patch Attack on Multi-Scale Object Detection for Remote Sensing Image
+
+preprints https://readpaper.com/pdf-annotate/note?pdfId=4747079522763931649&noteId=753518998704738304
+
 (2023) Adversarial Patch Attacks against Aerial Imagery Object Detectors
 
 Neurocomputing https://readpaper.com/paper/1724898908188231168
@@ -681,6 +685,10 @@ Remote Sensing https://readpaper.com/pdf-annotate/note?pdfId=4747066591166857217
 (2023) dversarial pan-sharpening attacks for object detection in remote sensing
 
 PR https://readpaper.com/pdf-annotate/note?pdfId=4730642464172408833&noteId=1683537692190919680
+
+(2023) Threatening Patch Attacks on Object Detection in Optical Remote Sensing Images
+
+arXiv https://readpaper.com/pdf-annotate/note?pdfId=4723061857242333185&noteId=1683566878523686400
 
 ### 1.5 Backdoor attack
 
