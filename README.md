@@ -518,7 +518,7 @@ Computer and Communications Security https://readpaper.com/paper/2535873859
 
 (2019) Generating adversarial examples by makeup attacks on face recognition
 
-ICIP https://readpaper.com/paper/2970255644
+ICIP https://readpaper.com/pdf-annotate/note?pdfId=4747030453450440705&noteId=706038398782574592
 
 (2019) Efficient Decision-based Black-box Adversarial Attacks on Face Recognition
 
