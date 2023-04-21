@@ -694,6 +694,10 @@ PR https://readpaper.com/pdf-annotate/note?pdfId=4730642464172408833&noteId=1683
 
 arXiv https://readpaper.com/pdf-annotate/note?pdfId=4723061857242333185&noteId=1683566878523686400
 
+(2023) Attacking Satellite Remote Sensing Detection Using Saliency Constrained Adversarial Patch
+
+International Conference on Guidance, Navigation and Control https://readpaper.com/pdf-annotate/note?pdfId=4747081562969866241&noteId=1749294645274295296
+
 ### 1.5 Backdoor attack
 
 (2018) Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks
