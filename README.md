@@ -602,6 +602,10 @@ TGRS https://readpaper.com/paper/3024988590
 
 TGRS https://readpaper.com/paper/3035821888
 
+(2021) Project gradient descent adversarial attack against multisource remote sensing image scene classification
+
+Security and Communication Networks https://readpaper.com/pdf-annotate/note?pdfId=4747060728377114625&noteId=1749210913544682752
+
 (2021) Adversarial Attacks and Defenses for Deep-Learning-Based Unmanned Aerial Vehicles
 
 IEEE Internet of Things Journal https://readpaper.com/pdf-annotate/note?pdfId=4747056663400284161&noteId=1749195610475543808
