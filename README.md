@@ -580,7 +580,7 @@ Artificial Intelligence and Machine Learning in Defense Applications https://rea
 
 (2021) Adversarial Attack for SAR Target Recognition Based on UNet-Generative Adversarial Network
 
-Remote Sensing https://readpaper.com/paper/3209551844
+Remote Sensing https://readpaper.com/pdf-annotate/note?pdfId=4747125311716458497&noteId=1749469319311719680
 
 (2021) Scale-Adaptive Adversarial Patch Attack for Remote Sensing Image Aircraft Detection
 
