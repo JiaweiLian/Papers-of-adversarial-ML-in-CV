@@ -642,6 +642,14 @@ TGRS https://readpaper.com/paper/3172075653
 
 arXiv https://readpaper.com/paper/4643328623286173697
 
+(2022) Backdoor Attacks for Remote Sensing Data with Wavelet Transform
+
+arXiv https://readpaper.com/pdf-annotate/note?pdfId=4690438816998096897&noteId=1749217548799392768
+
+(2022) Speckle-Variant Attack: Toward Transferable Adversarial Attack to SAR Target Recognition
+
+GRSL https://readpaper.com/pdf-annotate/note?pdfId=4747063998466228225&noteId=1749224347530548224
+
 (2022) Benchmarking Adversarial Patch Against Aerial Detection
 
 TGRS https://readpaper.com/paper/4684999213684113409
@@ -657,6 +665,10 @@ IGARSS https://readpaper.com/paper/4728131094352773121
 (2023) CBA: Contextual Background Attack against Optical Aerial Detection in the Physical World
 
 TGRS https://readpaper.com/paper/4728131196484075521
+
+(2023) Rust-Style Patch: A Physical and Naturalistic Camouflage Attacks on Object Detector for Remote Sensing Images
+
+Remote Sensing https://readpaper.com/pdf-annotate/note?pdfId=4735812238900723713&noteId=1749223382605746944
 
 ### 1.5 Backdoor attack
 
