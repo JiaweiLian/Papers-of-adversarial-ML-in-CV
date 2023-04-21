@@ -654,6 +654,10 @@ GRSL https://readpaper.com/pdf-annotate/note?pdfId=4747063998466228225&noteId=17
 
 TGRS https://readpaper.com/paper/4684999213684113409
 
+(2022) Universal adversarial perturbation for remote sensing images
+
+IEEE International Workshop on Multimedia Signal Processing https://readpaper.com/pdf-annotate/note?pdfId=4747078122277437441&noteId=1749279620455283968
+
 (2023) Adversarial Patch Attacks against Aerial Imagery Object Detectors
 
 Neurocomputing https://readpaper.com/paper/1724898908188231168
