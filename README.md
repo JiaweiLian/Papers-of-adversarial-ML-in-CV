@@ -662,6 +662,10 @@ IEEE International Workshop on Multimedia Signal Processing https://readpaper.co
 
 preprints https://readpaper.com/pdf-annotate/note?pdfId=4747079522763931649&noteId=753518998704738304
 
+(2022) A Universal Adversarial Attack on CNN-SAR Image Classification by Feature Dictionary Modeling
+
+IGARSS https://readpaper.com/pdf-annotate/note?pdfId=4747080642555019265&noteId=1749290391745975040
+
 (2023) Adversarial Patch Attacks against Aerial Imagery Object Detectors
 
 Neurocomputing https://readpaper.com/paper/1724898908188231168
