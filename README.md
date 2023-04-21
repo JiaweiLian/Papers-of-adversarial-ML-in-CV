@@ -570,6 +570,10 @@ ACM SIGSPATIAL International Conference on Advances in Geographic Information Sy
 
 arXiv https://readpaper.com/pdf-annotate/note?pdfId=4666726103100964865&noteId=1749201047265803520
 
+(2020) Attack Selectivity of Adversarial Examples in Remote Sensing Image Scene Classification
+
+IEEE Access https://readpaper.com/pdf-annotate/note?pdfId=4747060963753066497&noteId=1749211729722686464
+
 (2020) Adversarial Patch Camouflage against Aerial Detection
 
 Proceedings of the SPIE (The International Society for Optical Engineering) https://readpaper.com/paper/3082135525
