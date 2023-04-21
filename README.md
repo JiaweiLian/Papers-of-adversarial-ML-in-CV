@@ -600,7 +600,7 @@ TGRS https://readpaper.com/paper/3127159478
 
 (2021) Generating natural adversarial Remote Sensing Images
 
-TGRS https://readpaper.com/paper/3024988590
+TGRS https://readpaper.com/pdf-annotate/note?pdfId=4747145377170325505&noteId=1749549455314587136
 
 (2021) Assessing the Threat of Adversarial Examples on Deep Neural Networks for Remote Sensing Scene Classification: Attacks and Defenses
 
