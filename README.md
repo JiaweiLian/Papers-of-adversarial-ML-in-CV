@@ -578,6 +578,10 @@ IEEE Access https://readpaper.com/pdf-annotate/note?pdfId=4747060963753066497&no
 
 Artificial Intelligence and Machine Learning in Defense Applications https://readpaper.com/pdf-annotate/note?pdfId=630313535167758336&noteId=631407085767368704
 
+(2020) Assessing the Threat of Adversarial Examples on Deep Neural Networks for Remote Sensing Scene Classification: Attacks and Defenses
+
+TGRS https://readpaper.com/pdf-annotate/note?pdfId=4747147187910082561&noteId=1749559078324092160
+
 (2021) Adversarial Attack for SAR Target Recognition Based on UNet-Generative Adversarial Network
 
 Remote Sensing https://readpaper.com/pdf-annotate/note?pdfId=4747125311716458497&noteId=1749469319311719680
@@ -601,10 +605,6 @@ TGRS https://readpaper.com/paper/3127159478
 (2021) Generating natural adversarial Remote Sensing Images
 
 TGRS https://readpaper.com/pdf-annotate/note?pdfId=4747145377170325505&noteId=1749549455314587136
-
-(2021) Assessing the Threat of Adversarial Examples on Deep Neural Networks for Remote Sensing Scene Classification: Attacks and Defenses
-
-TGRS https://readpaper.com/pdf-annotate/note?pdfId=4747147187910082561&noteId=1749559078324092160
 
 (2021) Project gradient descent adversarial attack against multisource remote sensing image scene classification
 
