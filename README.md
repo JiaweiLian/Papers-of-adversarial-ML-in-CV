@@ -566,7 +566,7 @@ CVPR https://readpaper.com/paper/4738641443631939585
 
 ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems https://readpaper.com/pdf-annotate/note?pdfId=4747062010370326529&noteId=1749216286045453568
 
-(2019) Adversarial Example in Remote Sensing Image Recognition (extend to Attack Selectivity of Adversarial Examples in Remote Sensing Image Scene Classification)
+(2019) Adversarial Example in Remote Sensing Image Recognition (同下一篇)
 
 arXiv https://readpaper.com/pdf-annotate/note?pdfId=4666726103100964865&noteId=1749201047265803520
 
@@ -614,7 +614,7 @@ Security and Communication Networks https://readpaper.com/pdf-annotate/note?pdfI
 
 IEEE Internet of Things Journal https://readpaper.com/pdf-annotate/note?pdfId=4747056663400284161&noteId=1749195610475543808
 
-(2022) Adversarial Patch Attack on Multi-Scale Object Detection for Remote Sensing Image (同 Adversarial Patch Attack on Multi-Scale Object Detection for UAV Remote Sensing Images)
+(2022) Adversarial Patch Attack on Multi-Scale Object Detection for Remote Sensing Image (同下一篇)
 
 preprints https://readpaper.com/pdf-annotate/note?pdfId=4747079522763931649&noteId=753518998704738304
 
