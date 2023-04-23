@@ -636,7 +636,7 @@ TGRS https://readpaper.com/paper/4592348928746201089
 
 (2022) Perturbation-Seeking Generative Adversarial Networks: A Defense Framework for Remote Sensing Image Scene Classification
 
-TGRS https://readpaper.com/paper/3172075653
+TGRS https://readpaper.com/pdf-annotate/note?pdfId=4747661079144824833&noteId=707910133021179904
 
 (2022) The Weaknesses of Adversarial Camouflage in Overhead Imagery
 
