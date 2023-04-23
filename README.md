@@ -690,7 +690,7 @@ Remote Sensing https://readpaper.com/pdf-annotate/note?pdfId=4735812238900723713
 
 Remote Sensing https://readpaper.com/pdf-annotate/note?pdfId=4747066591166857217&noteId=1749234384063500032
 
-(2023) dversarial pan-sharpening attacks for object detection in remote sensing
+(2023) Adversarial pan-sharpening attacks for object detection in remote sensing
 
 PR https://readpaper.com/pdf-annotate/note?pdfId=4730642464172408833&noteId=1683537692190919680
 
