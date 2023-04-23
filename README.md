@@ -614,6 +614,10 @@ Security and Communication Networks https://readpaper.com/pdf-annotate/note?pdfI
 
 IEEE Internet of Things Journal https://readpaper.com/pdf-annotate/note?pdfId=4747056663400284161&noteId=1749195610475543808
 
+(2022) Adversarial Patch Attack on Multi-Scale Object Detection for Remote Sensing Image (同 Adversarial Patch Attack on Multi-Scale Object Detection for UAV Remote Sensing Images)
+
+preprints https://readpaper.com/pdf-annotate/note?pdfId=4747079522763931649&noteId=753518998704738304
+
 (2022) Adversarial Patch Attack on Multi-Scale Object Detection for UAV Remote Sensing Images
 
 Remote Sensing https://readpaper.com/paper/753518961568370688
@@ -661,10 +665,6 @@ IEEE International Workshop on Multimedia Signal Processing https://readpaper.co
 (2022) Ad2Attack: Adaptive Adversarial Attack on Real-Time UAV Tracking
 
 IEEE International Conference on Robotics and Automation https://readpaper.com/pdf-annotate/note?pdfId=4747087390506483713&noteId=1749315448735862528
-
-(2022) Adversarial Patch Attack on Multi-Scale Object Detection for Remote Sensing Image
-
-preprints https://readpaper.com/pdf-annotate/note?pdfId=4747079522763931649&noteId=753518998704738304
 
 (2022) A Universal Adversarial Attack on CNN-SAR Image Classification by Feature Dictionary Modeling
 
