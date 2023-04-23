@@ -800,11 +800,11 @@ arXiv https://arxiv.org/pdf/2204.00008.pdf
 
 (2022) Transferable Sparse Adversarial Attack
 
+CVPR https://readpaper.com/paper/3196681108
+
 (2022) Improving the Transferability of Targeted Adversarial Examples through Object-Based Diverse Input
 
 CVPR https://readpaper.com/paper/664993021790273536
-
-CVPR https://readpaper.com/paper/3196681108
 
 (2022) Stochastic Variance Reduced Ensemble Adversarial Attack for Boosting the Adversarial Transferability
 
