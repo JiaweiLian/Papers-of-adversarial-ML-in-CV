@@ -1194,7 +1194,7 @@ ACM on International Workshop on Security and Privacy Analytics https://dl.acm.o
 
 (2022) RobustART: Benchmarking Robustness on Architecture Design and Training Techniques
 
-arXiv https://readpaper.com/paper/3200643978  http://robust.art/
+arXiv https://readpaper.com/pdf-annotate/note?pdfId=701698030542798848&noteId=679665751597776896  http://robust.art/
 
 (2022) Adversarial Robustness is Not Enough: Practical Limitations for Securing Facial Authentication
 
