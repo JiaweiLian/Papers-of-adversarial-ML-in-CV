@@ -1052,7 +1052,7 @@ ACM Transactions on Privacy and Security https://readpaper.com/paper/2932026309
 
 (2020) Adversarial Examples on Object Recognition: A Comprehensive Survey
 
-ACM Computing Surveys https://readpaper.com/paper/3035584216
+ACM Computing Surveys https://readpaper.com/pdf-annotate/note?pdfId=4748084701399351297&noteId=1753306720387847168
 
 (2021) Advances in adversarial attacks and defenses in computer vision: A survey
 
@@ -1060,7 +1060,7 @@ IEEE Access https://readpaper.com/paper/3211999566
 
 (2021) Adversarial Machine Learning in Image Classification: A Survey Toward the Defender’s Perspective 
 
-ACM Computing Surveys https://readpaper.com/paper/3084139925
+ACM Computing Surveys https://readpaper.com/pdf-annotate/note?pdfId=4556315862856900609&noteId=625576952121151488
 
 (2021) Deep Learning-Based Autonomous Driving Systems: A Survey of Attacks and Defenses
 
@@ -1128,7 +1128,7 @@ Pattern Recognition https://readpaper.com/paper/4599813580069543937
 
 (2022) Physical Adversarial Attack meets Computer Vision: A Decade Survey
 
-ACM Computing Surveys https://readpaper.com/paper/4674488275109429249
+ACM Computing Surveys https://readpaper.com/pdf-annotate/note?pdfId=4687550902186278913&noteId=1542081959491134464
 
 (2022) Physically Adversarial Attacks and Defenses in Computer Vision: A Survey
 
@@ -1140,7 +1140,7 @@ IEEE Geoscience and Remote Sensing Magazine https://readpaper.com/paper/47027559
 
 (2023) Trustworthy AI: From Principles to Practices
 
-ACM Computing Surveys https://readpaper.com/paper/3202183072
+ACM Computing Surveys https://readpaper.com/pdf-annotate/note?pdfId=4628093436365389825&noteId=1753301354228863744
 
 (2023) Adversarial Machine Learning: A Systematic Survey of Backdoor Attack, Weight Attack and Adversarial Example
 
