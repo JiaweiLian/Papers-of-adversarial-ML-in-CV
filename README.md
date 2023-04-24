@@ -1060,7 +1060,7 @@ IEEE Access https://readpaper.com/paper/3211999566
 
 (2021) Adversarial Machine Learning in Image Classification: A Survey Toward the Defender’s Perspective 
 
-ACM Computing Surveys https://readpaper.com/pdf-annotate/note?pdfId=4556315862856900609&noteId=625576952121151488
+ACM Computing Surveys https://readpaper.com/pdf-annotate/note?pdfId=4748062300921921537&noteId=1753287671905899520
 
 (2021) Deep Learning-Based Autonomous Driving Systems: A Survey of Attacks and Defenses
 
