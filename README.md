@@ -1130,13 +1130,13 @@ Pattern Recognition https://readpaper.com/paper/4599813580069543937
 
 ACM Computing Surveys https://readpaper.com/pdf-annotate/note?pdfId=4687550902186278913&noteId=1542081959491134464
 
-(2022) Physically Adversarial Attacks and Defenses in Computer Vision: A Survey
+(2022) Physically Adversarial Attacks and Defenses in Computer Vision: A Survey (同下一篇）
 
-arXiv https://readpaper.com/paper/4686086011009122305
+arXiv (TPAMI) https://readpaper.com/paper/4686086011009122305
 
 (2022) Visual Adversarial Attacks and Defenses in the Physical World: A Survey
 
-arXiv https://readpaper.com/pdf-annotate/note?pdfId=4745906409460219905&noteId=1753817778898664704
+arXiv (ACM Computing Surveys) https://readpaper.com/pdf-annotate/note?pdfId=4745906409460219905&noteId=1753817778898664704
 
 (2022) AI Security for Geoscience and Remote Sensing: Challenges and Future Trends
 
