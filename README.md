@@ -376,6 +376,10 @@ CVPR https://readpaper.com/paper/699576587237224448
 
 ICCV https://readpaper.com/paper/2950774971
 
+(2020) Adversarial Objectness Gradient Attacks in Real-time Object Detection Systems
+
+IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications https://readpaper.com/pdf-annotate/note?pdfId=4748404083765805057
+
 (2022) Zero-Query Transfer Attacks on Context-Aware Object Detectors
 
 CVPR https://readpaper.com/pdf-annotate/note?pdfId=696984706002096128&noteId=1747811267302723328
