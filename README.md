@@ -44,7 +44,7 @@ arXiv(TPAMI) https://readpaper.com/paper/4650209616425140225
 
 (2022) SegPGD: An Effective and Efficient Adversarial Attack for Evaluating and Boosting Segmentation Robustness
 
-arXiv https://readpaper.com/paper/4649964861992747009
+ECCV https://readpaper.com/paper/4649964861992747009
 
 (2022) A Hamiltonian Monte Carlo Method for Probabilistic Adversarial Attack and Learning
 
