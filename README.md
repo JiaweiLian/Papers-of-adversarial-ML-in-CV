@@ -52,7 +52,7 @@ ECCV https://readpaper.com/paper/4649964861992747009
 
 (2022) Blackbox Attacks via Surrogate Ensemble Search
 
-arXiv https://readpaper.com/paper/4654941164613419009
+NIPS https://readpaper.com/paper/4654941164613419009
 
 (2022) Rethinking Label Flipping Attack: From Sample Masking to Sample Thresholding
 
