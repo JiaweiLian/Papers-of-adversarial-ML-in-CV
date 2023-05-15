@@ -18,6 +18,10 @@ NIPS https://readpaper.com/paper/3093403688
 
 ECCV https://readpaper.com/paper/3108980562
 
+(2020) A Hamiltonian Monte Carlo Method for Probabilistic Adversarial Attack and Learning
+
+TPAMI https://readpaper.com/paper/3093420827
+
 (2021) Universal Adversarial Head: Practical Protection against Video Data Leakage
 
 ICML https://readpaper.com/paper/722985713689694208
@@ -45,10 +49,6 @@ arXiv(TPAMI) https://readpaper.com/paper/4650209616425140225
 (2022) SegPGD: An Effective and Efficient Adversarial Attack for Evaluating and Boosting Segmentation Robustness
 
 ECCV https://readpaper.com/paper/4649964861992747009
-
-(2022) A Hamiltonian Monte Carlo Method for Probabilistic Adversarial Attack and Learning
-
-TPAMI https://readpaper.com/paper/3093420827
 
 (2022) Blackbox Attacks via Surrogate Ensemble Search
 
