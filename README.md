@@ -198,13 +198,13 @@ ECCV https://readpaper.com/pdf-annotate/note?pdfId=678869835785338880&noteId=683
 
 TPAMI https://readpaper.com/pdf-annotate/note?pdfId=4545084566804258817&noteId=1745157828471223296
 
+(2020) Understanding adversarial attacks on deep learning based medical image analysis systems
+
+Pattern Recognition https://readpaper.com/pdf-annotate/note?pdfId=4745943772961964033&noteId=629648975905787905
+
 (2021) On the Robustness of Vision Transformers to Adversarial Examples
 
 ICCV https://readpaper.com/pdf-annotate/note?pdfId=4745941899341201409&noteId=684299915246182400
-
-(2021) Understanding adversarial attacks on deep learning based medical image analysis systems
-
-Pattern Recognition https://readpaper.com/pdf-annotate/note?pdfId=4745943772961964033&noteId=629648975905787905
 
 (2021) SurFree: a fast surrogate-free black-box attack
 
