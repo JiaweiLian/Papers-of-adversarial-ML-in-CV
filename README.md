@@ -232,7 +232,7 @@ ICLR https://readpaper.com/paper/4606797601328603137
 
 (2022) Boosting Black-Box Adversarial Attacks with Meta Learning
 
-arXiv https://arxiv.org/pdf/2203.14607.pdf
+Chinese Control Conference https://readpaper.com/pdf-annotate/note?pdfId=4606802622250229761&noteId=1785674449989346048
 
 (2022) CLPA: Clean-Label Poisoning Availability Attacks Using Generative Adversarial Nets
 
