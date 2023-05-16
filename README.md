@@ -230,10 +230,6 @@ TPAMI https://readpaper.com/paper/679629297718919168
 
 ICLR https://readpaper.com/paper/4606797601328603137
 
-(2022) Generalizable Black-Box Adversarial Attack with Meta Learning
-
-TPAMI https://readpaper.com/paper/4707833565551804417
-
 (2022) Boosting Black-Box Adversarial Attacks with Meta Learning
 
 arXiv https://arxiv.org/pdf/2203.14607.pdf
@@ -269,6 +265,10 @@ TPAMI https://readpaper.com/paper/4604236353688838145
 (2022) Give Me Your Attention: Dot-Product Attention Considered Harmful for Adversarial Patch Robustness
 
 CVPR https://readpaper.com/paper/4606383143703814145
+
+(2023) Generalizable Black-Box Adversarial Attack with Meta Learning
+
+TPAMI https://readpaper.com/paper/4707833565551804417
 
 (2023) Average gradient-based adversarial attack
 
