@@ -94,7 +94,7 @@ CVPR https://readpaper.com/paper/4600182173315637249
 
 (2022) ViewFool: Evaluating the Robustness of Visual Recognition to Adversarial Viewpoints
 
-arxiv https://readpaper.com/paper/734260074340528128
+NIPS https://readpaper.com/paper/734260074340528128
 
 #### 1.1.1 Digital attack
 
