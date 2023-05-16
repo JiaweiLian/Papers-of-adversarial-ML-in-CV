@@ -244,7 +244,7 @@ ACM on International Workshop on Security and Privacy Analytics https://readpape
 
 (2022) StyleFool: Fooling Video Classification Systems via Style Transfer
 
-arXiv https://arxiv.org/pdf/2203.16000.pdf
+arXiv https://readpaper.com/pdf-annotate/note?pdfId=4751315815039500289&noteId=1785685470875494144
 
 (2022) Query-efficient Black-box Adversarial Attack with Customized Iteration and Sampling
 
