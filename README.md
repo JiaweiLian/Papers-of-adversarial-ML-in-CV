@@ -252,7 +252,7 @@ TPAMI https://readpaper.com/paper/692534338302332928
 
 (2022) Towards Transferable Unrestricted Adversarial Examples with Minimum Changes (CVPR 2021 AI adversarial competition TOP1)
 
-arXiv https://readpaper.com/pdf-annotate/note?pdfId=4751315815039500289&noteId=1785685470875494144
+arXiv https://readpaper.com/pdf-annotate/note?pdfId=4706017435803729921&noteId=1785700433551960832
 
 (2022) Frequency-Tuned Universal Adversarial Attacks on Texture Recognition
 
