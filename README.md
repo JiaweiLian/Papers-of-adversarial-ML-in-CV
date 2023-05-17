@@ -302,6 +302,10 @@ ICML https://readpaper.com/pdf-annotate/note?pdfId=4544599208610127873&noteId=63
 
 (2019) Adversarial attacks beyond the image space
 
+(2019) Perceptual-Sensitive GAN for Generating Adversarial Patches
+
+AAAI https://readpaper.com/pdf-annotate/note?pdfId=689734920698744832&noteId=699839235161878528
+
 CVPR https://readpaper.com/pdf-annotate/note?pdfId=4518074536083218433&noteId=1682335190753573376
 
 (2019) Connecting the Digital and Physical World: Improving the Robustness of Adversarial Attacks
@@ -393,10 +397,6 @@ CVPR https://readpaper.com/pdf-annotate/note?pdfId=696984706002096128&noteId=174
 (2019) ShapeShifter: Robust Physical Adversarial Attack on Faster R-CNN Object Detector
 
 ECML https://readpaper.com/paper/2890883923
-
-(2019) Perceptual-Sensitive GAN for Generating Adversarial Patches
-
-AAAI https://readpaper.com/pdf-annotate/note?pdfId=689734920698744832&noteId=699839235161878528
 
 (2019) advpattern: Physical-world attacks on deep person re-identification via adversarially transformable patterns
 
