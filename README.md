@@ -286,7 +286,7 @@ TIP https://readpaper.com/pdf-annotate/note?pdfId=4746198797420331009&noteId=174
 
 (2017) Adversarial Patch
 
-NIPS https://readpaper.com/paper/2804566015
+arXiv https://readpaper.com/paper/2804566015
 
 (2018) Adversarial examples in the physical world
 
