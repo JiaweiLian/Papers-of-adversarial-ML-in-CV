@@ -304,6 +304,10 @@ ICML https://readpaper.com/pdf-annotate/note?pdfId=4544599208610127873&noteId=63
 
 CVPR https://readpaper.com/pdf-annotate/note?pdfId=4518074536083218433&noteId=1682335190753573376
 
+(2019) Connecting the Digital and Physical World: Improving the Robustness of Adversarial Attacks
+
+AAAI https://readpaper.com/pdf-annotate/note?pdfId=4544442156839493633&noteId=1786473693575129856
+
 (2020) Adversarial Camouflage: Hiding Physical-World Attacks With Natural Styles
 
 CVPR https://readpaper.com/paper/3010867827
