@@ -802,10 +802,6 @@ ICCV https://readpaper.com/paper/3204170749
 
 arXiv https://readpaper.com/pdf-annotate/note?pdfId=696684496690561024&noteId=1788545982982534144
 
-(2022) Improving Adversarial Transferability via Neuron Attribution-Based Attacks
-
-CVPR https://arxiv.org/pdf/2204.00008.pdf
-
 (2022) Transferable Sparse Adversarial Attack
 
 CVPR https://readpaper.com/paper/3196681108
