@@ -804,7 +804,7 @@ arXiv https://readpaper.com/pdf-annotate/note?pdfId=696684496690561024&noteId=17
 
 (2022) Improving Adversarial Transferability via Neuron Attribution-Based Attacks
 
-arXiv https://arxiv.org/pdf/2204.00008.pdf
+CVPR https://arxiv.org/pdf/2204.00008.pdf
 
 (2022) Transferable Sparse Adversarial Attack
 
