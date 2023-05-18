@@ -758,7 +758,7 @@ CVPR https://readpaper.com/pdf-annotate/note?pdfId=4706877385719414785&noteId=17
 
 (2022) BadDet: Backdoor Attacks on Object Detection
 
-arXiv https://readpaper.com/paper/4629573410763063297
+ECCV https://readpaper.com/paper/4629573410763063297
 
 (2023) Disguising Attacks with Explanation-Aware Backdoors
 
