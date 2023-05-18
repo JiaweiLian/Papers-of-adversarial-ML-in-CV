@@ -820,7 +820,7 @@ CVPR https://readpaper.com/paper/4608893540788871169
 
 (2022) Investigating Top-k White-Box and Transferable Black-box Attack
 
-CVPR https://arxiv.org/pdf/2204.00089.pdf
+CVPR https://readpaper.com/pdf-annotate/note?pdfId=717537482945941504&noteId=1788574572247719936
 
 (2022) Boosting the Adversarial Transferability of Surrogate Model with Dark Knowledge
 
