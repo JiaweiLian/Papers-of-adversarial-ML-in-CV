@@ -800,7 +800,7 @@ ICCV https://readpaper.com/paper/3204170749
 
 (2022) Improving Adversarial Transferability with Spatial Momentum
 
-arXiv https://arxiv.org/pdf/2203.13479.pdf
+arXiv https://readpaper.com/pdf-annotate/note?pdfId=696684496690561024&noteId=1788545982982534144
 
 (2022) Improving Adversarial Transferability via Neuron Attribution-Based Attacks
 
