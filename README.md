@@ -754,7 +754,7 @@ arXiv https://arxiv.org/pdf/2204.09498.pdf
 
 (2022) Better Trigger Inversion Optimization in Backdoor Scanning
 
-CVPR https://www.cs.purdue.edu/homes/taog/docs/CVPR22_Tao.pdf
+CVPR https://readpaper.com/pdf-annotate/note?pdfId=4706877385719414785&noteId=1788359914899387392
 
 (2022) BadDet: Backdoor Attacks on Object Detection
 
