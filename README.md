@@ -846,7 +846,7 @@ CVPR https://readpaper.com/paper/3014264214
 
 (2021) Invisible for both Camera and LiDAR: Security of Multi-Sensor Fusion based Perception in Autonomous Driving Under Physical-World Attacks
 
-IEEE Symposium on Security and  Privacy
+IEEE Symposium on Security and  Privacy https://readpaper.com/pdf-annotate/note?pdfId=4558319638925025281&noteId=1788609363328052992
 
 (2021) Can We Use Arbitrary Objects to Attack LiDAR Perception in Autonomous Driving
 
