@@ -458,6 +458,10 @@ USENIX https://readpaper.com/paper/1682162232992044032
 
 arXiv https://readpaper.com/paper/4730298208719224833
 
+(2023) LIGHT PROJECTION-BASED PHYSICAL-WORLD VANISHING ATTACK AGAINST CAR DETECTION
+
+ICASSP https://readpaper.com/pdf-annotate/note?pdfId=4758154064361947137&noteId=1793584029582962944
+
 ##### 1.2.2.1 Untargeted attack
 
 (2017) Adversarial Examples that Fool Detectors
