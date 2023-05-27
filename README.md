@@ -1168,10 +1168,6 @@ TPAMI https://readpaper.com/paper/2769999273
 
 ICCV https://readpaper.com/paper/3204341526
 
-(2021) A comprehensive evaluation framework for deep model robustness
-
-TIP https://readpaper.com/paper/3124324543
-
 (2022) Benchmarking and deeper analysis of adversarial patch attack on object detectors
 
 IJCAI https://readpaper.com/paper/732902912859156480
@@ -1223,6 +1219,10 @@ arXiv https://readpaper.com/paper/4728554398846828545
 (2023) Benchmarking Robustness of 3D Object Detection to Common Corruptions in Autonomous Driving
 
 CVPR https://readpaper.com/paper/4735741679265398785
+
+(2023) A comprehensive evaluation framework for deep model robustness
+
+PR https://readpaper.com/paper/3124324543
 
 ## 5. Remote sensing datasets
 
