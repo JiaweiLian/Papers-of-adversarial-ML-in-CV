@@ -1144,7 +1144,7 @@ arXiv (ACM Computing Surveys) https://readpaper.com/pdf-annotate/note?pdfId=4745
 
 (2022) AI Security for Geoscience and Remote Sensing: Challenges and Future Trends
 
-IEEE Geoscience and Remote Sensing Magazine https://readpaper.com/paper/4702755945063661569
+arXiv (IEEE Geoscience and Remote Sensing Magazine) https://readpaper.com/paper/4702755945063661569
 
 (2023) Trustworthy AI: From Principles to Practices
 
