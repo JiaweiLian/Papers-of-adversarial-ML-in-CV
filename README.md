@@ -1168,6 +1168,10 @@ TPAMI https://readpaper.com/paper/2769999273
 
 ICCV https://readpaper.com/paper/3204341526
 
+(2021) RobustART: Benchmarking Robustness on Architecture Design and Training Techniques
+
+arXiv https://readpaper.com/pdf-annotate/note?pdfId=701698030542798848&noteId=679665751597776896  http://robust.art/
+
 (2022) Benchmarking and deeper analysis of adversarial patch attack on object detectors
 
 IJCAI https://readpaper.com/paper/732902912859156480
@@ -1195,10 +1199,6 @@ arXiv https://arxiv.org/pdf/2204.05764.pdf
 (2022) An Empirical Evaluation of Adversarial Examples Defences, Combinations and Robustness Scores
 
 ACM on International Workshop on Security and Privacy Analytics https://dl.acm.org/doi/pdf/10.1145/3510548.3519370
-
-(2022) RobustART: Benchmarking Robustness on Architecture Design and Training Techniques
-
-arXiv https://readpaper.com/pdf-annotate/note?pdfId=701698030542798848&noteId=679665751597776896  http://robust.art/
 
 (2022) Adversarial Robustness is Not Enough: Practical Limitations for Securing Facial Authentication
 
