@@ -656,7 +656,7 @@ TGRS https://readpaper.com/pdf-annotate/note?pdfId=4747661079144824833&noteId=70
 
 (2022) The Weaknesses of Adversarial Camouflage in Overhead Imagery
 
-arXiv https://readpaper.com/paper/4643328623286173697
+IEEE Applied Imagery Pattern Recognition Workshop (AIPR) https://readpaper.com/paper/4643328623286173697
 
 (2022) Backdoor Attacks for Remote Sensing Data with Wavelet Transform
 
