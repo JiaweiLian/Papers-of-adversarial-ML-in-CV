@@ -714,6 +714,10 @@ arXiv https://readpaper.com/pdf-annotate/note?pdfId=4723061857242333185&noteId=1
 
 International Conference on Guidance, Navigation and Control https://readpaper.com/pdf-annotate/note?pdfId=4747081562969866241&noteId=1749294645274295296
 
+(2023) Adversarial Attacks on Aerial Imagery : The State-of-the-Art and Perspective
+
+ICAI https://readpaper.com/pdf-annotate/note?pdfId=4763234880951681025&noteId=1813908707878973696
+
 ### 1.5 Backdoor attack
 
 (2018) Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks
