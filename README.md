@@ -584,6 +584,10 @@ CVPR https://readpaper.com/pdf-annotate/note?pdfId=4764780276995850241&noteId=18
 
 CVPR https://readpaper.com/pdf-annotate/note?pdfId=4764785101850542081&noteId=1820108152509511936
 
+(2023) Dual Attention Adversarial Attacks With Limited Perturbations
+
+TNNLS https://readpaper.com/pdf-annotate/note?pdfId=4764786421990948865&noteId=1820114175529156096
+
 ### 1.4 Aerial image
 
 (2018) Adversarial Examples in Remote Sensing
