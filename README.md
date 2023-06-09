@@ -282,6 +282,10 @@ Information Sicences https://readpaper.com/paper/1722842046034725376
 
 TIP https://readpaper.com/pdf-annotate/note?pdfId=4746198797420331009&noteId=1745763020132386560
 
+(2023) Black-Box Sparse Adversarial Attack via Multi-Objective Optimisation
+
+CVPR https://readpaper.com/pdf-annotate/note?pdfId=4763451537791909889&noteId=1820102694075921408
+
 #### 1.1.2 Physical attack
 
 (2017) Adversarial Patch
@@ -776,6 +780,10 @@ ECCV https://readpaper.com/paper/4629573410763063297
 
 IEEE Symposium on Security and Privacy https://readpaper.com/paper/1591493969883248384
 
+(2023) Progressive Backdoor Erasing via connecting Backdoor and Adversarial Attacks
+
+CVPR https://readpaper.com/pdf-annotate/note?pdfId=4764782510798274561&noteId=1820098260344128000
+
 ### 1.6 Transferable attack
 
 (2017) Delving into Transferable Adversarial Examples and Black-box Attacks
@@ -845,6 +853,10 @@ arXiv https://readpaper.com/paper/4691159849971499009
 (2023) Boosting Transferability of Physical Attack against Detectors by Redistributing Separable Attention
 
 PR https://readpaper.com/paper/1683553440980106240
+
+(2023) Introducing Competition to Boost the Transferability of Targeted Adversarial Examples through Clean Feature Mixup
+
+CVPR https://readpaper.com/pdf-annotate/note?pdfId=4759371645890592769&noteId=1820105197957825024
 
 ### 1.7 Attack of LiDAR perception
 
