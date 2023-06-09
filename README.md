@@ -466,6 +466,10 @@ arXiv https://readpaper.com/paper/4730298208719224833
 
 ICASSP https://readpaper.com/pdf-annotate/note?pdfId=4758154064361947137&noteId=1793584029582962944
 
+(2023) Towards Benchmarking and Assessing Visual Naturalness of Physical World Adversarial Attacks
+
+CVPR https://readpaper.com/pdf-annotate/note?pdfId=4764792002063630337&noteId=1820136110447230464
+
 ##### 1.2.2.1 Untargeted attack
 
 (2017) Adversarial Examples that Fool Detectors
