@@ -878,6 +878,10 @@ PR https://readpaper.com/paper/1683553440980106240
 
 CVPR https://readpaper.com/pdf-annotate/note?pdfId=4759371645890592769&noteId=1820105197957825024
 
+(2023) StyLess: Boosting the Transferability of Adversarial Examples
+
+CVPR https://readpaper.com/pdf-annotate/note?pdfId=4764797420252954625&noteId=1820157996141789696
+
 ### 1.7 Attack of LiDAR perception
 
 (2020) Towards Robust LiDAR-based Perception in Autonomous Driving: General Black-box Adversarial Sensor Attack and Countermeasures
