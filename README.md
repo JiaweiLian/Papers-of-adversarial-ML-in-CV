@@ -470,6 +470,10 @@ ICASSP https://readpaper.com/pdf-annotate/note?pdfId=4758154064361947137&noteId=
 
 CVPR https://readpaper.com/pdf-annotate/note?pdfId=4764792002063630337&noteId=1820136110447230464
 
+(2023) Physically Realizable Natural-Looking Clothing Textures Evade Person Detectors via 3D Modeling
+
+CVPR https://readpaper.com/pdf-annotate/note?pdfId=4764793134982889473&noteId=1820140308459637504
+
 ##### 1.2.2.1 Untargeted attack
 
 (2017) Adversarial Examples that Fool Detectors
@@ -900,6 +904,10 @@ IEEE Symposium on Security and Privacy https://readpaper.com/paper/7535206359797
 
 CVPR https://readpaper.com/pdf-annotate/note?pdfId=4762619970400026625&noteId=1820094757025709568
 
+(2023) Enhancing the Self-Universality for Transferable Targeted Attacks
+
+CVPR https://readpaper.com/pdf-annotate/note?pdfId=4764792660355448833&noteId=1820138433420557824
+
 ## 2. Defense
 
 (2018) Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks
@@ -1271,6 +1279,10 @@ CVPR https://readpaper.com/paper/4735741679265398785
 (2023) A comprehensive evaluation framework for deep model robustness
 
 PR https://readpaper.com/paper/3124324543
+
+(2023) Exploring the Relationship between Architectural Design and Adversarially Robust Generalization
+
+CVPR https://readpaper.com/pdf-annotate/note?pdfId=4764794252777488385&noteId=1820145096710895872
 
 ## 5. Remote sensing datasets
 
