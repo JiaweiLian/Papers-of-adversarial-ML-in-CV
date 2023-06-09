@@ -572,6 +572,10 @@ Pattern Recognition https://readpaper.com/paper/3201386741
 
 CVPR https://readpaper.com/paper/4738641443631939585
 
+(2023) Physical-World Optical Adversarial Attacks on 3D Face Recognition
+
+CVPR https://readpaper.com/pdf-annotate/note?pdfId=4764780276995850241&noteId=1820087425030765312
+
 ### 1.4 Aerial image
 
 (2018) Adversarial Examples in Remote Sensing
@@ -864,6 +868,10 @@ ACM SIGSAC Conference on Computer and Communications Security https://readpaper.
 
 IEEE Symposium on Security and Privacy https://readpaper.com/paper/753520635979743232
 
+(2023) SlowLiDAR: Increasing the Latency of LiDAR-Based Detection Using Adversarial Examples
+
+CVPR https://readpaper.com/pdf-annotate/note?pdfId=4762619970400026625&noteId=1820094757025709568
+
 ## 2. Defense
 
 (2018) Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks
@@ -973,6 +981,10 @@ WACV https://readpaper.com/paper/4642609690547601409
 (2023) Jointly Defending DeepFake Manipulation and Adversarial Attack using Decoy Mechanism
 
 TPAMI https://readpaper.com/paper/1687836900214284800
+
+(2023) Adversarial Robustness via Random Projection Filters
+
+CVPR https://readpaper.com/pdf-annotate/note?pdfId=4763754079398658049&noteId=1820092356642307584
 
 ### 2.1 Adversarial training
 
