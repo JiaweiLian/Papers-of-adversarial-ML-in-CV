@@ -1006,6 +1006,10 @@ TPAMI https://readpaper.com/paper/1687836900214284800
 
 CVPR https://readpaper.com/pdf-annotate/note?pdfId=4763754079398658049&noteId=1820092356642307584
 
+(2023) New Adversarial Image Detection Based on Sentiment Analysis
+
+TNNLS https://readpaper.com/pdf-annotate/note?pdfId=4764789552409739265&noteId=1820126077554621952
+
 ### 2.1 Adversarial training
 
 (2018) Towards Deep Learning Models Resistant to Adversarial Attacks
