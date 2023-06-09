@@ -588,6 +588,10 @@ CVPR https://readpaper.com/pdf-annotate/note?pdfId=4764785101850542081&noteId=18
 
 TNNLS https://readpaper.com/pdf-annotate/note?pdfId=4764786421990948865&noteId=1820114175529156096
 
+(2023) CLIP2Protect: Protecting Facial Privacy using Text-Guided Makeup via Adversarial Latent Search
+
+CVPR https://readpaper.com/pdf-annotate/note?pdfId=4760704415808094209&noteId=1820128297332062976
+
 ### 1.4 Aerial image
 
 (2018) Adversarial Examples in Remote Sensing
