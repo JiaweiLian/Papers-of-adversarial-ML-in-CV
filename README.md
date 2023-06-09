@@ -580,6 +580,10 @@ CVPR https://readpaper.com/paper/4738641443631939585
 
 CVPR https://readpaper.com/pdf-annotate/note?pdfId=4764780276995850241&noteId=1820087425030765312
 
+(2023) Evading Forensic Classifiers with Attribute-Conditioned Adversarial Faces
+
+CVPR https://readpaper.com/pdf-annotate/note?pdfId=4764785101850542081&noteId=1820108152509511936
+
 ### 1.4 Aerial image
 
 (2018) Adversarial Examples in Remote Sensing
