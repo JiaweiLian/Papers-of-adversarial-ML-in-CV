@@ -1214,6 +1214,10 @@ ACM Computing Surveys https://readpaper.com/pdf-annotate/note?pdfId=474808794930
 
 arXiv https://readpaper.com/paper/4725592266404544513
 
+(2023) How Deep Learning Sees the World: A Survey on Adversarial Attacks & Defenses
+
+arXiv https://readpaper.com/pdf-annotate/note?pdfId=4762062575282159617&noteId=1827299543895267328
+
 ## 4 Benchmark
 
 (2020) Benchmarking Adversarial Robustness on Image Classification
