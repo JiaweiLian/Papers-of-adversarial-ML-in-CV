@@ -746,6 +746,10 @@ International Conference on Guidance, Navigation and Control https://readpaper.c
 
 ICAI https://readpaper.com/pdf-annotate/note?pdfId=4763234880951681025&noteId=1813908707878973696
 
+(2023) Boosting Adversarial Transferability with Shallow-Feature Attack on SAR Images
+
+Remote Sensing https://readpaper.com/pdf-annotate/note?pdfId=4769164597764554753&noteId=1837626697614913792
+
 ### 1.5 Backdoor attack
 
 (2018) Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks
