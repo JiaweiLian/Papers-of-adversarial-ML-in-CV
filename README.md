@@ -344,6 +344,10 @@ IEEE Transactions on Information Forensics and Security https://readpaper.com/pa
 
 arXiv https://readpaper.com/paper/4639355150620704769
 
+(2023) Robust and Generalized Physical Adversarial Attacks via Meta-GAN
+
+TIFS https://readpaper.com/pdf-annotate/note?pdfId=4770307086034665473&noteId=1842196626519319296
+
 ### 1.2 Object detection
 
 #### 1.2.1 Digital attack
