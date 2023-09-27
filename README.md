@@ -890,7 +890,7 @@ CVPR https://readpaper.com/pdf-annotate/note?pdfId=4759371645890592769&noteId=18
 
 CVPR https://readpaper.com/pdf-annotate/note?pdfId=4764797420252954625&noteId=1820157996141789696
 
-### 1.7 Attack of LiDAR perception
+### 1.7 Attack of LiDAR Perception
 
 (2020) Towards Robust LiDAR-based Perception in Autonomous Driving: General Black-box Adversarial Sensor Attack and Countermeasures
 
@@ -1225,6 +1225,10 @@ arXiv https://readpaper.com/paper/4725592266404544513
 (2023) How Deep Learning Sees the World: A Survey on Adversarial Attacks & Defenses
 
 arXiv https://readpaper.com/pdf-annotate/note?pdfId=4762062575282159617&noteId=1827299543895267328
+
+(2023) Generation and Countermeasures of Adversarial Examples on Vision: A Survey
+
+arXiv https://readpaper.com/pdf-annotate/note?pdfId=4804570783187730433&noteId=1979251775724515328
 
 ## 4 Benchmark
 
