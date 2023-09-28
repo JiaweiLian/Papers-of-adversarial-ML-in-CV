@@ -344,6 +344,10 @@ IEEE Transactions on Information Forensics and Security https://readpaper.com/pa
 
 arXiv https://readpaper.com/paper/4639355150620704769
 
+(2022) Shape Matters: Deformable Patch Attack
+
+ECCV https://readpaper.com/pdf-annotate/note?pdfId=4693673204066025473&noteId=1980717197426705920
+
 (2023) Robust and Generalized Physical Adversarial Attacks via Meta-GAN
 
 TIFS https://readpaper.com/pdf-annotate/note?pdfId=4770307086034665473&noteId=1842196626519319296
@@ -874,9 +878,9 @@ CVPR https://readpaper.com/pdf-annotate/note?pdfId=717537482945941504&noteId=178
 
 arXiv https://readpaper.com/paper/4635753616452370433
 
-(2022) T-SEA: Transfer-based Self-Ensemble Attack on Object Detection
+(2023) T-SEA: Transfer-based Self-Ensemble Attack on Object Detection
 
-arXiv https://readpaper.com/paper/4691159849971499009
+CVPR https://readpaper.com/paper/4691159849971499009
 
 (2023) Boosting Transferability of Physical Attack against Detectors by Redistributing Separable Attention
 
