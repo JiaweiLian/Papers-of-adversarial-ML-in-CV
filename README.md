@@ -78,6 +78,10 @@ TCSVT https://readpaper.com/pdf-annotate/note?pdfId=4741631378420924417&noteId=1
 
 arXiv https://readpaper.com/paper/4734288034644639745
 
+(2023) CAPatch: Physical Adversarial Patch against Image Captioning Systems
+
+USENIX Security Symposium https://readpaper.com/pdf-annotate/note?pdfId=4793687705678512129&noteId=1985365050493086208
+
 ### 1.1 Image classification
 
 (2020) Bias-based Universal Adversarial Patch Attack for Automatic Check-out
