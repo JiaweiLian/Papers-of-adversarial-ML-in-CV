@@ -1242,7 +1242,7 @@ arXiv https://readpaper.com/pdf-annotate/note?pdfId=4762062575282159617&noteId=1
 
 arXiv https://readpaper.com/pdf-annotate/note?pdfId=4804570783187730433&noteId=1979251775724515328
 
-## 4 Benchmark
+## 4 Benchmark and Robustness
 
 (2020) Benchmarking Adversarial Robustness on Image Classification
 
@@ -1315,6 +1315,10 @@ PR https://readpaper.com/paper/3124324543
 (2023) Exploring the Relationship between Architectural Design and Adversarially Robust Generalization
 
 CVPR https://readpaper.com/pdf-annotate/note?pdfId=4764794252777488385&noteId=1820145096710895872
+
+(2023) Explaining Adversarial Robustness of Neural Networks from Clustering Effect Perspective
+
+ICCV https://readpaper.com/pdf-annotate/note?pdfId=1995355318368931584&noteId=1997296800471190528
 
 ## 5. Remote sensing datasets
 
