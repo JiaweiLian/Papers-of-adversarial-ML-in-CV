@@ -1046,6 +1046,10 @@ CVPR https://readpaper.com/pdf-annotate/note?pdfId=4763754079398658049&noteId=18
 
 TNNLS https://readpaper.com/pdf-annotate/note?pdfId=4764789552409739265&noteId=1820126077554621952
 
+(2023) Developing Robust and Lightweight Adversarial Defenders by Enforcing Orthogonality on Attack-Agnostic Denoising Autoencoders
+
+ICCV https://readpaper.com/pdf-annotate/note?pdfId=4809081185032470529&noteId=1997292730738125056
+
 ### 2.1 Adversarial training
 
 (2018) Towards Deep Learning Models Resistant to Adversarial Attacks
