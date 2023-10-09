@@ -1344,6 +1344,10 @@ CVPR https://readpaper.com/pdf-annotate/note?pdfId=4764794252777488385&noteId=18
 
 ICCV https://readpaper.com/pdf-annotate/note?pdfId=1995355318368931584&noteId=1997296800471190528
 
+(2023) Benchmarking Image Classifiers for Physical Out-of-Distribution Examples Detection
+
+ICCVW https://readpaper.com/pdf-annotate/note?pdfId=4809103337551036417&noteId=1997381797303659008
+
 ## 5. Remote sensing datasets
 
 ### RSOD
