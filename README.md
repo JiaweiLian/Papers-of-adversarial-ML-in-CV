@@ -98,6 +98,10 @@ ACM MobiCom https://readpaper.com/pdf-annotate/note?pdfId=4809099710799282177&no
 
 IEEE Symposium on Security and Privacy https://readpaper.com/pdf-annotate/note?pdfId=4809105905182310401&noteId=1997393176047757568
 
+(2023) mantic Adversarial Attacks via Diffusion Models
+
+arXiv https://readpaper.com/pdf-annotate/note?pdfId=4800295397863981057&noteId=1997398400690097920
+
 ### 1.1 Image classification
 
 (2020) Bias-based Universal Adversarial Patch Attack for Automatic Check-out
