@@ -84,15 +84,19 @@ USENIX Security Symposium https://readpaper.com/pdf-annotate/note?pdfId=47936877
 
 (2023) Targeted Adversarial Attacks on Generalizable Neural Radiance Fields
 
-ICCV https://readpaper.com/pdf-annotate/note?pdfId=4809093301521088513&noteId=1997340100872040960
+ICCVW https://readpaper.com/pdf-annotate/note?pdfId=4809093301521088513&noteId=1997340100872040960
 
 (2023) PRAT: PRofiling Adversarial aTtacks
 
-ICCV https://readpaper.com/pdf-annotate/note?pdfId=4809096850728550401&noteId=1997354590279674112
+ICCVW https://readpaper.com/pdf-annotate/note?pdfId=4809096850728550401&noteId=1997354590279674112
 
 (2023) Screen Perturbation: Adversarial Attack and Defense on Under-Screen Camera
 
 ACM MobiCom https://readpaper.com/pdf-annotate/note?pdfId=4809099710799282177&noteId=1997366949534749952
+
+(2023) Adversarial Examples with Specular Highlights
+
+ICCVW https://readpaper.com/pdf-annotate/note?pdfId=4809101043367411713&noteId=1997372658234094080
 
 ### 1.1 Image classification
 
@@ -1064,7 +1068,7 @@ TNNLS https://readpaper.com/pdf-annotate/note?pdfId=4764789552409739265&noteId=1
 
 (2023) Developing Robust and Lightweight Adversarial Defenders by Enforcing Orthogonality on Attack-Agnostic Denoising Autoencoders
 
-ICCV https://readpaper.com/pdf-annotate/note?pdfId=4809081185032470529&noteId=1997292730738125056
+ICCVW https://readpaper.com/pdf-annotate/note?pdfId=4809081185032470529&noteId=1997292730738125056
 
 ### 2.1 Adversarial training
 
