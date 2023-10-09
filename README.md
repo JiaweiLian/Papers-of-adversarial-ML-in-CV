@@ -310,6 +310,10 @@ TIP https://readpaper.com/pdf-annotate/note?pdfId=4746198797420331009&noteId=174
 
 CVPR https://readpaper.com/pdf-annotate/note?pdfId=4763451537791909889&noteId=1820102694075921408
 
+(2023) AdvDiffuser: Natural Adversarial Example Synthesis with Diffusion Models
+
+ICCV https://readpaper.com/pdf-annotate/note?pdfId=4807916642285649921&noteId=1997379676394295040
+
 #### 1.1.2 Physical attack
 
 (2017) Adversarial Patch
