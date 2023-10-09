@@ -82,6 +82,10 @@ arXiv https://readpaper.com/paper/4734288034644639745
 
 USENIX Security Symposium https://readpaper.com/pdf-annotate/note?pdfId=4793687705678512129&noteId=1985365050493086208
 
+(2023) Targeted Adversarial Attacks on Generalizable Neural Radiance Fields
+
+ICCV https://readpaper.com/pdf-annotate/note?pdfId=4809093301521088513&noteId=1997340100872040960
+
 ### 1.1 Image classification
 
 (2020) Bias-based Universal Adversarial Patch Attack for Automatic Check-out
