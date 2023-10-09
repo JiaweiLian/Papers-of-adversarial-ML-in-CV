@@ -94,9 +94,9 @@ ICCVW https://readpaper.com/pdf-annotate/note?pdfId=4809096850728550401&noteId=1
 
 ACM MobiCom https://readpaper.com/pdf-annotate/note?pdfId=4809099710799282177&noteId=1997366949534749952
 
-(2023) Adversarial Examples with Specular Highlights
+(2023) SoK: Explainable Machine Learning in Adversarial Environments
 
-ICCVW https://readpaper.com/pdf-annotate/note?pdfId=4809101043367411713&noteId=1997372658234094080
+IEEE Symposium on Security and Privacy https://readpaper.com/pdf-annotate/note?pdfId=4809105905182310401&noteId=1997393176047757568
 
 ### 1.1 Image classification
 
@@ -119,6 +119,10 @@ NIPS https://readpaper.com/paper/734260074340528128
 (2023) Adv-BDPM: Adversarial attack based on Boundary Diffusion Probability Mode
 
 Neural Networks https://readpaper.com/pdf-annotate/note?pdfId=4809089641911156737&noteId=1997330402835802624
+
+(2023) Adversarial Examples with Specular Highlights
+
+ICCVW https://readpaper.com/pdf-annotate/note?pdfId=4809101043367411713&noteId=1997372658234094080
 
 #### 1.1.1 Digital attack
 
