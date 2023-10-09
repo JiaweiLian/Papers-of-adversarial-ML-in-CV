@@ -100,6 +100,10 @@ CVPR https://readpaper.com/paper/4600182173315637249
 
 NIPS https://readpaper.com/paper/734260074340528128
 
+(2023) Adv-BDPM: Adversarial attack based on Boundary Diffusion Probability Mode
+
+Neural Networks https://readpaper.com/pdf-annotate/note?pdfId=4809089641911156737&noteId=1997330402835802624
+
 #### 1.1.1 Digital attack
 
 (2014) Intriguing properties of neural networks
