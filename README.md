@@ -86,6 +86,10 @@ USENIX Security Symposium https://readpaper.com/pdf-annotate/note?pdfId=47936877
 
 ICCV https://readpaper.com/pdf-annotate/note?pdfId=4809093301521088513&noteId=1997340100872040960
 
+(2023) PRAT: PRofiling Adversarial aTtacks
+
+ICCV https://readpaper.com/pdf-annotate/note?pdfId=4809096850728550401&noteId=1997354590279674112
+
 ### 1.1 Image classification
 
 (2020) Bias-based Universal Adversarial Patch Attack for Automatic Check-out
