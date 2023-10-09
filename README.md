@@ -90,6 +90,10 @@ ICCV https://readpaper.com/pdf-annotate/note?pdfId=4809093301521088513&noteId=19
 
 ICCV https://readpaper.com/pdf-annotate/note?pdfId=4809096850728550401&noteId=1997354590279674112
 
+(2023) Screen Perturbation: Adversarial Attack and Defense on Under-Screen Camera
+
+ACM MobiCom https://readpaper.com/pdf-annotate/note?pdfId=4809099710799282177&noteId=1997366949534749952
+
 ### 1.1 Image classification
 
 (2020) Bias-based Universal Adversarial Patch Attack for Automatic Check-out
