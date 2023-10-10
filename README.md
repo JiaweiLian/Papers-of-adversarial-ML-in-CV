@@ -128,6 +128,10 @@ Neural Networks https://readpaper.com/pdf-annotate/note?pdfId=480908964191115673
 
 ICCVW https://readpaper.com/pdf-annotate/note?pdfId=4809101043367411713&noteId=1997372658234094080
 
+(2023) TRM-UAP: Enhancing the Transferability of Data-Free Universal Adversarial Perturbation via Truncated Ratio Maximization
+
+ICCV https://readpaper.com/pdf-annotate/note?pdfId=4809269360363307009&noteId=1998045732675798785
+
 #### 1.1.1 Digital attack
 
 (2014) Intriguing properties of neural networks
