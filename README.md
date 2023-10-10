@@ -950,6 +950,10 @@ ICCV https://readpaper.com/pdf-annotate/note?pdfId=4809269360363307009&noteId=19
 
 ICCV https://readpaper.com/pdf-annotate/note?pdfId=4806927565524566017&noteId=1998048635738117376
 
+(2023) Enhancing Generalization of Universal Adversarial Perturbation through Gradient Aggregation
+
+ICCV https://readpaper.com/pdf-annotate/note?pdfId=4809347162768932865&noteId=1998356075788478720
+
 ### 1.7 Attack of LiDAR Perception
 
 (2020) Towards Robust LiDAR-based Perception in Autonomous Driving: General Black-box Adversarial Sensor Attack and Countermeasures
