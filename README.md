@@ -978,6 +978,12 @@ CVPR https://readpaper.com/pdf-annotate/note?pdfId=4764792660355448833&noteId=18
 
 ICCV https://readpaper.com/pdf-annotate/note?pdfId=4809273577689841665&noteId=1998062207801218304
 
+### 1.9 Video
+
+(2023) Breaking Temporal Consistency: Generating Video Universal Adversarial Perturbations Using Image Models
+
+ICCV https://readpaper.com/pdf-annotate/note?pdfId=4809280235967086593&noteId=1998088990143286272
+
 ## 2. Defense
 
 (2018) Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks
