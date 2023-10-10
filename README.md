@@ -1168,6 +1168,10 @@ TIP https://readpaper.com/paper/1689275432635294720
 
 TNNLS https://readpaper.com/pdf-annotate/note?pdfId=4746198022191316993&noteId=1745759997348886272
 
+(2023) Advancing Example Exploitation Can Alleviate Critical Challenges in Adversarial Training
+
+ICCV https://readpaper.com/pdf-annotate/note?pdfId=4807200213550759937&noteId=1998119619467676672
+
 ## 3. Review
 
 (2018) Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey
