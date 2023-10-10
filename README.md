@@ -128,10 +128,6 @@ Neural Networks https://readpaper.com/pdf-annotate/note?pdfId=480908964191115673
 
 ICCVW https://readpaper.com/pdf-annotate/note?pdfId=4809101043367411713&noteId=1997372658234094080
 
-(2023) TRM-UAP: Enhancing the Transferability of Data-Free Universal Adversarial Perturbation via Truncated Ratio Maximization
-
-ICCV https://readpaper.com/pdf-annotate/note?pdfId=4809269360363307009&noteId=1998045732675798785
-
 #### 1.1.1 Digital attack
 
 (2014) Intriguing properties of neural networks
@@ -933,6 +929,14 @@ CVPR https://readpaper.com/pdf-annotate/note?pdfId=4759371645890592769&noteId=18
 (2023) StyLess: Boosting the Transferability of Adversarial Examples
 
 CVPR https://readpaper.com/pdf-annotate/note?pdfId=4764797420252954625&noteId=1820157996141789696
+
+(2023) TRM-UAP: Enhancing the Transferability of Data-Free Universal Adversarial Perturbation via Truncated Ratio Maximization
+
+ICCV https://readpaper.com/pdf-annotate/note?pdfId=4809269360363307009&noteId=1998045732675798785
+
+(2023) Transferable Adversarial Attack for Both Vision Transformers and Convolutional Networks via Momentum Integrated Gradients
+
+ICCV https://readpaper.com/pdf-annotate/note?pdfId=4806927565524566017&noteId=1998048635738117376
 
 ### 1.7 Attack of LiDAR Perception
 
