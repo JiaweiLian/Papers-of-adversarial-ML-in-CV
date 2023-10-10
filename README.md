@@ -996,6 +996,12 @@ ICCV https://readpaper.com/pdf-annotate/note?pdfId=4809273577689841665&noteId=19
 
 ICCV https://readpaper.com/pdf-annotate/note?pdfId=4809280235967086593&noteId=1998088990143286272
 
+### 1.11 NLP
+
+(2023) Universal and Transferable Adversarial Attacks on Aligned Language Models
+
+arXiv https://readpaper.com/pdf-annotate/note?pdfId=4782476921678069761&noteId=1998359070957913856
+
 ## 2. Defense
 
 (2018) Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks
