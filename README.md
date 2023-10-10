@@ -1302,6 +1302,10 @@ arXiv https://readpaper.com/pdf-annotate/note?pdfId=4762062575282159617&noteId=1
 
 arXiv https://readpaper.com/pdf-annotate/note?pdfId=4804570783187730433&noteId=1979251775724515328
 
+(2023) A reading survey on adversarial machine learning: Adversarial attacks and their understanding
+
+arXiv https://readpaper.com/pdf-annotate/note?pdfId=4786570213009129473&noteId=1998343054705797632
+
 ## 4 Benchmark and Robustness
 
 (2020) Benchmarking Adversarial Robustness on Image Classification
