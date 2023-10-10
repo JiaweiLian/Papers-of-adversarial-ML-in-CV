@@ -326,6 +326,10 @@ ICCV https://readpaper.com/pdf-annotate/note?pdfId=4807916642285649921&noteId=19
 
 arXiv https://readpaper.com/pdf-annotate/note?pdfId=4805844126893342721&noteId=1998347010622608640
 
+(2023) Cross-shaped Adversarial Patch Attack
+
+TCSVT https://readpaper.com/pdf-annotate/note?pdfId=4809346210217328641&noteId=1998352821880164096
+
 #### 1.1.2 Physical attack
 
 (2017) Adversarial Patch
