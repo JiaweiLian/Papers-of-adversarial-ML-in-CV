@@ -518,6 +518,10 @@ CVPR https://readpaper.com/pdf-annotate/note?pdfId=4764792002063630337&noteId=18
 
 CVPR https://readpaper.com/pdf-annotate/note?pdfId=4764793134982889473&noteId=1820140308459637504
 
+(2023) RPAU: Fooling the Eyes of UAVs via Physical Adversarial Patches
+
+ICCV https://readpaper.com/pdf-annotate/note?pdfId=4809278383754051585&noteId=1998081436839422464
+
 ##### 1.2.2.1 Untargeted attack
 
 (2017) Adversarial Examples that Fool Detectors
