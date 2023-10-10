@@ -968,6 +968,12 @@ CVPR https://readpaper.com/pdf-annotate/note?pdfId=4762619970400026625&noteId=18
 
 CVPR https://readpaper.com/pdf-annotate/note?pdfId=4764792660355448833&noteId=1820138433420557824
 
+### 1.8 Object Tracking
+
+(2023) F&F Attack: Adversarial Attack against Multiple Object Trackers by Inducing False Negatives and False Positives
+
+ICCV https://readpaper.com/pdf-annotate/note?pdfId=4809273577689841665&noteId=1998062207801218304
+
 ## 2. Defense
 
 (2018) Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks
