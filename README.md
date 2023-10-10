@@ -322,6 +322,10 @@ CVPR https://readpaper.com/pdf-annotate/note?pdfId=4763451537791909889&noteId=18
 
 ICCV https://readpaper.com/pdf-annotate/note?pdfId=4807916642285649921&noteId=1997379676394295040
 
+(2023) AdvDiff: Generating Unrestricted Adversarial Examples using Diffusion Models
+
+arXiv https://readpaper.com/pdf-annotate/note?pdfId=4805844126893342721&noteId=1998347010622608640
+
 #### 1.1.2 Physical attack
 
 (2017) Adversarial Patch
