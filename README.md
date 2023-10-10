@@ -1406,6 +1406,10 @@ ICCV https://readpaper.com/pdf-annotate/note?pdfId=1995355318368931584&noteId=19
 
 ICCVW https://readpaper.com/pdf-annotate/note?pdfId=4809103337551036417&noteId=1997381797303659008
 
+(2023) Exploring Robust Features for Improving Adversarial Robustness
+
+arXiv https://readpaper.com/pdf-annotate/note?pdfId=4799209886445469697&noteId=1998361336603322624
+
 ## 5. Remote sensing datasets
 
 ### RSOD
