@@ -334,7 +334,7 @@ TCSVT https://readpaper.com/pdf-annotate/note?pdfId=4809346210217328641&noteId=1
 
 (2017) Adversarial Patch
 
-arXiv https://readpaper.com/paper/2804566015
+NIPS https://readpaper.com/paper/2804566015
 
 (2018) Adversarial examples in the physical world
 
