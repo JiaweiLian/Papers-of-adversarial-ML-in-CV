@@ -1324,6 +1324,10 @@ arXiv https://readpaper.com/pdf-annotate/note?pdfId=4804570783187730433&noteId=1
 
 arXiv https://readpaper.com/pdf-annotate/note?pdfId=4786570213009129473&noteId=1998343054705797632
 
+(2023) Adversarial Examples in the Physical World: A Survey
+
+arXiv https://readpaper.com/pdf-annotate/note?pdfId=4821685154820915201&noteId=2050227676409594880
+
 ## 4 Benchmark and Robustness
 
 (2020) Benchmarking Adversarial Robustness on Image Classification
@@ -1409,6 +1413,10 @@ ICCVW https://readpaper.com/pdf-annotate/note?pdfId=4809103337551036417&noteId=1
 (2023) Exploring Robust Features for Improving Adversarial Robustness
 
 arXiv https://readpaper.com/pdf-annotate/note?pdfId=4799209886445469697&noteId=1998361336603322624
+
+(2023) An introduction to adversarially robust deep learning
+
+TPAMI https://readpaper.com/pdf-annotate/note?pdfId=2045098710502658304&noteId=2050223901805412352
 
 ## 5. Remote sensing datasets
 
