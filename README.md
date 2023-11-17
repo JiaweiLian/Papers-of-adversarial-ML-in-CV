@@ -330,6 +330,10 @@ arXiv https://readpaper.com/pdf-annotate/note?pdfId=4805844126893342721&noteId=1
 
 TCSVT https://readpaper.com/pdf-annotate/note?pdfId=4809346210217328641&noteId=1998352821880164096
 
+(2023) CamoPatch: An Evolutionary Strategy for Generating Camouflaged Adversarial Patches
+
+NIPS https://readpaper.com/pdf-annotate/note?pdfId=2053934557406644480&noteId=2053936045831001088
+
 #### 1.1.2 Physical attack
 
 (2017) Adversarial Patch
