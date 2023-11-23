@@ -1006,6 +1006,12 @@ ICCV https://readpaper.com/pdf-annotate/note?pdfId=4809280235967086593&noteId=19
 
 arXiv https://readpaper.com/pdf-annotate/note?pdfId=4782476921678069761&noteId=1998359070957913856
 
+### 1.12 Autonomous Driving
+
+(2021) Invisible for both Camera and LiDAR: Security of Multi-Sensor Fusion based Perception in Autonomous Driving Under Physical-World Attacks
+
+IEEE Symposium on Security and Privacy https://readpaper.com/pdf-annotate/note?pdfId=2061832110705953024&noteId=2061833116030153984
+
 ## 2. Defense
 
 (2018) Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks
@@ -1331,6 +1337,10 @@ arXiv https://readpaper.com/pdf-annotate/note?pdfId=4786570213009129473&noteId=1
 (2023) Adversarial Examples in the Physical World: A Survey
 
 arXiv https://readpaper.com/pdf-annotate/note?pdfId=4821685154820915201&noteId=2050227676409594880
+
+(2023) Beyond Boundaries: A Comprehensive Survey of Transferable Attacks on AI Systems
+
+arXiv https://readpaper.com/pdf-annotate/note?pdfId=4824740560757587969&noteId=2061834905270135040
 
 ## 4 Benchmark and Robustness
 
