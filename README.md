@@ -1012,6 +1012,10 @@ arXiv https://readpaper.com/pdf-annotate/note?pdfId=4782476921678069761&noteId=1
 
 IEEE Symposium on Security and Privacy https://readpaper.com/pdf-annotate/note?pdfId=2061832110705953024&noteId=2061833116030153984
 
+(2022) Evaluating Adversarial Attacks on Driving Safety in Vision-Based Autonomous Vehicles
+
+IEEE Internet of Things Journal https://readpaper.com/pdf-annotate/note?pdfId=2061858537505476864&noteId=2061855606324635904
+
 ## 2. Defense
 
 (2018) Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks
@@ -1225,6 +1229,10 @@ ACM Transactions on Privacy and Security https://readpaper.com/paper/2932026309
 (2020) Adversarial Examples on Object Recognition: A Comprehensive Survey
 
 ACM Computing Surveys https://readpaper.com/pdf-annotate/note?pdfId=4748084701399351297&noteId=1753306720387847168
+
+(2020) Toward robust sensing for autonomous vehicles: An adversarial perspective
+
+IEEE Signal Processing Magazine https://readpaper.com/pdf-annotate/note?pdfId=2061853834784723200&noteId=2061851530132236544
 
 (2021) Advances in adversarial attacks and defenses in computer vision: A survey
 
