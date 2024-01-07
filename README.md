@@ -98,9 +98,13 @@ ACM MobiCom https://readpaper.com/pdf-annotate/note?pdfId=4809099710799282177&no
 
 IEEE Symposium on Security and Privacy https://readpaper.com/pdf-annotate/note?pdfId=4809105905182310401&noteId=1997393176047757568
 
-(2023) mantic Adversarial Attacks via Diffusion Models
+(2023) Semantic Adversarial Attacks via Diffusion Models
 
 arXiv https://readpaper.com/pdf-annotate/note?pdfId=4800295397863981057&noteId=1997398400690097920
+
+(2023) Subtle adversarial image manipulations influence both human and machine perception
+
+Nature Communications https://readpaper.com/pdf-annotate/note?pdfId=2111284322578032128&noteId=2127261372044380160
 
 ### 1.1 Image classification
 
