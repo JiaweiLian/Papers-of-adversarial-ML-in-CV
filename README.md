@@ -10,6 +10,10 @@ AAAI https://readpaper.com/paper/2755655609
 
 AAAI https://readpaper.com/paper/2807455131
 
+(2019) Humans can decipher adversarial images
+
+Nature Communications https://readpaper.com/pdf-annotate/note?pdfId=2127283809104520704&noteId=2127283280320169216
+
 (2020) Open-sourced Dataset Protection via Backdoor Watermarking.
 
 NIPS https://readpaper.com/paper/3093403688
