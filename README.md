@@ -975,6 +975,10 @@ ICCV https://readpaper.com/pdf-annotate/note?pdfId=4806927565524566017&noteId=19
 
 ICCV https://readpaper.com/pdf-annotate/note?pdfId=4809347162768932865&noteId=1998356075788478720
 
+(2023) Improving Transferability of Universal Adversarial Perturbation With Feature Disruption
+
+TIP https://readpaper.com/pdf-annotate/note?pdfId=2146625758080886272&noteId=2146626695591727104
+
 ### 1.7 Attack of LiDAR Perception
 
 (2020) Towards Robust LiDAR-based Perception in Autonomous Driving: General Black-box Adversarial Sensor Attack and Countermeasures
