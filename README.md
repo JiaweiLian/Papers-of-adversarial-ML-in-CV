@@ -542,6 +542,10 @@ CVPR https://readpaper.com/pdf-annotate/note?pdfId=4764793134982889473&noteId=18
 
 ICCV https://readpaper.com/pdf-annotate/note?pdfId=4809278383754051585&noteId=1998081436839422464
 
+(2023) MVPatch: More Vivid Patch for Adversarial Camouflaged Attacks on Object Detectors in the Physical World
+
+arXiv https://readpaper.com/pdf-annotate/note?pdfId=2144556553919767296&noteId=2146595925405766400
+
 ##### 1.2.2.1 Untargeted attack
 
 (2017) Adversarial Examples that Fool Detectors
