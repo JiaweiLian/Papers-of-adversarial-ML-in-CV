@@ -110,6 +110,11 @@ arXiv https://readpaper.com/pdf-annotate/note?pdfId=4800295397863981057&noteId=1
 
 Nature Communications https://readpaper.com/pdf-annotate/note?pdfId=2111284322578032128&noteId=2127261372044380160
 
+(2023) Adaptive Cross-Modal Transferable Adversarial
+Attacks from Images to Videos
+
+TPAMI https://readpaper.com/pdf-annotate/note?pdfId=2146618291414459904
+
 ### 1.1 Image classification
 
 (2020) Bias-based Universal Adversarial Patch Attack for Automatic Check-out
