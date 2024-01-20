@@ -540,7 +540,7 @@ CVPR https://readpaper.com/pdf-annotate/note?pdfId=4764793134982889473&noteId=18
 
 (2023) RPAU: Fooling the Eyes of UAVs via Physical Adversarial Patches
 
-ICCV https://readpaper.com/pdf-annotate/note?pdfId=4809278383754051585&noteId=1998081436839422464
+IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS https://readpaper.com/pdf-annotate/note?pdfId=4809278383754051585&noteId=1998081436839422464
 
 (2023) MVPatch: More Vivid Patch for Adversarial Camouflaged Attacks on Object Detectors in the Physical World
 
