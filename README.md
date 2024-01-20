@@ -1212,6 +1212,10 @@ TNNLS https://readpaper.com/pdf-annotate/note?pdfId=4746198022191316993&noteId=1
 
 ICCV https://readpaper.com/pdf-annotate/note?pdfId=4807200213550759937&noteId=1998119619467676672
 
+(2023) Variational Adversarial Defense: A Bayes Perspective for Adversarial Training
+
+TPAMI https://readpaper.com/pdf-annotate/note?pdfId=2146556171138343680
+
 ## 3. Review
 
 (2018) Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey
