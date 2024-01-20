@@ -1375,6 +1375,10 @@ arXiv https://readpaper.com/pdf-annotate/note?pdfId=4821685154820915201&noteId=2
 
 arXiv https://readpaper.com/pdf-annotate/note?pdfId=4824740560757587969&noteId=2061834905270135040
 
+(2023) A Comprehensive Study of the Robustness for LiDAR-Based 3D Object Detectors Against Adversarial Attacks
+
+IJCV https://readpaper.com/pdf-annotate/note?pdfId=2080727922588340480&noteId=2146644954150148096
+
 ## 4 Benchmark and Robustness
 
 (2020) Benchmarking Adversarial Robustness on Image Classification
