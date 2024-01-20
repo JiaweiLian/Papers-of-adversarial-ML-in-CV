@@ -1469,6 +1469,10 @@ arXiv https://readpaper.com/pdf-annotate/note?pdfId=4799209886445469697&noteId=1
 
 TPAMI https://readpaper.com/pdf-annotate/note?pdfId=2045098710502658304&noteId=2050223901805412352
 
+(2023) Improving Adversarial Robustness Against Universal Patch Attacks Through Feature Norm Suppressing
+
+TNNLS https://readpaper.com/pdf-annotate/note?pdfId=2146649721398076160&noteId=2146649979146309632
+
 ## 5. Remote sensing datasets
 
 ### RSOD
