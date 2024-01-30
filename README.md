@@ -1568,3 +1568,7 @@ https://readpaper.com/pdf-annotate/note?pdfId=699582431202119680&noteId=69958285
 (2023) Adversarial Machine Learning
 
 https://readpaper.com/pdf-annotate/note?pdfId=4732071806597332993&noteId=1689255378594931200
+
+（2023）NIST Trustworthy and Responsible AI Adversarial Machine Learning
+
+https://readpaper.com/pdf-annotate/note?pdfId=2124385342271234816&noteId=2161050545547306752
