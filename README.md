@@ -979,6 +979,10 @@ ICCV https://readpaper.com/pdf-annotate/note?pdfId=4809347162768932865&noteId=19
 
 TIP https://readpaper.com/pdf-annotate/note?pdfId=2146625758080886272&noteId=2146626695591727104
 
+(2023) Rethinking the Backward Propagation for Adversarial Transferability
+
+NIPS https://readpaper.com/pdf-annotate/note?pdfId=2139418339336611328&noteId=2191276668474887168
+
 ### 1.7 Attack of LiDAR Perception
 
 (2020) Towards Robust LiDAR-based Perception in Autonomous Driving: General Black-box Adversarial Sensor Attack and Countermeasures
