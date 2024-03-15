@@ -612,6 +612,10 @@ USENIX Security Symposium https://readpaper.com/paper/4725592396981616641
 
 ICCV https://readpaper.com/pdf-annotate/note?pdfId=4811712251576713217&noteId=2225693531232860416
 
+(2023) Does Physical Adversarial Example Really Matter to Autonomous Driving? Towards System-Level Effect of Adversarial Object Evasion Attack
+
+ICCV https://readpaper.com/pdf-annotate/note?pdfId=4811728051834454017&noteId=2225726543525652224
+
 ##### 1.2.2.2 Targeted attack
 
 (2018) Physical Adversarial Examples for Object Detectors
