@@ -562,6 +562,10 @@ arXiv https://readpaper.com/pdf-annotate/note?pdfId=2144556553919767296&noteId=2
 
 arXiv https://readpaper.com/pdf-annotate/note?pdfId=2204501707395261184&noteId=2225709619526040064
 
+(2024) Flexible Physical Camouflage Generation Based on a Differential Approach
+
+arXiv https://readpaper.com/pdf-annotate/note?pdfId=2203990497855890176&noteId=2225743117922407424
+
 ##### 1.2.2.1 Untargeted attack
 
 (2017) Adversarial Examples that Fool Detectors
