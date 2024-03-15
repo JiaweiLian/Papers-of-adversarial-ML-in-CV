@@ -1414,6 +1414,10 @@ arXiv https://readpaper.com/pdf-annotate/note?pdfId=4824740560757587969&noteId=2
 
 IJCV https://readpaper.com/pdf-annotate/note?pdfId=2080727922588340480&noteId=2146644954150148096
 
+(2024) A Survey of Robustness and Safety of 2D and 3D Deep Learning Models against Adversarial Attacks
+
+ACM Computing Surveys https://readpaper.com/pdf-annotate/note?pdfId=2225936194721072640&noteId=2225936481745434880
+
 ## 4 Benchmark and Robustness
 
 (2020) Benchmarking Adversarial Robustness on Image Classification
