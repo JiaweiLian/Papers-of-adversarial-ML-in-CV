@@ -413,6 +413,10 @@ ECCV https://readpaper.com/pdf-annotate/note?pdfId=4693673204066025473&noteId=19
 
 TIFS https://readpaper.com/pdf-annotate/note?pdfId=4770307086034665473&noteId=1842196626519319296
 
+(2023) Towards Transferable Targeted 3D Adversarial Attack in the Physical World
+
+arXiv https://readpaper.com/pdf-annotate/note?pdfId=4861125505880948737&noteId=2225693651323922432
+
 ### 1.2 Object detection
 
 #### 1.2.1 Digital attack
