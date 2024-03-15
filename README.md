@@ -114,6 +114,14 @@ Nature Communications https://readpaper.com/pdf-annotate/note?pdfId=211128432257
 
 TPAMI https://readpaper.com/pdf-annotate/note?pdfId=2146618291414459904
 
+(2023) Django: Detecting Trojans in Object Detection Models via Gaussian Focus Calibration
+
+NIPS https://readpaper.com/pdf-annotate/note?pdfId=2105460043307524864&noteId=2225873865970624256
+
+(2024) Fooling Decision-Based Black-Box Automotive Vision Perception Systems in Physical World
+
+IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS https://readpaper.com/pdf-annotate/note?pdfId=2225875452475040512&noteId=2225876159466633216
+
 (2024) WIP: Adversarial Object-Evasion Attack Detection in Autonomous Driving Contexts: A Simulation-Based Investigation Using YOLO
 
 Symposium on Vehicles Security and Privacy https://readpaper.com/pdf-annotate/note?pdfId=2225719388009973248&noteId=2225719521724341760
