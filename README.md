@@ -592,6 +592,10 @@ ICLR https://readpaper.com/pdf-annotate/note?pdfId=4517595866721837057&noteId=69
 
 ECCV https://readpaper.com/paper/2982663445
 
+(2021) Legitimate Adversarial Patches
+
+ACM MM https://readpaper.com/pdf-annotate/note?pdfId=2226050774298314240&noteId=2226051560377743616
+
 (2021) The Translucent Patch: A Physical and Universal Attack on Object Detectors
 
 CVPR https://readpaper.com/pdf-annotate/note?pdfId=4665354809012928513&noteId=1748100095298059520
