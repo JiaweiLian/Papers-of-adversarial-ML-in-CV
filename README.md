@@ -110,10 +110,13 @@ arXiv https://readpaper.com/pdf-annotate/note?pdfId=4800295397863981057&noteId=1
 
 Nature Communications https://readpaper.com/pdf-annotate/note?pdfId=2111284322578032128&noteId=2127261372044380160
 
-(2023) Adaptive Cross-Modal Transferable Adversarial
-Attacks from Images to Videos
+(2023) Adaptive Cross-Modal Transferable Adversarial Attacks from Images to Videos
 
 TPAMI https://readpaper.com/pdf-annotate/note?pdfId=2146618291414459904
+
+(2024) WIP: Adversarial Object-Evasion Attack Detection in Autonomous Driving Contexts: A Simulation-Based Investigation Using YOLO
+
+Symposium on Vehicles Security and Privacy https://readpaper.com/pdf-annotate/note?pdfId=2225719388009973248&noteId=2225719521724341760
 
 ### 1.1 Image classification
 
