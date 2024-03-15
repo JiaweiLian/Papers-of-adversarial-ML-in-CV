@@ -551,6 +551,10 @@ IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS https://readpaper.com/pd
 
 arXiv https://readpaper.com/pdf-annotate/note?pdfId=2144556553919767296&noteId=2146595925405766400
 
+(2024) RAUCA: A Novel Physical Adversarial Attack on Vehicle Detectors via Robust and Accurate Camouflage Generation
+
+arXiv https://readpaper.com/pdf-annotate/note?pdfId=2204501707395261184&noteId=2225709619526040064
+
 ##### 1.2.2.1 Untargeted attack
 
 (2017) Adversarial Examples that Fool Detectors
@@ -595,7 +599,11 @@ CVPR https://readpaper.com/paper/4603847963235590145
 
 (2023) X-Adv: Physical Adversarial Object Attacks against X-ray Prohibited Item Detection
 
-arXiv https://readpaper.com/paper/4725592396981616641
+USENIX Security Symposium https://readpaper.com/paper/4725592396981616641
+
+(2023) ACTIVE: Towards Highly Transferable 3D Physical Camouflage for Universal and Robust Vehicle Evasion
+
+ICCV https://readpaper.com/pdf-annotate/note?pdfId=4811712251576713217&noteId=2225693531232860416
 
 ##### 1.2.2.2 Targeted attack
 
