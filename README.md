@@ -632,6 +632,10 @@ ICCV https://readpaper.com/pdf-annotate/note?pdfId=4811712251576713217&noteId=22
 
 ICCV https://readpaper.com/pdf-annotate/note?pdfId=4811728051834454017&noteId=2225726543525652224
 
+(2024) DAP: A Dynamic Adversarial Patch for Evading Person Detectors
+
+CVPR https://arxiv.org/pdf/2305.11618.pdf
+
 ##### 1.2.2.2 Targeted attack
 
 (2018) Physical Adversarial Examples for Object Detectors
