@@ -157,7 +157,7 @@ ICCVW https://readpaper.com/pdf-annotate/note?pdfId=4809101043367411713&noteId=1
 (2014) Intriguing properties of neural networks
 
 ICLR https://readpaper.com/paper/1673923490
- 
+
 (2015) Explaining and Harnessing Adversarial Examples
 
 ICLR https://readpaper.com/paper/1945616565
@@ -482,35 +482,35 @@ CVPR https://readpaper.com/pdf-annotate/note?pdfId=696984706002096128&noteId=174
 
 #### 1.2.2 Physical attack
 
-(2019) ShapeShifter: Robust Physical Adversarial Attack on Faster R-CNN Object Detector
+(2019) ShapeShifter: Robust Physical Adversarial Attack on Faster R-CNN Object Detector (Stop sign)
 
 ECML https://readpaper.com/paper/2890883923
 
-(2019) advpattern: Physical-world attacks on deep person re-identification via adversarially transformable patterns
+(2019) advpattern: Physical-world attacks on deep person re-identification via adversarially transformable patterns (Person re-identification)
 
 ICCV https://readpaper.com/pdf-annotate/note?pdfId=4546284422470197249&noteId=683289918317404160
 
-(2020) Universal Physical Camouflage Attacks on Object Detectors
+(2020) Universal Physical Camouflage Attacks on Object Detectors (Person)
 
 CVPR https://readpaper.com/paper/3017485054
 
-(2021) Naturalistic Physical Adversarial Patch for Object Detectors
+(2021) Naturalistic Physical Adversarial Patch for Object Detectors (Person)
 
 ICCV https://readpaper.com/paper/3204155906
 
-(2021) Towards Universal Physical Attacks on Single Object Tracking
+(2021) Towards Universal Physical Attacks on Single Object Tracking (Person)
 
 AAAI https://readpaper.com/paper/3174820339
 
-(2022) Enhancing Real-World Adversarial Patches through 3D Modeling of Complex Target Scenes
+(2022) Enhancing Real-World Adversarial Patches through 3D Modeling of Complex Target Scenes (Cup)
 
 Neurocomputing https://readpaper.com/pdf-annotate/note?pdfId=4746747759395078145&noteId=1747958818791308288
 
-(2022) Physical Attack on Monocular Depth Estimation in Autonomous Driving with Optimal Adversarial Patches
+(2022) Physical Attack on Monocular Depth Estimation in Autonomous Driving with Optimal Adversarial Patches (Car)
 
 ECCV https://readpaper.com/pdf-annotate/note?pdfId=704620294024081408&noteId=704620334182600704
 
-(2022) FCA: Learning a 3D Full-coverage Vehicle Camouflage for Multi-view Physical Adversarial Attack
+(2022) FCA: Learning a 3D Full-coverage Vehicle Camouflage for Multi-view Physical Adversarial Attack (Car)
 
 AAAI https://readpaper.com/pdf-annotate/note?pdfId=4746763000870862849&noteId=719858182093688832
 
@@ -1232,7 +1232,7 @@ ICCV https://readpaper.com/paper/3149460816
 
 ICCV https://readpaper.com/paper/3129495647
 
-(2022) LAS-AT: Adversarial Training with Learnable Attack Strategy 
+(2022) LAS-AT: Adversarial Training with Learnable Attack Strategy
 
 CVPR https://arxiv.org/pdf/2203.06616.pdf
 
@@ -1306,7 +1306,7 @@ IEEE Signal Processing Magazine https://readpaper.com/pdf-annotate/note?pdfId=20
 
 IEEE Access https://readpaper.com/paper/3211999566
 
-(2021) Adversarial Machine Learning in Image Classification: A Survey Toward the Defender’s Perspective 
+(2021) Adversarial Machine Learning in Image Classification: A Survey Toward the Defender’s Perspective
 
 ACM Computing Surveys https://readpaper.com/pdf-annotate/note?pdfId=4748062300921921537&noteId=1753287671905899520
 
