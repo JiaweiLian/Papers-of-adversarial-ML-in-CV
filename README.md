@@ -1426,6 +1426,10 @@ IJCV https://readpaper.com/pdf-annotate/note?pdfId=2080727922588340480&noteId=21
 
 ACM Computing Surveys https://readpaper.com/pdf-annotate/note?pdfId=2225936194721072640&noteId=2225936481745434880
 
+(2024) Physical Adversarial Attack Meets Computer Vision: A Decade Survey
+
+TPAMI https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10602786
+
 ## 4 Benchmark and Robustness
 
 (2020) Benchmarking Adversarial Robustness on Image Classification
